@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "5f79712bf07df66552067bbb"
+  },
+  "id_type": "Driving License",
+  "id_number": "855885",
+  "id_photo": "https://dev.jiweman.com/uploads/user_data/1601794339650_16017943260702675612431908559324.jpg",
+  "selfie": "https://dev.jiweman.com/uploads/user_data/1601794314272_selfie_5edc89f8cf83a1307ad43031.jpeg",
+  "status": "verified",
+  "createdAt": {
+    "$date": "2020-10-04T06:52:27.870Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-04T06:58:23.513Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609631cfcac0ae21fa3053f3"
+  },
+  "id_type": "Driving License",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "id_number": "123456",
+  "id_photo": "https://dev.jiweman.com/uploads/user_data/1620455871713_2020-12-20.jpg",
+  "selfie": "https://dev.jiweman.com/uploads/user_data/1620455883202_selfie_5ed7665fc6a172520171b8bd.jpeg",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2021-05-08T06:38:07.240Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-08T06:38:07.240Z"
+  },
+  "__v": 0
+}]

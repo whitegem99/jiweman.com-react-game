@@ -1,0 +1,337 @@
+Model { collection_data }
+Socket initialised
+(node:20993) DeprecationWarning: current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+Server is up and running on port number 8080
+[ '15', '08', '1996' ]
+age:23
+docs []
+{ _id: 5ed764c1c6a172520171b8aa,
+  registrationStatus: 'pending',
+  userName: 'ruchikaJiweman',
+  fullName: 'Ruchika Pawar',
+  email: 'ruchika.pawar@jiweman.com',
+  password:
+   '$2a$10$vOyUcuxHalE0ciuChmueYeIPpJ4N2nudQ//hugj5ZNT.vLMrHgOY.',
+  dateOfBirth: 1996-08-15T00:00:00.000Z,
+  gender: 'female',
+  roleId: 5de491657f36f0b5ccdc3858,
+  accountType: 'normal',
+  age: 23,
+  createdAt: 2020-06-03T08:52:17.491Z,
+  updatedAt: 2020-06-03T08:52:17.491Z,
+  __v: 0 }
+narrow
+inside sendEmailVerificationMail
+http://134.122.126.162:8080/api/auth/activateAccount?email=ruchika.pawar@jiweman.com
+[0mPOST /api/auth/registerWithJieman [32m200 [0m234.650 ms - 567[0m
+(node:20993) DeprecationWarning: Mongoose: `findOneAndUpdate()` and `findOneAndDelete()` without the `useFindAndModify` option set to false are deprecated. See: https://mongoosejs.com/docs/deprecations.html#findandmodify
+{ _id: 5ed764c1c6a172520171b8aa,
+  registrationStatus: 'pending',
+  userName: 'ruchikaJiweman',
+  fullName: 'Ruchika Pawar',
+  email: 'ruchika.pawar@jiweman.com',
+  dateOfBirth: 1996-08-15T00:00:00.000Z,
+  gender: 'female',
+  roleId: 5de491657f36f0b5ccdc3858,
+  accountType: 'normal',
+  age: 23,
+  createdAt: 2020-06-03T08:52:17.491Z,
+  updatedAt: 2020-06-03T08:52:17.491Z,
+  __v: 0 }
+[0mGET /api/auth/activateAccount?email=ruchika.pawar@jiweman.com [36m304 [0m14.254 ms - -[0m
+[0mPOST /api/auth/loginwithJiweman [32m200 [0m154.122 ms - 693[0m
+[0mGET /hudson [33m404 [0m10.793 ms - 26[0m
+[0mGET / [36m304 [0m3.752 ms - -[0m
+[0mGET /login [36m304 [0m2.575 ms - -[0m
+[0mGET /login/facebook [36m302 [0m2.667 ms - 0[0m
+[0mPOST /api/auth/loginwithJiweman [32m200 [0m131.623 ms - 700[0m
+[0mPOST /api/auth/loginwithJiweman [32m200 [0m150.469 ms - 700[0m
+inside createNewMatch
+**************************
+ new match data data data
+{ matchStatus: 'active',
+  winnerName: '',
+  playerOneGoal: '0',
+  playerTwoGoal: '0',
+  _id: 5ed765b0c6a172520171b8b6,
+  playerOneUserName: 'FastSkill',
+  playerTwoUserName: 'FastSkill',
+  roomName: 'Nairobi onenone 1',
+  isRematch: false,
+  matchType: 'oneonone',
+  leagueId: '',
+  createdAt: 2020-06-03T08:56:16.929Z,
+  updatedAt: 2020-06-03T08:56:16.929Z,
+  __v: 0 }
+[0mPOST /api/createNewMatch [32m200 [0m16.036 ms - 453[0m
+[0mPOST /api/auth/loginwithJiweman [32m200 [0m129.088 ms - 876[0m
+[0mPOST /api/auth/loginwithJiweman [32m200 [0m371.349 ms - 876[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [33m400 [0m8.581 ms - 53[0m
+**************************
+[0mPOST /api/PlayWithFriend/searchAllPlayers [32m200 [0m241.287 ms - 1372[0m
+**************************
+{ _id: 5ed765f4c6a172520171b8b7,
+  FriendUserName: 'rus28',
+  loggedInUserName: 'cletrich',
+  email: 'mendez.russel28@gmail.com',
+  userId: '5eb2855653c0ac049411a4e8',
+  deviceToken:
+   'eXKnLgrLoTw:APA91bHUyavmoqZNpkQWXhQc6WXPX_pvT_FMK_84R55CnZokrLhi8TVRkZZJIAbWLZdRC0GG0vhiEDqyclyhN5utM753JJOmPqVLFxSIA3idYpDE0fhJrXTCHwBzdEMhPMJa5r_r2Vpo',
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  createdAt: 2020-06-03T08:57:24.312Z,
+  updatedAt: 2020-06-03T08:57:24.312Z,
+  __v: 0 }
+[0mPOST /api/PlayWithFriend/addPlayerFriendList [32m200 [0m269.656 ms - 514[0m
+**************************
+{ _id: 5ed765f5c6a172520171b8b8,
+  FriendUserName: 'rus0728',
+  loggedInUserName: 'cletrich',
+  email: 'lentelinfo@test.com',
+  userId: '5ebba1c874d5717485872e36',
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  createdAt: 2020-06-03T08:57:25.913Z,
+  updatedAt: 2020-06-03T08:57:25.913Z,
+  __v: 0 }
+[0mPOST /api/PlayWithFriend/addPlayerFriendList [32m200 [0m270.050 ms - 341[0m
+**************************
+{ _id: 5ed765fac6a172520171b8b9,
+  FriendUserName: 'rus07',
+  loggedInUserName: 'cletrich',
+  email: 'lentelinfo@gmail.com',
+  userId: '5eb288c853c0ac049411a4f5',
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  createdAt: 2020-06-03T08:57:30.194Z,
+  updatedAt: 2020-06-03T08:57:30.194Z,
+  __v: 0 }
+[0mPOST /api/PlayWithFriend/addPlayerFriendList [32m200 [0m267.261 ms - 340[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [32m200 [0m9.771 ms - 1106[0m
+**************************
+(node:20993) DeprecationWarning: collection.remove is deprecated. Use deleteOne, deleteMany, or bulkWrite instead.
+[0mDELETE /api/PlayWithFriend/deletePlayerFriendList?playerId=5eb2855653c0ac049411a4e8 [32m200 [0m10.714 ms - 58[0m
+**************************
+[0mDELETE /api/PlayWithFriend/deletePlayerFriendList?playerId=5ebba1c874d5717485872e36 [32m200 [0m11.268 ms - 58[0m
+**************************
+[0mDELETE /api/PlayWithFriend/deletePlayerFriendList?playerId=5eb288c853c0ac049411a4f5 [32m200 [0m18.052 ms - 58[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [33m400 [0m7.987 ms - 53[0m
+**************************
+[0mPOST /api/PlayWithFriend/searchAllPlayers [32m200 [0m259.988 ms - 3177[0m
+**************************
+{ _id: 5ed76650c6a172520171b8ba,
+  FriendUserName: 'rus07',
+  loggedInUserName: 'cletrich',
+  email: 'lentelinfo@gmail.com',
+  userId: '5eb288c853c0ac049411a4f5',
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  createdAt: 2020-06-03T08:58:56.202Z,
+  updatedAt: 2020-06-03T08:58:56.202Z,
+  __v: 0 }
+[0mPOST /api/PlayWithFriend/addPlayerFriendList [32m200 [0m286.849 ms - 340[0m
+**************************
+{ _id: 5ed76651c6a172520171b8bb,
+  FriendUserName: 'rus0728',
+  loggedInUserName: 'cletrich',
+  email: 'lentelinfo@test.com',
+  userId: '5ebba1c874d5717485872e36',
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  createdAt: 2020-06-03T08:58:57.498Z,
+  updatedAt: 2020-06-03T08:58:57.498Z,
+  __v: 0 }
+[0mPOST /api/PlayWithFriend/addPlayerFriendList [32m200 [0m282.128 ms - 341[0m
+**************************
+{ _id: 5ed76653c6a172520171b8bc,
+  FriendUserName: 'rus28',
+  loggedInUserName: 'cletrich',
+  email: 'mendez.russel28@gmail.com',
+  userId: '5eb2855653c0ac049411a4e8',
+  deviceToken:
+   'eXKnLgrLoTw:APA91bHUyavmoqZNpkQWXhQc6WXPX_pvT_FMK_84R55CnZokrLhi8TVRkZZJIAbWLZdRC0GG0vhiEDqyclyhN5utM753JJOmPqVLFxSIA3idYpDE0fhJrXTCHwBzdEMhPMJa5r_r2Vpo',
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  createdAt: 2020-06-03T08:58:59.043Z,
+  updatedAt: 2020-06-03T08:58:59.043Z,
+  __v: 0 }
+[0mPOST /api/PlayWithFriend/addPlayerFriendList [32m200 [0m279.672 ms - 514[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [32m200 [0m9.971 ms - 1106[0m
+[ '15', '08', '1996' ]
+age:23
+docs []
+{ _id: 5ed7665fc6a172520171b8bd,
+  registrationStatus: 'pending',
+  userName: 'ashish233',
+  fullName: 'ashish233',
+  email: 'pandeashish233@gmail.com',
+  password:
+   '$2a$10$CFFlJZVUo0n9ok32Lywscu3WLpxolR85QXwPRvIFz9k4gN.FDpJXK',
+  countryOfRecidence: 'Uganda',
+  dateOfBirth: 1996-08-15T00:00:00.000Z,
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  accountType: 'normal',
+  age: 23,
+  createdAt: 2020-06-03T08:59:11.629Z,
+  updatedAt: 2020-06-03T08:59:11.629Z,
+  __v: 0 }
+narrow
+inside sendEmailVerificationMail
+http://134.122.126.162:8080/api/auth/activateAccount?email=pandeashish233@gmail.com
+[0mPOST /api/auth/registerWithJieman [32m200 [0m157.091 ms - 585[0m
+searchAllFriends
+**************************
+loggedInPlayerName cletrich
+[0mPOST /api/PlayWithFriend/searchAllFriends [32m200 [0m232.560 ms - 515[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [36m304 [0m7.575 ms - -[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [36m304 [0m8.053 ms - -[0m
+inside leaderboard
+**************************
+[0mGET /api/leaderboard?sortBy=points&gameType=oneonone [32m200 [0m93.086 ms - 19149[0m
+{ _id: 5ed7665fc6a172520171b8bd,
+  registrationStatus: 'pending',
+  userName: 'ashish233',
+  fullName: 'ashish233',
+  email: 'pandeashish233@gmail.com',
+  countryOfRecidence: 'Uganda',
+  dateOfBirth: 1996-08-15T00:00:00.000Z,
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  accountType: 'normal',
+  age: 23,
+  createdAt: 2020-06-03T08:59:11.629Z,
+  updatedAt: 2020-06-03T08:59:11.629Z,
+  __v: 0 }
+[0mGET /api/auth/activateAccount?email=pandeashish233@gmail.com [32m200 [0m7.190 ms - 76[0m
+[0mPOST /api/auth/loginwithJiweman [32m200 [0m157.943 ms - 711[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [36m304 [0m10.210 ms - -[0m
+**************************
+{"multicast_id":1863704231585851668,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+Notification not sent
+[0mPOST /api/PlayWithFriend/challengeFriend [33m400 [0m330.289 ms - 60[0m
+searchAllFriends
+**************************
+loggedInPlayerName cletrich
+[0mPOST /api/PlayWithFriend/searchAllFriends [33m400 [0m243.954 ms - 69[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [36m304 [0m9.391 ms - -[0m
+inside updateMatchResults
+**************************
+updatedMatchResult { matchStatus: 'finished',
+  winnerName: 'FastSkill',
+  playerOneGoal: '0',
+  playerTwoGoal: '3',
+  _id: 5ed765b0c6a172520171b8b6,
+  playerOneUserName: 'FastSkill',
+  playerTwoUserName: 'FastSkill',
+  roomName: 'Nairobi onenone 1',
+  isRematch: false,
+  matchType: 'oneonone',
+  leagueId: '',
+  createdAt: 2020-06-03T08:56:16.929Z,
+  updatedAt: 2020-06-03T09:00:10.893Z,
+  __v: 0 }
+[0mPOST /api/updateMatchResult [32m200 [0m8.335 ms - 413[0m
+inside updatePlayerLeaderBoardData
+**************************
+winLoseData [Object: null prototype] {
+  winnerName: 'FastSkill',
+  playerOneGoal: '0',
+  playerTwoGoal: '3',
+  roomName: 'Nairobi onenone 1',
+  playerOneUserName: 'FastSkill',
+  playerTwoUserName: 'FastSkill',
+  matchType: 'oneonone',
+  matchId: '5ed765b0c6a172520171b8b6',
+  leagueId: '' }
+matchData [Object: null prototype] {
+  winnerName: 'FastSkill',
+  playerOneGoal: '0',
+  playerTwoGoal: '3',
+  roomName: 'Nairobi onenone 1',
+  playerOneUserName: 'FastSkill',
+  playerTwoUserName: 'FastSkill',
+  matchType: 'oneonone',
+  matchId: '5ed765b0c6a172520171b8b6',
+  leagueId: '' }
+[0mPOST /api/updatePlayerLeaderBoard [32m200 [0m255.168 ms - 37[0m
+**************************
+[0mPOST /api/PlayWithFriend/searchAllPlayers [32m200 [0m280.825 ms - 427[0m
+**************************
+inside createNewMatch
+**************************
+ new match data data data
+{ matchStatus: 'active',
+  winnerName: '',
+  playerOneGoal: '0',
+  playerTwoGoal: '0',
+  _id: 5ed766a0c6a172520171b8c9,
+  playerOneUserName: 'FastSkill',
+  playerTwoUserName: 'New Text',
+  roomName: 'Nairobi onenone 1',
+  isRematch: true,
+  matchType: 'oneonone',
+  leagueId: '',
+  createdAt: 2020-06-03T09:00:16.756Z,
+  updatedAt: 2020-06-03T09:00:16.756Z,
+  __v: 0 }
+{ _id: 5ed766a0c6a172520171b8ca,
+  FriendUserName: 'FastSkill',
+  loggedInUserName: 'cletrich',
+  email: 'keegan2012@me.com',
+  userId: '5eccecef7d151e742108dd25',
+  gender: 'male',
+  roleId: 5de491657f36f0b5ccdc3858,
+  createdAt: 2020-06-03T09:00:16.774Z,
+  updatedAt: 2020-06-03T09:00:16.774Z,
+  __v: 0 }
+[0mPOST /api/PlayWithFriend/addPlayerFriendList [32m200 [0m300.788 ms - 341[0m
+[0mPOST /api/createNewMatch [32m200 [0m29.146 ms - 451[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [32m200 [0m9.037 ms - 1402[0m
+**************************
+[0mPOST /api/PlayWithFriend/challengeFriend [33m400 [0m276.838 ms - 68[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [32m200 [0m7.029 ms - 508[0m
+[0mPOST /api/auth/loginwithJiweman [32m200 [0m155.394 ms - 876[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [32m200 [0m6.794 ms - 1402[0m
+inside updateMatchResults
+**************************
+[0mPOST /api/updateMatchResult [33m400 [0m10.589 ms - 60[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [33m401 [0m2.471 ms - 41[0m
+**************************
+playerId 5eb2855653c0ac049411a4e8
+{"multicast_id":6747604254215802826,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+Notification not sent
+[0mPOST /api/PlayWithFriend/challengeStatus [33m400 [0m69.658 ms - 60[0m
+**************************
+[0mPOST /api/PlayWithFriend/challengeFriend [33m400 [0m7.259 ms - 68[0m
+**************************
+[0mPOST /api/PlayWithFriend/searchAllPlayers [33m401 [0m2.021 ms - 41[0m
+**************************
+[0mPOST /api/PlayWithFriend/searchAllPlayers [33m401 [0m1.724 ms - 41[0m
+inside getAllFriends
+**************************
+[0mGET /api/PlayWithFriend/getAllFriends [33m401 [0m1.810 ms - 41[0m

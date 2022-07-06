@@ -1,0 +1,6257 @@
+[{
+  "_id": {
+    "$oid": "60c48464e194224afa085386"
+  },
+  "matchId": "60c483af332bc5753e9896b0",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-12T09:54:44.672Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 65.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 61.33333206176758,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 4.5333333015441895,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "9jC0kQXSJ2y5ZdoAJYOv55hYtkZoXEIlDomAOvB0o7s=",
+  "updatedAt": {
+    "$date": "2021-06-12T09:54:44.672Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c5924ae194224afa164cda"
+  },
+  "matchId": "60c59103332bc5753e9896e1",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T05:06:18.774Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 122.13333129882812,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204b91f057803c59f7b15",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 72.26667022705078,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 49.86666488647461,
+  "playerTwoUserName": "Samawati",
+  "roomName": "pRZp4sw4CB3CzHyibcXikiN2jQOWDm57VFjv9WKBz78=",
+  "updatedAt": {
+    "$date": "2021-06-13T05:06:18.774Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60c5c9b6e194224afa192675"
+  },
+  "matchId": "60c5c80b332bc5753e9896f0",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T09:02:46.875Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 164.20001220703125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204b91f057803c59f7b15",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 96.9000015258789,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 67.30000305175781,
+  "playerTwoUserName": "Samawati",
+  "roomName": "b7N1+vKQJVHxkew4poldatsfCEWuda91Zdnake+MguI=",
+  "updatedAt": {
+    "$date": "2021-06-13T09:02:46.875Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5c9b6e194224afa192691"
+  },
+  "matchId": "60c5c80b332bc5753e9896f0",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T09:02:46.951Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 164.20001220703125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204b91f057803c59f7b15",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 96.9000015258789,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 67.30000305175781,
+  "playerTwoUserName": "Samawati",
+  "roomName": "b7N1+vKQJVHxkew4poldatsfCEWuda91Zdnake+MguI=",
+  "updatedAt": {
+    "$date": "2021-06-13T09:02:46.951Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5d479e194224afa19e14d"
+  },
+  "matchId": "60aef0c22ab453312556c260",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T09:48:41.951Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 67.69999694824219,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204b91f057803c59f7b15",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 40.33333206176758,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 27.366666793823242,
+  "playerTwoUserName": "Samawati",
+  "roomName": "D",
+  "updatedAt": {
+    "$date": "2021-06-13T09:48:41.951Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5d47ae194224afa19e20c"
+  },
+  "matchId": "60aef0c22ab453312556c260",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T09:48:42.434Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 67.69999694824219,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204b91f057803c59f7b15",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 40.33333206176758,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 27.366666793823242,
+  "playerTwoUserName": "Samawati",
+  "roomName": "D",
+  "updatedAt": {
+    "$date": "2021-06-13T09:48:42.434Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5d5e5e194224afa1a1f5b"
+  },
+  "matchId": "60c5d55f332bc5753e989719",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T09:54:45.489Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 41.366668701171875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204821f057803c59f7b14",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 16.66666603088379,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 24.700000762939453,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "eLad4WfpPQPefex2fjVcFacfffli+M2J4syru8LrfYU=",
+  "updatedAt": {
+    "$date": "2021-06-13T09:54:45.489Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5d5e5e194224afa1a1f65"
+  },
+  "matchId": "60c5d55f332bc5753e989719",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T09:54:45.509Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 41.366668701171875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204821f057803c59f7b14",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 16.66666603088379,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 24.700000762939453,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "eLad4WfpPQPefex2fjVcFacfffli+M2J4syru8LrfYU=",
+  "updatedAt": {
+    "$date": "2021-06-13T09:54:45.509Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5d7ede194224afa1a3b14"
+  },
+  "matchId": "60c5d660332bc5753e989721",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T10:03:25.975Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 143.26666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 84.73332977294922,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 58.53333282470703,
+  "playerTwoUserName": "Samawati",
+  "roomName": "ZeaTLJaOZrRGXj01uarWEcXwkwk8twAyOac5UPPhJik=",
+  "updatedAt": {
+    "$date": "2021-06-13T10:03:25.975Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5d7eee194224afa1a3b7d"
+  },
+  "matchId": "60c5d660332bc5753e989721",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T10:03:26.256Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 143.26666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 84.73332977294922,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 58.53333282470703,
+  "playerTwoUserName": "Samawati",
+  "roomName": "ZeaTLJaOZrRGXj01uarWEcXwkwk8twAyOac5UPPhJik=",
+  "updatedAt": {
+    "$date": "2021-06-13T10:03:26.256Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5dee7e194224afa1ac432"
+  },
+  "matchId": "60c5ddfc332bc5753e989736",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T10:33:11.548Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 82.13333129882812,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204b91f057803c59f7b15",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 47.83333206176758,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 34.29999923706055,
+  "playerTwoUserName": "Samawati",
+  "roomName": "qePev",
+  "updatedAt": {
+    "$date": "2021-06-13T10:33:11.548Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5e16de194224afa1ae6b8"
+  },
+  "matchId": "60c5e07b332bc5753e98973e",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T10:43:57.200Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 65.53333282470703,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 36.099998474121094,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 29.433332443237305,
+  "playerTwoUserName": "Samawati",
+  "roomName": "PSgynxvyrOj+BOMrHt9xqPMP8lbSxySVAEBcKzrgDKI=",
+  "updatedAt": {
+    "$date": "2021-06-13T10:43:57.200Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c5e16de194224afa1ae76c"
+  },
+  "matchId": "60c5e07b332bc5753e98973e",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-13T10:43:57.594Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 65.53333282470703,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 36.099998474121094,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 29.433332443237305,
+  "playerTwoUserName": "Samawati",
+  "roomName": "PSgynxvyrOj+BOMrHt9xqPMP8lbSxySVAEBcKzrgDKI=",
+  "updatedAt": {
+    "$date": "2021-06-13T10:43:57.594Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60c6d72fe194224afa27ca8b"
+  },
+  "matchId": "60c6d6a1332bc5753e9897b8",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T04:12:31.581Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 38.29999923706055,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 8.300000190734863,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "Samuel",
+  "roomName": "3M2pfzWwYs3hq37Q",
+  "updatedAt": {
+    "$date": "2021-06-14T04:12:31.581Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c6ef68e194224afa292b87"
+  },
+  "matchId": "60c6eed7332bc5753e9897c1",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T05:55:52.923Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "6IjNU8",
+  "updatedAt": {
+    "$date": "2021-06-14T05:55:52.923Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c6f00de194224afa293519"
+  },
+  "matchId": "60c6ef8a332bc5753e9897c9",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T05:58:37.290Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "QZHl4IgpLtq4HHfGYOzW1bEVK7M+B+iwM7Z9ViMShz8=",
+  "updatedAt": {
+    "$date": "2021-06-14T05:58:37.290Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c6f58ae194224afa298169"
+  },
+  "matchId": "60c6f506332bc5753e9897d2",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T06:22:02.590Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "ufjYu580BLJyRL0bOy4Ac38VCh53O6snPAI",
+  "updatedAt": {
+    "$date": "2021-06-14T06:22:02.590Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c6f796e194224afa299e9d"
+  },
+  "matchId": "60c6f711332bc5753e9897da",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T06:30:46.479Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "ddc3Oj1M7mIqb6efvkYBgfh48kGB88QhTfgblwPUZz0=",
+  "updatedAt": {
+    "$date": "2021-06-14T06:30:46.479Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c6f948e194224afa29b6e7"
+  },
+  "matchId": "60c6f8a6332bc5753e9897e3",
+  "senderId": "p1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T06:38:00.286Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 60,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7596267d57d67e4e2cbec",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 20,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "room",
+  "secretID": "ab1",
+  "updatedAt": {
+    "$date": "2021-06-14T06:38:00.286Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60c6f964e194224afa29ce98"
+  },
+  "matchId": "60c6f8a6332bc5753e9897e3",
+  "senderId": "p2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T06:38:28.239Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 60,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7596267d57d67e4e2cbec",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 20,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "room",
+  "secretID": "ab1",
+  "updatedAt": {
+    "$date": "2021-06-14T06:38:28.239Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60c6f9a5e194224afa29e9ad"
+  },
+  "matchId": "60c6f8a3332bc5753e9897e2",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T06:39:33.379Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 90,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204821f057803c59f7b14",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "1mspSki2OSr3geiUD2VXRkB8MOi3idO31Dt5DIEWdVA=",
+  "updatedAt": {
+    "$date": "2021-06-14T06:39:33.379Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c6fea4e194224afa2a2f5a"
+  },
+  "matchId": "60c6fe1f332bc5753e9897ec",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T07:00:52.007Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "d8+SzalVusOEEROtB6FVJv6loLgQW+YD5JlY",
+  "updatedAt": {
+    "$date": "2021-06-14T07:00:52.007Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c7a471e194224afa32bf89"
+  },
+  "matchId": "60c7a3fa332bc5753e98981c",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T18:48:17.430Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 15.699999809265137,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 15.699999809265137,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "Samuel",
+  "roomName": "6qbvJiNzENYpqfB+4KTWwUV3CbJax+XtX2DeRab4LUY=",
+  "updatedAt": {
+    "$date": "2021-06-14T18:48:17.430Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c7a54ae194224afa32cbd3"
+  },
+  "matchId": "60c7a4c7332bc5753e989824",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T18:51:54.640Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 0,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "Samuel",
+  "roomName": "Czi+6fK1nOeonjFjmLeuQtkRYSAkNkz+vWbgRVhiSIs=",
+  "updatedAt": {
+    "$date": "2021-06-14T18:51:54.640Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c7b4d0e194224afa339a7d"
+  },
+  "matchId": "60c7b44a332bc5753e989838",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T19:58:08.342Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "MkRINxwM+TIHnZUYxnYz",
+  "updatedAt": {
+    "$date": "2021-06-14T19:58:08.342Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c7de8be194224afa35c1d1"
+  },
+  "matchId": "60c7ddaf332bc5753e98984e",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T22:56:11.396Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 85.73333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 25.733333587646484,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "TdOmCRM37vBg4Phi",
+  "updatedAt": {
+    "$date": "2021-06-14T22:56:11.396Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c7e441e194224afa3622a1"
+  },
+  "matchId": "60c7e373332bc5753e989855",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-14T23:20:33.210Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 90,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "98PTZ3cQV1YCz5vRu1hr3IqzbRvMKY",
+  "updatedAt": {
+    "$date": "2021-06-14T23:20:33.210Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c843fde194224afa3b1523"
+  },
+  "matchId": "60c8433f332bc5753e989871",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T06:09:01.982Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 57.93333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 34.53333282470703,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 23.399999618530273,
+  "playerTwoUserName": "Samuel",
+  "roomName": "VoHTi2778ti9U8ws07",
+  "updatedAt": {
+    "$date": "2021-06-15T06:09:01.982Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c84da9e194224afa3b9674"
+  },
+  "matchId": "60c84d25332bc5753e98987b",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T06:50:17.217Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 27.33333396911621,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 0,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 27.33333396911621,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "pAn6JbNAcmkOCe1Q6VIao6YcbQiAP43S2Yj",
+  "updatedAt": {
+    "$date": "2021-06-15T06:50:17.217Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c85023e194224afa3bb8b4"
+  },
+  "matchId": "60c84fa7332bc5753e989883",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T07:00:51.852Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 14.366666793823242,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 14.366666793823242,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "eToFNLnJl+uuH1h47VAL",
+  "updatedAt": {
+    "$date": "2021-06-15T07:00:51.852Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c8514be194224afa3bc920"
+  },
+  "matchId": "60c8508a332bc5753e98988c",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T07:05:47.735Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 90,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "QYMQ8kM1FtQMyANoA93wWGe1IkCyHj0KQz8VBW7Ci94=",
+  "updatedAt": {
+    "$date": "2021-06-15T07:05:47.735Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c85358e194224afa3be512"
+  },
+  "matchId": "60c852d3332bc5753e989894",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T07:14:32.830Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "JyW3vwVk8JBhGQz0IN",
+  "updatedAt": {
+    "$date": "2021-06-15T07:14:32.830Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c855e1e194224afa3c077c"
+  },
+  "matchId": "60c8555b332bc5753e98989c",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T07:25:21.145Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 0,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "Samuel",
+  "roomName": "xbZtBdaPiarBUOmgfTnVFEsG2YgBNevuFyOPShZHqjE=",
+  "updatedAt": {
+    "$date": "2021-06-15T07:25:21.145Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c85843e194224afa3c2801"
+  },
+  "matchId": "60c857be332bc5753e9898a4",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T07:35:31.938Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 0,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "Samuel",
+  "roomName": "CKfXHdFf26lN6PZXONK0EtyYhqeZ6anbC+IUjnbZLT4=",
+  "updatedAt": {
+    "$date": "2021-06-15T07:35:31.938Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c85c1be194224afa3c5bee"
+  },
+  "matchId": "60c85b8e332bc5753e9898ad",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T07:51:55.325Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 37.266666412353516,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 7.266666889190674,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "fNgaNaLGgbFefvOCnu1eBb",
+  "updatedAt": {
+    "$date": "2021-06-15T07:51:55.325Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c85f15e194224afa3c9b14"
+  },
+  "matchId": "60c85e54332bc5753e9898b4",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T08:04:37.972Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 90,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "UCl3UHB6IVQwgu0rYhqLfaPvihm4n",
+  "updatedAt": {
+    "$date": "2021-06-15T08:04:37.972Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c860a0e194224afa3cb0f0"
+  },
+  "matchId": "60c8601b332bc5753e9898c4",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-15T08:11:12.095Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30.899999618530273,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0.8999999761581421,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "fNHxX7z4Uny",
+  "updatedAt": {
+    "$date": "2021-06-15T08:11:12.095Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c9413fe194224afa4846aa"
+  },
+  "matchId": "60c940b9332bc5753e98991a",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T00:09:35.901Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "DP33rAfM5Ag8hS3E7GGQSwDc9Rs051L28JFN8MvWkC8=",
+  "updatedAt": {
+    "$date": "2021-06-16T00:09:35.901Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c96010e194224afa49f5e5"
+  },
+  "matchId": "60c95f4b332bc5753e989928",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T02:21:04.768Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 91.66666412353516,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 31.66666603088379,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "72djgPDmEbOpi",
+  "updatedAt": {
+    "$date": "2021-06-16T02:21:04.768Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c96cc9e194224afa4aa1f1"
+  },
+  "matchId": "60c96c42332bc5753e989940",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T03:15:21.168Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 30,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "1L7GZ6RXqGCDV1K8vEchvfZTOE",
+  "updatedAt": {
+    "$date": "2021-06-16T03:15:21.168Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c97f15e194224afa4b9602"
+  },
+  "matchId": "60c97e03332bc5753e989962",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T04:33:25.633Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 165.79998779296875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 64.56666564941406,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 101.23332977294922,
+  "playerTwoUserName": "Samuel",
+  "roomName": "u8b1jhvZgHrcFPAcpQkeKfRvKM7Qt2xgyBQ5eg3UD2k=",
+  "updatedAt": {
+    "$date": "2021-06-16T04:33:25.633Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c98071e194224afa4ba90a"
+  },
+  "matchId": "60c97fc2332bc5753e98996a",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T04:39:13.234Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 57.56666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 50.43333435058594,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 7.133333206176758,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "xrDPIDDQ7hfp9BE3ePyutn+PKThhKGmHdbOQ1uqF2gE=",
+  "updatedAt": {
+    "$date": "2021-06-16T04:39:13.234Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c98a14e194224afa4c42f4"
+  },
+  "matchId": "60c9899baf03ef66c20c14cf",
+  "senderId": "p1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T05:20:20.375Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 60,
+  "matchType": "oneononeBet",
+  "oneonone": "603894a44342141796489354",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 20,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "room",
+  "secretID": "abcd1",
+  "updatedAt": {
+    "$date": "2021-06-16T05:20:20.375Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60c98a27e194224afa4c5bb6"
+  },
+  "matchId": "60c9899baf03ef66c20c14cf",
+  "senderId": "p2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T05:20:39.958Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 60,
+  "matchType": "oneononeBet",
+  "oneonone": "603894a44342141796489354",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 20,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "room",
+  "secretID": "abcd1",
+  "updatedAt": {
+    "$date": "2021-06-16T05:20:39.958Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60c98b58e194224afa4c851d"
+  },
+  "matchId": "60c98a94af03ef66c20c14d4",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T05:25:44.783Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 70.66666412353516,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 20.299999237060547,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 50.36666488647461,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "MiSI+x9SpcUa7D6fTS5z2b+LvMLH+YX30gZelWeYknA=",
+  "updatedAt": {
+    "$date": "2021-06-16T05:25:44.783Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60c98b58e194224afa4c853f"
+  },
+  "matchId": "60c98a94af03ef66c20c14d4",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T05:25:44.872Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 70.66666412353516,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 20.299999237060547,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 50.36666488647461,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "MiSI+x9SpcUa7D6fTS5z2b+LvMLH+YX30gZelWeYknA=",
+  "updatedAt": {
+    "$date": "2021-06-16T05:25:44.872Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60c98c5ce194224afa4cba94"
+  },
+  "matchId": "60c98b7baf03ef66c20c14da",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T05:30:04.978Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 144.60000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 58.900001525878906,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 85.69999694824219,
+  "playerTwoUserName": "Samuel",
+  "roomName": "rEMG",
+  "updatedAt": {
+    "$date": "2021-06-16T05:30:04.978Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c98c5de194224afa4cbab2"
+  },
+  "matchId": "60c98b7baf03ef66c20c14da",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T05:30:05.055Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 144.60000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 58.900001525878906,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 85.69999694824219,
+  "playerTwoUserName": "Samuel",
+  "roomName": "rEMG",
+  "updatedAt": {
+    "$date": "2021-06-16T05:30:05.055Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c98e0ae194224afa4cfba8"
+  },
+  "matchId": "60c98d26af03ef66c20c14e0",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T05:37:14.475Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 71.06666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 51.36666488647461,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 19.700000762939453,
+  "playerTwoUserName": "Samuel",
+  "roomName": "s5CRQ7TtwQjF39gsVq0l6UpFFbsA5M30aRaJXztkq2s=",
+  "updatedAt": {
+    "$date": "2021-06-16T05:37:14.475Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60c99653e194224afa4d8416"
+  },
+  "matchId": "60c995a4af03ef66c20c14ee",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T06:12:35.433Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 131.1999969482422,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 103.56666564941406,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 27.633333206176758,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "pn0Mxu6olfxw+IeAMcmPX",
+  "updatedAt": {
+    "$date": "2021-06-16T06:12:35.433Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60c99653e194224afa4d8444"
+  },
+  "matchId": "60c995a4af03ef66c20c14ee",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T06:12:35.550Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 131.1999969482422,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 103.56666564941406,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 27.633333206176758,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "pn0Mxu6olfxw+IeAMcmPX",
+  "updatedAt": {
+    "$date": "2021-06-16T06:12:35.550Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60c9adf9e194224afa4eeb61"
+  },
+  "matchId": "60c9ad01af03ef66c20c14fc",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T07:53:29.555Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 121.63333129882812,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 50,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 71.63333129882812,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "4q+Ki0DGLLk0lSjhYKWiBUA5RCakcpoPY3LEypTMK74=",
+  "updatedAt": {
+    "$date": "2021-06-16T07:53:29.555Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60c9adf9e194224afa4eeb7d"
+  },
+  "matchId": "60c9ad01af03ef66c20c14fc",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T07:53:29.633Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 121.63333129882812,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 50,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 71.63333129882812,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "4q+Ki0DGLLk0lSjhYKWiBUA5RCakcpoPY3LEypTMK74=",
+  "updatedAt": {
+    "$date": "2021-06-16T07:53:29.633Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60c9afd3e194224afa4f2e89"
+  },
+  "matchId": "60c9af0eaf03ef66c20c1509",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T08:01:23.961Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 86.26666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 56.266666412353516,
+  "playerTwoUserName": "Samuel",
+  "roomName": "RM+ZeO5iFszQg5ZZI3KsF1uqkJVo+TzVGXDJ9vQ9zQ8=",
+  "updatedAt": {
+    "$date": "2021-06-16T08:01:23.961Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60ca6e07e194224afa590c34"
+  },
+  "matchId": "60ca6d2a1f90cb2992b14553",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-16T21:32:55.045Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 80.53333282470703,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 46.46666717529297,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 34.06666564941406,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "7Wuso",
+  "updatedAt": {
+    "$date": "2021-06-16T21:32:55.045Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60cb135be194224afa619d5a"
+  },
+  "matchId": "60cb12b09f5e1e260faf1ef5",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-17T09:18:19.460Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 46.56666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 16.566667556762695,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "DHplFnyYskN6cc",
+  "updatedAt": {
+    "$date": "2021-06-17T09:18:19.460Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60cbdb49e194224afa6c1014"
+  },
+  "matchId": "60cbda877167e0300eefb5a3",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-17T23:31:21.777Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 90,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 60,
+  "playerTwoUserName": "Samuel",
+  "roomName": "OwoP",
+  "updatedAt": {
+    "$date": "2021-06-17T23:31:21.777Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60cbde64e194224afa6c3b38"
+  },
+  "matchId": "60cbddec7167e0300eefb5bc",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-17T23:44:36.372Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 14.066666603088379,
+  "matchType": "oneononeBet",
+  "oneonone": "60a204441f057803c59f7b13",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 1.7333333492279053,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 12.333333015441895,
+  "playerTwoUserName": "Samuel",
+  "roomName": "r9KzKvVkzDZ0NSflU",
+  "updatedAt": {
+    "$date": "2021-06-17T23:44:36.372Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60cc72dce194224afa73e502"
+  },
+  "matchId": "60cc722c7167e0300eefb5dd",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-18T10:18:04.162Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 65.43333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 19.133333206176758,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 46.29999923706055,
+  "playerTwoUserName": "Samuel",
+  "roomName": "4meAk8Y66EVjSH31TPVxb86S93mS+ynYNA7mF8VjtGM=",
+  "updatedAt": {
+    "$date": "2021-06-18T10:18:04.162Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60cd3b60e194224afa7e3fd8"
+  },
+  "matchId": "60cd3afd7167e0300eefb615",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-19T00:33:36.050Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 59.633331298828125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 32.70000076293945,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 26.933332443237305,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "mOmPJLAV9A4mMgDR60USfu4m",
+  "updatedAt": {
+    "$date": "2021-06-19T00:33:36.050Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60cd3b60e194224afa7e3fe6"
+  },
+  "matchId": "60cd3afd7167e0300eefb615",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-19T00:33:36.078Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 59.633331298828125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 32.70000076293945,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 26.933332443237305,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "mOmPJLAV9A4mMgDR60USfu4m",
+  "updatedAt": {
+    "$date": "2021-06-19T00:33:36.078Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60ce7012e194224afa8e1bfc"
+  },
+  "matchId": "60ce6eec7167e0300eefb651",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-19T22:30:42.270Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 178.23333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 81.83333587646484,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 96.4000015258789,
+  "playerTwoUserName": "Samuel",
+  "roomName": "HOltFr8WkEtR33tHK1DOEHodcugIhsbjgDgLav8rgXc=",
+  "updatedAt": {
+    "$date": "2021-06-19T22:30:42.270Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60ce7948e194224afa8ead55"
+  },
+  "matchId": "60ce77ab7167e0300eefb65a",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-19T23:10:00.813Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 260.5666809082031,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 85.96666717529297,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 174.60000610351562,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "oCSpbdSzIpIm6P62fUTpNElB0udFyXnJ3lGdTc3Tw8E=",
+  "updatedAt": {
+    "$date": "2021-06-19T23:10:00.813Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60ce9288e194224afa901428"
+  },
+  "matchId": "60ce907f7167e0300eefb669",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T00:57:44.799Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 200.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 86.23332977294922,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 114.30000305175781,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "qfTX3J+HpiRv10rAf0fRfmFS5ZWGcsQfNGJlflmxtSo=",
+  "updatedAt": {
+    "$date": "2021-06-20T00:57:44.799Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60ce9288e194224afa901441"
+  },
+  "matchId": "60ce907f7167e0300eefb669",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T00:57:44.844Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 200.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 86.23332977294922,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 114.30000305175781,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "qfTX3J+HpiRv10rAf0fRfmFS5ZWGcsQfNGJlflmxtSo=",
+  "updatedAt": {
+    "$date": "2021-06-20T00:57:44.844Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60ce94c1e194224afa903680"
+  },
+  "matchId": "60ce92e17167e0300eefb673",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:07:13.442Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 160.83334350585938,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 76.46666717529297,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 84.36666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "92GMoNnUH61pbLrjxBTe9RPpRR9w+DMKcXKAsNaOpbw=",
+  "updatedAt": {
+    "$date": "2021-06-20T01:07:13.442Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60ce94c1e194224afa9036f7"
+  },
+  "matchId": "60ce92e17167e0300eefb673",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:07:13.797Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 160.83334350585938,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 76.46666717529297,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 84.36666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "92GMoNnUH61pbLrjxBTe9RPpRR9w+DMKcXKAsNaOpbw=",
+  "updatedAt": {
+    "$date": "2021-06-20T01:07:13.797Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60ce965ce194224afa904f39"
+  },
+  "matchId": "60ce95457167e0300eefb680",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:14:04.621Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 98.4000015258789,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 53.96666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 44.43333435058594,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "GoXLfdmJhqqxa5zlErzfZf8tKK5BrafU",
+  "updatedAt": {
+    "$date": "2021-06-20T01:14:04.621Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60ce965ce194224afa904fbb"
+  },
+  "matchId": "60ce95457167e0300eefb680",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:14:04.952Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 98.4000015258789,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 53.96666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 44.43333435058594,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "GoXLfdmJhqqxa5zlErzfZf8tKK5BrafU",
+  "updatedAt": {
+    "$date": "2021-06-20T01:14:04.952Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60ce9828e194224afa906a4f"
+  },
+  "matchId": "60ce96ba7167e0300eefb68a",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:21:44.575Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 132.76666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 64.13333129882812,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 68.63333129882812,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "H7YGBeeVorgWCeQD4BObQIFOJfxibV0VSR8JPGwMEkU=",
+  "updatedAt": {
+    "$date": "2021-06-20T01:21:44.575Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60ce9828e194224afa906a5b"
+  },
+  "matchId": "60ce96ba7167e0300eefb68a",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:21:44.599Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 132.76666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 64.13333129882812,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 68.63333129882812,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "H7YGBeeVorgWCeQD4BObQIFOJfxibV0VSR8JPGwMEkU=",
+  "updatedAt": {
+    "$date": "2021-06-20T01:21:44.599Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60ce99b4e194224afa9082c3"
+  },
+  "matchId": "60ce98527167e0300eefb694",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:28:20.196Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 136.53334045410156,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 75.76667022705078,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 60.766666412353516,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "zFLG7vkIrInRE8D+wKdWrCvFqWdTrHIDM3EZ4CWW7EA=",
+  "updatedAt": {
+    "$date": "2021-06-20T01:28:20.196Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60ce99b4e194224afa9082cf"
+  },
+  "matchId": "60ce98527167e0300eefb694",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:28:20.250Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 136.53334045410156,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 75.76667022705078,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 60.766666412353516,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "zFLG7vkIrInRE8D+wKdWrCvFqWdTrHIDM3EZ4CWW7EA=",
+  "updatedAt": {
+    "$date": "2021-06-20T01:28:20.250Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60ce9b9ce194224afa90a00c"
+  },
+  "matchId": "60ce99fe7167e0300eefb69c",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:36:28.244Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 180.06668090820312,
+  "matchType": "oneononeBet",
+  "oneonone": "60cc43c17167e0300eefb5d1",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 88.26667022705078,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 91.80000305175781,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "arxjbtut+FhDvt6C4A8tjt3PynygKcXeCYnAF3EkCQk=",
+  "updatedAt": {
+    "$date": "2021-06-20T01:36:28.244Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60ce9b9ce194224afa90a057"
+  },
+  "matchId": "60ce99fe7167e0300eefb69c",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:36:28.482Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 180.06668090820312,
+  "matchType": "oneononeBet",
+  "oneonone": "60cc43c17167e0300eefb5d1",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 88.26667022705078,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 91.80000305175781,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "arxjbtut+FhDvt6C4A8tjt3PynygKcXeCYnAF3EkCQk=",
+  "updatedAt": {
+    "$date": "2021-06-20T01:36:28.482Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60ce9f69e194224afa90d6b3"
+  },
+  "matchId": "60ce9d3e7167e0300eefb6a8",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:52:41.725Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 239.33334350585938,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 113.93333435058594,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 125.4000015258789,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "+awV1yf8qHIPW1Auy1tdUY6QXtB3x6",
+  "updatedAt": {
+    "$date": "2021-06-20T01:52:41.725Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60ce9f69e194224afa90d6c8"
+  },
+  "matchId": "60ce9d3e7167e0300eefb6a8",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T01:52:41.774Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 239.33334350585938,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 113.93333435058594,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 125.4000015258789,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "+awV1yf8qHIPW1Auy1tdUY6QXtB3x6",
+  "updatedAt": {
+    "$date": "2021-06-20T01:52:41.774Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cea3afe194224afa911369"
+  },
+  "matchId": "60bdcd105aaa2a065f3fa21e",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T02:10:55.833Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 15,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 15,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "Samawati",
+  "roomName": "j",
+  "updatedAt": {
+    "$date": "2021-06-20T02:10:55.833Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cea3afe194224afa91136d"
+  },
+  "matchId": "60bdcd105aaa2a065f3fa21e",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T02:10:55.837Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 15,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 15,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "Samawati",
+  "roomName": "j",
+  "updatedAt": {
+    "$date": "2021-06-20T02:10:55.837Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cea669e194224afa9160e3"
+  },
+  "matchId": "60cea3e87167e0300eefb6b6",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T02:22:33.400Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 323.26666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 176.39999389648438,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 146.86666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "JgIbwxNnkPqay5PoEH3QFkX+g9GkDrQOd3sCd2XDyGM=",
+  "updatedAt": {
+    "$date": "2021-06-20T02:22:33.400Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60cea669e194224afa91613e"
+  },
+  "matchId": "60cea3e87167e0300eefb6b6",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T02:22:33.665Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 323.26666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 176.39999389648438,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 146.86666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "JgIbwxNnkPqay5PoEH3QFkX+g9GkDrQOd3sCd2XDyGM=",
+  "updatedAt": {
+    "$date": "2021-06-20T02:22:33.665Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60cefd2be194224afa95e4da"
+  },
+  "matchId": "60cefab27167e0300eefb6ea",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T08:32:43.005Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 273.3333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 138.1666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 135.1666717529297,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "3TOszPeeKCXY9kt0xv+EQ",
+  "updatedAt": {
+    "$date": "2021-06-20T08:32:43.005Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cefd2be194224afa95e543"
+  },
+  "matchId": "60cefab27167e0300eefb6ea",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T08:32:43.203Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 273.3333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 138.1666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 135.1666717529297,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "3TOszPeeKCXY9kt0xv+EQ",
+  "updatedAt": {
+    "$date": "2021-06-20T08:32:43.203Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cf25b0e194224afa9800ed"
+  },
+  "matchId": "60cf22ef7167e0300eefb704",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T11:25:36.674Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 302.8666687011719,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 152.1999969482422,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 150.6666717529297,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "JEFIeAqx7xJfgh35NuFqAfU20XHMWhBwZvGCwFlzTE8=",
+  "updatedAt": {
+    "$date": "2021-06-20T11:25:36.674Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60cf25b0e194224afa9800ef"
+  },
+  "matchId": "60cf22ef7167e0300eefb704",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T11:25:36.676Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 302.8666687011719,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 152.1999969482422,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 150.6666717529297,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "JEFIeAqx7xJfgh35NuFqAfU20XHMWhBwZvGCwFlzTE8=",
+  "updatedAt": {
+    "$date": "2021-06-20T11:25:36.676Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60cf27dae194224afa9821e6"
+  },
+  "matchId": "60cf25ec7167e0300eefb70e",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T11:34:50.590Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 209.43333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 90.83333587646484,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 118.5999984741211,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "aNgGFZpcS1AE5F8gXDCvlJlLTGT9STBHuJRqtUz8AJw=",
+  "updatedAt": {
+    "$date": "2021-06-20T11:34:50.590Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cf27dae194224afa982235"
+  },
+  "matchId": "60cf25ec7167e0300eefb70e",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T11:34:50.797Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 209.43333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 90.83333587646484,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 118.5999984741211,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "aNgGFZpcS1AE5F8gXDCvlJlLTGT9STBHuJRqtUz8AJw=",
+  "updatedAt": {
+    "$date": "2021-06-20T11:34:50.797Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cf2ac8e194224afa984d48"
+  },
+  "matchId": "60cf28257167e0300eefb718",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T11:47:20.876Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 320.8666687011719,
+  "matchType": "oneononeBet",
+  "oneonone": "60b9d8e617594c623faa971b",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 177.23333740234375,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 143.63333129882812,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "OP64cwrUvW40Kq1CUjJx5YP27UhdxLzu3gA0srHxKrI=",
+  "updatedAt": {
+    "$date": "2021-06-20T11:47:20.876Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cf2ac8e194224afa984d51"
+  },
+  "matchId": "60cf28257167e0300eefb718",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T11:47:20.896Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 320.8666687011719,
+  "matchType": "oneononeBet",
+  "oneonone": "60b9d8e617594c623faa971b",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 177.23333740234375,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 143.63333129882812,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "OP64cwrUvW40Kq1CUjJx5YP27UhdxLzu3gA0srHxKrI=",
+  "updatedAt": {
+    "$date": "2021-06-20T11:47:20.896Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cf6202e194224afa9b2765"
+  },
+  "matchId": "60cf60957167e0300eefb72a",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T15:42:58.887Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 132,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 63.79999923706055,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 68.19999694824219,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "wOcet4JUbqtpHKMu7HrK9MQNnCE7zZ6s91zMtF8Q3",
+  "updatedAt": {
+    "$date": "2021-06-20T15:42:58.887Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60cf6202e194224afa9b276b"
+  },
+  "matchId": "60cf60957167e0300eefb72a",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T15:42:58.895Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 132,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 63.79999923706055,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 68.19999694824219,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "wOcet4JUbqtpHKMu7HrK9MQNnCE7zZ6s91zMtF8Q3",
+  "updatedAt": {
+    "$date": "2021-06-20T15:42:58.895Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60cf63abe194224afa9b4157"
+  },
+  "matchId": "60cf62517167e0300eefb734",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T15:50:03.704Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 144.76666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 66.80000305175781,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 77.96666717529297,
+  "playerTwoUserName": "Samawati",
+  "roomName": "euyUsy4gg4wcJdIdjNhlCTwsyKs",
+  "updatedAt": {
+    "$date": "2021-06-20T15:50:03.704Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cf63abe194224afa9b4164"
+  },
+  "matchId": "60cf62517167e0300eefb734",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T15:50:03.734Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 144.76666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 66.80000305175781,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 77.96666717529297,
+  "playerTwoUserName": "Samawati",
+  "roomName": "euyUsy4gg4wcJdIdjNhlCTwsyKs",
+  "updatedAt": {
+    "$date": "2021-06-20T15:50:03.734Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cfc6afe194224afaa05a0b"
+  },
+  "matchId": "60cfc57a7167e0300eefb752",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T22:52:31.100Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 201.43331909179688,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 66.96666717529297,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 134.46665954589844,
+  "playerTwoUserName": "Samuel",
+  "roomName": "lps65CUo+mWD4fVAdstEOaJ1O0NxfhDGcHmCGe5y9H8=",
+  "updatedAt": {
+    "$date": "2021-06-20T22:52:31.100Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60cfc9a6e194224afaa09a33"
+  },
+  "matchId": "60cfc9077167e0300eefb75b",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T23:05:10.553Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 51.5,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 17.933332443237305,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 33.56666564941406,
+  "playerTwoUserName": "Samuel",
+  "roomName": "4zxN1KMBZH7gaz6SmsLep+Lb3xy2rivEbL0nULVr0Lo=",
+  "updatedAt": {
+    "$date": "2021-06-20T23:05:10.553Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60cfd34fe194224afaa13313"
+  },
+  "matchId": "60cfd1f97167e0300eefb763",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-20T23:46:23.094Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 238.6666717529297,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 90,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 148.6666717529297,
+  "playerTwoUserName": "Samuel",
+  "roomName": "9OZ9kN8wayYwdZM4eGYW1m8IQJ3hQsenjoInG9FAIbQ=",
+  "updatedAt": {
+    "$date": "2021-06-20T23:46:23.094Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60cfee4de194224afaa2b235"
+  },
+  "matchId": "60cfec867167e0300eefb76f",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T01:41:33.942Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 164.56666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 91,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 73.56666564941406,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "NsBGVY6vIvKeDrA3S1StOk2zOzt8YR0tS6Poxi46OxU=",
+  "updatedAt": {
+    "$date": "2021-06-21T01:41:33.942Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60cfee4ee194224afaa2b261"
+  },
+  "matchId": "60cfec867167e0300eefb76f",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T01:41:34.073Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 164.56666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 91,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 73.56666564941406,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "NsBGVY6vIvKeDrA3S1StOk2zOzt8YR0tS6Poxi46OxU=",
+  "updatedAt": {
+    "$date": "2021-06-21T01:41:34.073Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60cff080e194224afaa2d3ab"
+  },
+  "matchId": "60cfee727167e0300eefb779",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T01:50:56.480Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 251.53334045410156,
+  "matchType": "oneononeBet",
+  "oneonone": "60cc43c17167e0300eefb5d1",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 133.03334045410156,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 118.5,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "ITyWyTXG2nesAVWAlAWMzJmFaYRE5DUPKxh0MdHb7VY=",
+  "updatedAt": {
+    "$date": "2021-06-21T01:50:56.480Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cff080e194224afaa2d3b3"
+  },
+  "matchId": "60cfee727167e0300eefb779",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T01:50:56.492Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 251.53334045410156,
+  "matchType": "oneononeBet",
+  "oneonone": "60cc43c17167e0300eefb5d1",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 133.03334045410156,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 118.5,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "ITyWyTXG2nesAVWAlAWMzJmFaYRE5DUPKxh0MdHb7VY=",
+  "updatedAt": {
+    "$date": "2021-06-21T01:50:56.492Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cff4dce194224afaa310dd"
+  },
+  "matchId": "60cff3807167e0300eefb785",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T02:09:32.177Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 115.23333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 65.46666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 49.766666412353516,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "a73J6ZadCukFwSECjpywQPh6Hy0aeKmoqIjv+wWnmOw=",
+  "updatedAt": {
+    "$date": "2021-06-21T02:09:32.177Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cff4dce194224afaa310f2"
+  },
+  "matchId": "60cff3807167e0300eefb785",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T02:09:32.230Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 115.23333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 65.46666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 49.766666412353516,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "a73J6ZadCukFwSECjpywQPh6Hy0aeKmoqIjv+wWnmOw=",
+  "updatedAt": {
+    "$date": "2021-06-21T02:09:32.230Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cff6c5e194224afaa32d61"
+  },
+  "matchId": "60cff5657167e0300eefb78f",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T02:17:41.977Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 169.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 81.5,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 88.36666870117188,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "56qbcyFZsfLeEbtafVyy9M31tgOoepc+YnoS85CQQsk=",
+  "updatedAt": {
+    "$date": "2021-06-21T02:17:41.977Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60cff6c5e194224afaa32d63"
+  },
+  "matchId": "60cff5657167e0300eefb78f",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T02:17:41.979Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 169.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 81.5,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 88.36666870117188,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "56qbcyFZsfLeEbtafVyy9M31tgOoepc+YnoS85CQQsk=",
+  "updatedAt": {
+    "$date": "2021-06-21T02:17:41.979Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d016cbe194224afaa4d83f"
+  },
+  "matchId": "60d014d17167e0300eefb79d",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T04:34:19.020Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 201.63333129882812,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 66.03333282470703,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 135.60000610351562,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "ZQNv+fctfTXy1zTdjVUEemujPUlisRTgAr562tptyfc=",
+  "updatedAt": {
+    "$date": "2021-06-21T04:34:19.020Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d016cbe194224afaa4d843"
+  },
+  "matchId": "60d014d17167e0300eefb79d",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T04:34:19.025Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 201.63333129882812,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 66.03333282470703,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 135.60000610351562,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "ZQNv+fctfTXy1zTdjVUEemujPUlisRTgAr562tptyfc=",
+  "updatedAt": {
+    "$date": "2021-06-21T04:34:19.025Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d09350e194224afaab471a"
+  },
+  "matchId": "60d090f97167e0300eefb7c3",
+  "senderId": "ruchika1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T13:25:36.577Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 281.0333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60d06d637167e0300eefb7af",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 143.73333740234375,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 137.3000030517578,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "YTmK",
+  "updatedAt": {
+    "$date": "2021-06-21T13:25:36.577Z"
+  },
+  "winnerName": "ruchika2"
+},{
+  "_id": {
+    "$oid": "60d09350e194224afaab471c"
+  },
+  "matchId": "60d090f97167e0300eefb7c3",
+  "senderId": "ruchika2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-21T13:25:36.579Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 281.0333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60d06d637167e0300eefb7af",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 143.73333740234375,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 137.3000030517578,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "YTmK",
+  "updatedAt": {
+    "$date": "2021-06-21T13:25:36.579Z"
+  },
+  "winnerName": "ruchika2"
+},{
+  "_id": {
+    "$oid": "60d18c47e194224afab815b1"
+  },
+  "matchId": "60d18bc3d342a44197b98074",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T07:07:51.403Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 29.66666603088379,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 0,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 29.66666603088379,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "8y+yv5d2QNOVO2DldlIm",
+  "updatedAt": {
+    "$date": "2021-06-22T07:07:51.403Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d18f41e194224afab83e5c"
+  },
+  "matchId": "60d18ed7d342a44197b9807e",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T07:20:33.168Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 3.4666666984558105,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 0,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 3.4666666984558105,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "PsYxLVL3ZwIyi4xN7Efce+jdtubZq26ik88V4CY4fb0=",
+  "updatedAt": {
+    "$date": "2021-06-22T07:20:33.168Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d19343e194224afab87496"
+  },
+  "matchId": "60d19264d342a44197b98088",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T07:37:39.098Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 120.4000015258789,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 60.400001525878906,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "OOX7Jui5a9wRjRmDTUWL+RW0mpAIb9VtgNY+llThEhI=",
+  "updatedAt": {
+    "$date": "2021-06-22T07:37:39.098Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d1c933e194224afabb424f"
+  },
+  "matchId": "60d1c8e0dd41846c92a9f2da",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T11:27:47.635Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 39.866668701171875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 8.733333587646484,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 31.133333206176758,
+  "playerTwoUserName": "Samuel",
+  "roomName": "oCCdYMQfrMrij0pwwDNeqdsv",
+  "updatedAt": {
+    "$date": "2021-06-22T11:27:47.635Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60d1c933e194224afabb4257"
+  },
+  "matchId": "60d1c8e0dd41846c92a9f2da",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T11:27:47.650Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 39.866668701171875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 8.733333587646484,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 31.133333206176758,
+  "playerTwoUserName": "Samuel",
+  "roomName": "oCCdYMQfrMrij0pwwDNeqdsv",
+  "updatedAt": {
+    "$date": "2021-06-22T11:27:47.650Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60d1ca6fe194224afabb5592"
+  },
+  "matchId": "60d1c995dd41846c92a9f2e4",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T11:33:03.168Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 87.66666412353516,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 16.16666603088379,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 71.5,
+  "playerTwoUserName": "Samuel",
+  "roomName": "T+hqNI6891oDKVxHKsXX43NSbozkd5B5MNyiMI0udG0=",
+  "updatedAt": {
+    "$date": "2021-06-22T11:33:03.168Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d1d62de194224afabc0a8f"
+  },
+  "matchId": "60d1d3fadd41846c92a9f2f4",
+  "senderId": "ruchika1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T12:23:09.128Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 269.4000244140625,
+  "matchType": "oneononeBet",
+  "oneonone": "60b9d8e617594c623faa971b",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 138.6666717529297,
+  "playerOneUserName": "ruchika2",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 130.73333740234375,
+  "playerTwoUserName": "ruchika1",
+  "roomName": "ItMyl2eRDMjzsrsX2qfCCPUN2tPwuw4QCNiWPDSEHjo=",
+  "updatedAt": {
+    "$date": "2021-06-22T12:23:09.128Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60d1ebe3e194224afabd2ee2"
+  },
+  "matchId": "60d1ea2cdd41846c92a9f2fd",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T13:55:47.049Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 158.33334350585938,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 66.06666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 92.26667022705078,
+  "playerTwoUserName": "Samawati",
+  "roomName": "3xlrF72mOUjtgaEp3jKvZVk0xF0tp",
+  "updatedAt": {
+    "$date": "2021-06-22T13:55:47.049Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1ebe3e194224afabd2f3d"
+  },
+  "matchId": "60d1ea2cdd41846c92a9f2fd",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T13:55:47.295Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 158.33334350585938,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 66.06666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 92.26667022705078,
+  "playerTwoUserName": "Samawati",
+  "roomName": "3xlrF72mOUjtgaEp3jKvZVk0xF0tp",
+  "updatedAt": {
+    "$date": "2021-06-22T13:55:47.295Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1ed6de194224afabd47da"
+  },
+  "matchId": "60d1ec81dd41846c92a9f309",
+  "senderId": "ruchika1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:02:21.786Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 179.43333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60d1b1f4dd41846c92a9f2af",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 99.5,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 79.93333435058594,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "s7AewgCz8O3qVJyvEI2gVqIZZ6rrkvb9su7iOiP3+7Y=",
+  "updatedAt": {
+    "$date": "2021-06-22T14:02:21.786Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60d1ed6de194224afabd47e1"
+  },
+  "matchId": "60d1ec81dd41846c92a9f309",
+  "senderId": "ruchika2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:02:21.796Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 179.43333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60d1b1f4dd41846c92a9f2af",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 99.5,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 79.93333435058594,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "s7AewgCz8O3qVJyvEI2gVqIZZ6rrkvb9su7iOiP3+7Y=",
+  "updatedAt": {
+    "$date": "2021-06-22T14:02:21.796Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60d1eef4e194224afabd60ad"
+  },
+  "matchId": "60d1ec8add41846c92a9f30c",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:08:52.690Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 248.3333282470703,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 112.19999694824219,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 136.13333129882812,
+  "playerTwoUserName": "Samawati",
+  "roomName": "qpQKzR7KCAYJCcseuxGvUdUQRy6yyrEof1M1h6jNr3s=",
+  "updatedAt": {
+    "$date": "2021-06-22T14:08:52.690Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d1eef4e194224afabd60c0"
+  },
+  "matchId": "60d1ec8add41846c92a9f30c",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:08:52.728Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 248.3333282470703,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 112.19999694824219,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 136.13333129882812,
+  "playerTwoUserName": "Samawati",
+  "roomName": "qpQKzR7KCAYJCcseuxGvUdUQRy6yyrEof1M1h6jNr3s=",
+  "updatedAt": {
+    "$date": "2021-06-22T14:08:52.728Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d1f04ae194224afabd7761"
+  },
+  "matchId": "60d1ee27dd41846c92a9f31c",
+  "senderId": "ruchika1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:14:34.022Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 366.16668701171875,
+  "matchType": "oneononeBet",
+  "oneonone": "60d1b1f4dd41846c92a9f2af",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 217.56666564941406,
+  "playerOneUserName": "ruchika2",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 148.60000610351562,
+  "playerTwoUserName": "ruchika1",
+  "roomName": "HzHhmuzhrELZGb6jK2wZho2M",
+  "updatedAt": {
+    "$date": "2021-06-22T14:14:34.022Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60d1f04ae194224afabd7792"
+  },
+  "matchId": "60d1ee27dd41846c92a9f31c",
+  "senderId": "ruchika2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:14:34.154Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 366.16668701171875,
+  "matchType": "oneononeBet",
+  "oneonone": "60d1b1f4dd41846c92a9f2af",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 217.56666564941406,
+  "playerOneUserName": "ruchika2",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 148.60000610351562,
+  "playerTwoUserName": "ruchika1",
+  "roomName": "HzHhmuzhrELZGb6jK2wZho2M",
+  "updatedAt": {
+    "$date": "2021-06-22T14:14:34.154Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60d1f1dce194224afabd904b"
+  },
+  "matchId": "60d1ef14dd41846c92a9f326",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:21:16.144Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 341.86663818359375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 141.89999389648438,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 199.96665954589844,
+  "playerTwoUserName": "Samawati",
+  "roomName": "L",
+  "updatedAt": {
+    "$date": "2021-06-22T14:21:16.144Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1f1dce194224afabd9097"
+  },
+  "matchId": "60d1ef14dd41846c92a9f326",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:21:16.343Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 341.86663818359375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 141.89999389648438,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 199.96665954589844,
+  "playerTwoUserName": "Samawati",
+  "roomName": "L",
+  "updatedAt": {
+    "$date": "2021-06-22T14:21:16.343Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1f456e194224afabdb5bd"
+  },
+  "matchId": "60d1f1fedd41846c92a9f332",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:31:50.910Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 240.0333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 104.69999694824219,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 135.3333282470703,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "iqBLhakb1xKdqM6++oF1heX7Jem9iArkzuRSfp",
+  "updatedAt": {
+    "$date": "2021-06-22T14:31:50.910Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1f457e194224afabdb632"
+  },
+  "matchId": "60d1f1fedd41846c92a9f332",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:31:51.223Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 240.0333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 104.69999694824219,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 135.3333282470703,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "iqBLhakb1xKdqM6++oF1heX7Jem9iArkzuRSfp",
+  "updatedAt": {
+    "$date": "2021-06-22T14:31:51.223Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1f5cee194224afabdcd08"
+  },
+  "matchId": "60d1f472dd41846c92a9f33c",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:38:06.891Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 120.13333129882812,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 61.36666488647461,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 58.766666412353516,
+  "playerTwoUserName": "Samawati",
+  "roomName": "IZOD4jwPehmHICV6eJoMpBBsL2nTGFSCwBAWtu",
+  "updatedAt": {
+    "$date": "2021-06-22T14:38:06.891Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1f5cee194224afabdcd25"
+  },
+  "matchId": "60d1f472dd41846c92a9f33c",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:38:06.974Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 120.13333129882812,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 61.36666488647461,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 58.766666412353516,
+  "playerTwoUserName": "Samawati",
+  "roomName": "IZOD4jwPehmHICV6eJoMpBBsL2nTGFSCwBAWtu",
+  "updatedAt": {
+    "$date": "2021-06-22T14:38:06.974Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1f82ee194224afabdf0dd"
+  },
+  "matchId": "60d1f5e7dd41846c92a9f346",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:48:14.831Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 225.10000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 115.63333129882812,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 109.46666717529297,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "itOC+6BnCiOMlK",
+  "updatedAt": {
+    "$date": "2021-06-22T14:48:14.831Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d1f82ee194224afabdf0df"
+  },
+  "matchId": "60d1f5e7dd41846c92a9f346",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T14:48:14.833Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 225.10000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 115.63333129882812,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 109.46666717529297,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "itOC+6BnCiOMlK",
+  "updatedAt": {
+    "$date": "2021-06-22T14:48:14.833Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d20cdfe194224afabf0588"
+  },
+  "matchId": "60d20a9fdd41846c92a9f354",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T16:16:31.271Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 252.89999389648438,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 116.4000015258789,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 136.5,
+  "playerTwoUserName": "Samawati",
+  "roomName": "kuuHoILk4yFnSvSZsG0OX3bUw5nRPFlWSDhgJU8BbWE=",
+  "updatedAt": {
+    "$date": "2021-06-22T16:16:31.271Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d20cdfe194224afabf059b"
+  },
+  "matchId": "60d20a9fdd41846c92a9f354",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T16:16:31.320Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 252.89999389648438,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 116.4000015258789,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 136.5,
+  "playerTwoUserName": "Samawati",
+  "roomName": "kuuHoILk4yFnSvSZsG0OX3bUw5nRPFlWSDhgJU8BbWE=",
+  "updatedAt": {
+    "$date": "2021-06-22T16:16:31.320Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d20eebe194224afabf2412"
+  },
+  "matchId": "60d20d02dd41846c92a9f35e",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T16:25:15.426Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 198.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 97.23332977294922,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 101.30000305175781,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "cS8j9XutXrZ",
+  "updatedAt": {
+    "$date": "2021-06-22T16:25:15.426Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d20eebe194224afabf2459"
+  },
+  "matchId": "60d20d02dd41846c92a9f35e",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T16:25:15.608Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 198.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 97.23332977294922,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 101.30000305175781,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "cS8j9XutXrZ",
+  "updatedAt": {
+    "$date": "2021-06-22T16:25:15.608Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d21009e194224afabf34ed"
+  },
+  "matchId": "60d20f11dd41846c92a9f368",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T16:30:01.716Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 76.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 34.63333511352539,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 42.233333587646484,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "N77LPanGXwYESQz+DgI",
+  "updatedAt": {
+    "$date": "2021-06-22T16:30:01.716Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d21009e194224afabf34fb"
+  },
+  "matchId": "60d20f11dd41846c92a9f368",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T16:30:01.754Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 76.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 34.63333511352539,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 42.233333587646484,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "N77LPanGXwYESQz+DgI",
+  "updatedAt": {
+    "$date": "2021-06-22T16:30:01.754Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d217bfe194224afabfa034"
+  },
+  "matchId": "60d215ffdd41846c92a9f37b",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T17:02:55.410Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 215.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 119.96666717529297,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 95.9000015258789,
+  "playerTwoUserName": "Samawati",
+  "roomName": "fnDp32KcsD6KvrFNE7WLS62Tkp3N1WLhw3GEIpA1WCM=",
+  "updatedAt": {
+    "$date": "2021-06-22T17:02:55.410Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d217bfe194224afabfa04f"
+  },
+  "matchId": "60d215ffdd41846c92a9f37b",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T17:02:55.466Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 215.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 119.96666717529297,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 95.9000015258789,
+  "playerTwoUserName": "Samawati",
+  "roomName": "fnDp32KcsD6KvrFNE7WLS62Tkp3N1WLhw3GEIpA1WCM=",
+  "updatedAt": {
+    "$date": "2021-06-22T17:02:55.466Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d219cee194224afabfbfce"
+  },
+  "matchId": "60d217eedd41846c92a9f386",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T17:11:42.963Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 181.36666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 86.13333129882812,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 95.23332977294922,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "SRulg7rFBzDDlZU62L",
+  "updatedAt": {
+    "$date": "2021-06-22T17:11:42.963Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d219cee194224afabfbfd2"
+  },
+  "matchId": "60d217eedd41846c92a9f386",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T17:11:42.968Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 181.36666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 86.13333129882812,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 95.23332977294922,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "SRulg7rFBzDDlZU62L",
+  "updatedAt": {
+    "$date": "2021-06-22T17:11:42.968Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d22110e194224afac02349"
+  },
+  "matchId": "60d21f47dd41846c92a9f390",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T17:42:40.556Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 222.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 126.69999694824219,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 96.16666412353516,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "Q0vEJB3H0gJv0DwdZN0HxVuh",
+  "updatedAt": {
+    "$date": "2021-06-22T17:42:40.556Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d22110e194224afac02357"
+  },
+  "matchId": "60d21f47dd41846c92a9f390",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T17:42:40.588Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 222.86666870117188,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 126.69999694824219,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 96.16666412353516,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "Q0vEJB3H0gJv0DwdZN0HxVuh",
+  "updatedAt": {
+    "$date": "2021-06-22T17:42:40.588Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d2267ee194224afac06f76"
+  },
+  "matchId": "60d224b8dd41846c92a9f39b",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T18:05:50.225Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 172.6666717529297,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 102.83333587646484,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 69.83333587646484,
+  "playerTwoUserName": "Samawati",
+  "roomName": "LpVlewrtZ0",
+  "updatedAt": {
+    "$date": "2021-06-22T18:05:50.225Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d2267ee194224afac06f88"
+  },
+  "matchId": "60d224b8dd41846c92a9f39b",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T18:05:50.256Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 172.6666717529297,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 102.83333587646484,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 69.83333587646484,
+  "playerTwoUserName": "Samawati",
+  "roomName": "LpVlewrtZ0",
+  "updatedAt": {
+    "$date": "2021-06-22T18:05:50.256Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d24330e194224afac1ec62"
+  },
+  "matchId": "60d2421edd41846c92a9f3aa",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T20:08:16.021Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 109.5,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 69.33333587646484,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 40.16666793823242,
+  "playerTwoUserName": "Samawati",
+  "roomName": "b0r1VpHgGQJt5RULYBpYQMBqZXcCc8fFUQGhIR5pVW4=",
+  "updatedAt": {
+    "$date": "2021-06-22T20:08:16.021Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d24330e194224afac1ec72"
+  },
+  "matchId": "60d2421edd41846c92a9f3aa",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T20:08:16.055Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 109.5,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 69.33333587646484,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 40.16666793823242,
+  "playerTwoUserName": "Samawati",
+  "roomName": "b0r1VpHgGQJt5RULYBpYQMBqZXcCc8fFUQGhIR5pVW4=",
+  "updatedAt": {
+    "$date": "2021-06-22T20:08:16.055Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d245a3e194224afac211bc"
+  },
+  "matchId": "60d24355dd41846c92a9f3b4",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T20:18:43.669Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 251.9666748046875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 109.73332977294922,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 142.23333740234375,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "Ef5iRv5or9WUve0YWxqQUdLKWlyPmX7rrCbyK",
+  "updatedAt": {
+    "$date": "2021-06-22T20:18:43.669Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d245a3e194224afac211d8"
+  },
+  "matchId": "60d24355dd41846c92a9f3b4",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-22T20:18:43.735Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 251.9666748046875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 109.73332977294922,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 142.23333740234375,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "Ef5iRv5or9WUve0YWxqQUdLKWlyPmX7rrCbyK",
+  "updatedAt": {
+    "$date": "2021-06-22T20:18:43.735Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d31b8ce194224afacd2870"
+  },
+  "matchId": "60d318d4dd41846c92a9f414",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T11:31:24.156Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 336.73333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 178.39999389648438,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 158.3333282470703,
+  "playerTwoUserName": "Samawati",
+  "roomName": "zuYbMoiw4PcwDX+C97f3MWUrniIMJaxh8AcD5dcPBz8=",
+  "updatedAt": {
+    "$date": "2021-06-23T11:31:24.156Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d31b8ce194224afacd2878"
+  },
+  "matchId": "60d318d4dd41846c92a9f414",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T11:31:24.169Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 336.73333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 178.39999389648438,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 158.3333282470703,
+  "playerTwoUserName": "Samawati",
+  "roomName": "zuYbMoiw4PcwDX+C97f3MWUrniIMJaxh8AcD5dcPBz8=",
+  "updatedAt": {
+    "$date": "2021-06-23T11:31:24.169Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d31d71e194224afacd4642"
+  },
+  "matchId": "60d31ba9dd41846c92a9f41e",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T11:39:29.089Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 215.73333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 121.06666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 94.66666412353516,
+  "playerTwoUserName": "Samawati",
+  "roomName": "DHCWYfJudbU8gAltXeyvHYp6tj+moO4PhzCqOXLV+LM=",
+  "updatedAt": {
+    "$date": "2021-06-23T11:39:29.089Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d31d71e194224afacd4652"
+  },
+  "matchId": "60d31ba9dd41846c92a9f41e",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T11:39:29.126Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 215.73333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 121.06666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 94.66666412353516,
+  "playerTwoUserName": "Samawati",
+  "roomName": "DHCWYfJudbU8gAltXeyvHYp6tj+moO4PhzCqOXLV+LM=",
+  "updatedAt": {
+    "$date": "2021-06-23T11:39:29.126Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d32059e194224afacd724d"
+  },
+  "matchId": "60d31d90dd41846c92a9f428",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T11:51:53.070Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 307.433349609375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 166.86666870117188,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 140.56666564941406,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "nltH+GaRuD1ojjStarXOZ8roxhu9wQq8lzCjiOZgjRk=",
+  "updatedAt": {
+    "$date": "2021-06-23T11:51:53.070Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d32059e194224afacd7251"
+  },
+  "matchId": "60d31d90dd41846c92a9f428",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T11:51:53.075Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 307.433349609375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 166.86666870117188,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 140.56666564941406,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "nltH+GaRuD1ojjStarXOZ8roxhu9wQq8lzCjiOZgjRk=",
+  "updatedAt": {
+    "$date": "2021-06-23T11:51:53.075Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d321f1e194224afacd8b82"
+  },
+  "matchId": "60d32076dd41846c92a9f433",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T11:58:41.011Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 134.43333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 75.56666564941406,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 58.86666488647461,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "ORx8gizixtAAB3vr8wHHphUh",
+  "updatedAt": {
+    "$date": "2021-06-23T11:58:41.011Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d321f1e194224afacd8b99"
+  },
+  "matchId": "60d32076dd41846c92a9f433",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T11:58:41.065Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 134.43333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 75.56666564941406,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 58.86666488647461,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "ORx8gizixtAAB3vr8wHHphUh",
+  "updatedAt": {
+    "$date": "2021-06-23T11:58:41.065Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d324c3e194224afacdb60e"
+  },
+  "matchId": "60d3220ddd41846c92a9f43d",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T12:10:43.489Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 326.9000244140625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 171.73333740234375,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 155.1666717529297,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "+QcLhfQ8C+URg4xfA37zgyQoKD8FmDsbLqiHnBsdH0U=",
+  "updatedAt": {
+    "$date": "2021-06-23T12:10:43.489Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d324c3e194224afacdb669"
+  },
+  "matchId": "60d3220ddd41846c92a9f43d",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T12:10:43.698Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 326.9000244140625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 171.73333740234375,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 155.1666717529297,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "+QcLhfQ8C+URg4xfA37zgyQoKD8FmDsbLqiHnBsdH0U=",
+  "updatedAt": {
+    "$date": "2021-06-23T12:10:43.698Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d3276fe194224afacdde25"
+  },
+  "matchId": "60d324efdd41846c92a9f448",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T12:22:07.018Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 343.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 186.06666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 157.46665954589844,
+  "playerTwoUserName": "Samawati",
+  "roomName": "yJGzr6bDJeVswctT97FM8atdhZxUUwxaIQ8rgl8kktU=",
+  "updatedAt": {
+    "$date": "2021-06-23T12:22:07.018Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d3276fe194224afacdde27"
+  },
+  "matchId": "60d324efdd41846c92a9f448",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T12:22:07.020Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 343.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 186.06666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 157.46665954589844,
+  "playerTwoUserName": "Samawati",
+  "roomName": "yJGzr6bDJeVswctT97FM8atdhZxUUwxaIQ8rgl8kktU=",
+  "updatedAt": {
+    "$date": "2021-06-23T12:22:07.020Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d32838e194224afacdeb9b"
+  },
+  "matchId": "60d32794dd41846c92a9f452",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T12:25:28.835Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 67.20000457763672,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 49.13333511352539,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 18.066667556762695,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "S16fspUWU1QgMc8PV",
+  "updatedAt": {
+    "$date": "2021-06-23T12:25:28.835Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d3b5dce194224afad53352"
+  },
+  "matchId": "60d3b56ddd41846c92a9f482",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-23T22:29:48.963Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 71.9000015258789,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 18.733333587646484,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 53.16666793823242,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "Hg4+ulb7Q6A7PuUiVgidVCN",
+  "updatedAt": {
+    "$date": "2021-06-23T22:29:48.963Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d3f856e194224afad8a34b"
+  },
+  "matchId": "60d3f6d6dd41846c92a9f4bc",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:13:26.375Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 136.1999969482422,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 68.56666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 67.63333129882812,
+  "playerTwoUserName": "Samawati",
+  "roomName": "yyhuJcCjxqc+g0QfD1smRoKsqxHpQnXtKS",
+  "updatedAt": {
+    "$date": "2021-06-24T03:13:26.375Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d3f856e194224afad8a365"
+  },
+  "matchId": "60d3f6d6dd41846c92a9f4bc",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:13:26.429Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 136.1999969482422,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 68.56666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 67.63333129882812,
+  "playerTwoUserName": "Samawati",
+  "roomName": "yyhuJcCjxqc+g0QfD1smRoKsqxHpQnXtKS",
+  "updatedAt": {
+    "$date": "2021-06-24T03:13:26.429Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d3fb15e194224afad8cbd5"
+  },
+  "matchId": "60d3f8f7dd41846c92a9f4d2",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:25:09.577Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 278.8666687011719,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 125.5,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 153.36666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "xT8my7vPjWJlNaQxGXyHk5nzg++cZEAfvKEmlwTE3eA=",
+  "updatedAt": {
+    "$date": "2021-06-24T03:25:09.577Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d3fb15e194224afad8cc03"
+  },
+  "matchId": "60d3f8f7dd41846c92a9f4d2",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:25:09.694Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 278.8666687011719,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 125.5,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 153.36666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "xT8my7vPjWJlNaQxGXyHk5nzg++cZEAfvKEmlwTE3eA=",
+  "updatedAt": {
+    "$date": "2021-06-24T03:25:09.694Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d3fdf0e194224afad8f738"
+  },
+  "matchId": "60d3fb32dd41846c92a9f4dc",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:37:20.922Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 329.4666748046875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 137.13333129882812,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 192.3333282470703,
+  "playerTwoUserName": "Samawati",
+  "roomName": "fEtBVMAYvmy2J2AU8Nd0QSaS9vKmkGe9GarwxBhh0tw=",
+  "updatedAt": {
+    "$date": "2021-06-24T03:37:20.922Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d3fdf0e194224afad8f741"
+  },
+  "matchId": "60d3fb32dd41846c92a9f4dc",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:37:20.935Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 329.4666748046875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 137.13333129882812,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 192.3333282470703,
+  "playerTwoUserName": "Samawati",
+  "roomName": "fEtBVMAYvmy2J2AU8Nd0QSaS9vKmkGe9GarwxBhh0tw=",
+  "updatedAt": {
+    "$date": "2021-06-24T03:37:20.935Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d40079e194224afad91e0f"
+  },
+  "matchId": "60d3fe0ddd41846c92a9f4ee",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:48:09.711Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 319.23333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 155.26666259765625,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 163.96665954589844,
+  "playerTwoUserName": "Samawati",
+  "roomName": "uKgNzLUV+bkv2LQE71uEwqxMVyghcxGtxK+I",
+  "updatedAt": {
+    "$date": "2021-06-24T03:48:09.711Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d40079e194224afad91e79"
+  },
+  "matchId": "60d3fe0ddd41846c92a9f4ee",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:48:09.968Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 319.23333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 155.26666259765625,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 163.96665954589844,
+  "playerTwoUserName": "Samawati",
+  "roomName": "uKgNzLUV+bkv2LQE71uEwqxMVyghcxGtxK+I",
+  "updatedAt": {
+    "$date": "2021-06-24T03:48:09.968Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d401a1e194224afad93127"
+  },
+  "matchId": "60d40093dd41846c92a9f503",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:53:05.094Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 114.83332824707031,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 40.33333206176758,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 74.5,
+  "playerTwoUserName": "Samawati",
+  "roomName": "HujuUuPN0HN6pmcfs8WRFrGukhgDotY6Qu1CDFcgvGA=",
+  "updatedAt": {
+    "$date": "2021-06-24T03:53:05.094Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d401a1e194224afad93130"
+  },
+  "matchId": "60d40093dd41846c92a9f503",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T03:53:05.110Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 114.83332824707031,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 40.33333206176758,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 74.5,
+  "playerTwoUserName": "Samawati",
+  "roomName": "HujuUuPN0HN6pmcfs8WRFrGukhgDotY6Qu1CDFcgvGA=",
+  "updatedAt": {
+    "$date": "2021-06-24T03:53:05.110Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d40506e194224afad96340"
+  },
+  "matchId": "60d40210dd41846c92a9f519",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T04:07:35.003Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 376.566650390625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 192,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 184.56666564941406,
+  "playerTwoUserName": "Samawati",
+  "roomName": "Dy",
+  "updatedAt": {
+    "$date": "2021-06-24T04:07:35.003Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d40507e194224afad9634e"
+  },
+  "matchId": "60d40210dd41846c92a9f519",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T04:07:35.034Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 376.566650390625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 192,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 184.56666564941406,
+  "playerTwoUserName": "Samawati",
+  "roomName": "Dy",
+  "updatedAt": {
+    "$date": "2021-06-24T04:07:35.034Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d4066ce194224afad97985"
+  },
+  "matchId": "60d4052ddd41846c92a9f524",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T04:13:32.907Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 109.56666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 55.5,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 54.06666564941406,
+  "playerTwoUserName": "Samawati",
+  "roomName": "Aj34QS8Z6",
+  "updatedAt": {
+    "$date": "2021-06-24T04:13:32.907Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d4066ce194224afad9798f"
+  },
+  "matchId": "60d4052ddd41846c92a9f524",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T04:13:32.921Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 109.56666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 55.5,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 54.06666564941406,
+  "playerTwoUserName": "Samawati",
+  "roomName": "Aj34QS8Z6",
+  "updatedAt": {
+    "$date": "2021-06-24T04:13:32.921Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d409ffe194224afad9ae72"
+  },
+  "matchId": "60d4068bdd41846c92a9f52e",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T04:28:47.349Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 434.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 219.56666564941406,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 214.96665954589844,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "Y6xgzVKthSCgu5qtgSWlHbDWmw4uvsW7J7+7lI7LB9E=",
+  "updatedAt": {
+    "$date": "2021-06-24T04:28:47.349Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d409ffe194224afad9ae88"
+  },
+  "matchId": "60d4068bdd41846c92a9f52e",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T04:28:47.400Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 434.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 219.56666564941406,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 214.96665954589844,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "Y6xgzVKthSCgu5qtgSWlHbDWmw4uvsW7J7+7lI7LB9E=",
+  "updatedAt": {
+    "$date": "2021-06-24T04:28:47.400Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d41457e194224afada3b88"
+  },
+  "matchId": "60d40fdfdd41846c92a9f543",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T05:12:55.150Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 970.5,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 465.6666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 504.8333435058594,
+  "playerTwoUserName": "Samawati",
+  "roomName": "Sj9Axj5PKrSXoah2BNxwv1rFfSnJUymoRwS6omYg7oE=",
+  "updatedAt": {
+    "$date": "2021-06-24T05:12:55.150Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d41457e194224afada3bf0"
+  },
+  "matchId": "60d40fdfdd41846c92a9f543",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T05:12:55.438Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 970.5,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 465.6666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 504.8333435058594,
+  "playerTwoUserName": "Samawati",
+  "roomName": "Sj9Axj5PKrSXoah2BNxwv1rFfSnJUymoRwS6omYg7oE=",
+  "updatedAt": {
+    "$date": "2021-06-24T05:12:55.438Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d41798e194224afada6a28"
+  },
+  "matchId": "60d415b5dd41846c92a9f54e",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T05:26:48.909Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 402.8666687011719,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 195.53334045410156,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 207.3333282470703,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "+Ye0b4Hyxwc30FtrQoLewMV3ujLjOS1J1jqO2SgDOuo=",
+  "updatedAt": {
+    "$date": "2021-06-24T05:26:48.909Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d41798e194224afada6a40"
+  },
+  "matchId": "60d415b5dd41846c92a9f54e",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T05:26:48.966Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 402.8666687011719,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 195.53334045410156,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 207.3333282470703,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "+Ye0b4Hyxwc30FtrQoLewMV3ujLjOS1J1jqO2SgDOuo=",
+  "updatedAt": {
+    "$date": "2021-06-24T05:26:48.966Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d41a89e194224afada946a"
+  },
+  "matchId": "60d416fddd41846c92a9f556",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T05:39:21.668Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 555.5999755859375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 314.6000061035156,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 241,
+  "playerTwoUserName": "Samawati",
+  "roomName": "srdk5Vzgy",
+  "updatedAt": {
+    "$date": "2021-06-24T05:39:21.668Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d41a89e194224afada948b"
+  },
+  "matchId": "60d416fddd41846c92a9f556",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T05:39:21.735Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 555.5999755859375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 314.6000061035156,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 241,
+  "playerTwoUserName": "Samawati",
+  "roomName": "srdk5Vzgy",
+  "updatedAt": {
+    "$date": "2021-06-24T05:39:21.735Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d41e1ae194224afadac845"
+  },
+  "matchId": "60d41abadd41846c92a9f562",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T05:54:34.888Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 569.566650390625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 258.1666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 311.3999938964844,
+  "playerTwoUserName": "Samawati",
+  "roomName": "enAXlZ0ASY2Om9QH3+65xiELtcA1UhztjN7o9Xy6S8g=",
+  "updatedAt": {
+    "$date": "2021-06-24T05:54:34.888Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d41e1ae194224afadac85a"
+  },
+  "matchId": "60d41abadd41846c92a9f562",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T05:54:34.934Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 569.566650390625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 258.1666564941406,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 311.3999938964844,
+  "playerTwoUserName": "Samawati",
+  "roomName": "enAXlZ0ASY2Om9QH3+65xiELtcA1UhztjN7o9Xy6S8g=",
+  "updatedAt": {
+    "$date": "2021-06-24T05:54:34.934Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d4217ce194224afadaf8e2"
+  },
+  "matchId": "60d4201add41846c92a9f56e",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T06:09:00.908Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 133.23333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 80.73332977294922,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 52.5,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "JHumqfWkl+m4LCVRQUIUNpjvER2FuelMUm87Yl1tN3w=",
+  "updatedAt": {
+    "$date": "2021-06-24T06:09:00.908Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d4217ce194224afadaf8ef"
+  },
+  "matchId": "60d4201add41846c92a9f56e",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T06:09:00.934Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 133.23333740234375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 80.73332977294922,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "1",
+  "playerTwoMatchDuration": 52.5,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "JHumqfWkl+m4LCVRQUIUNpjvER2FuelMUm87Yl1tN3w=",
+  "updatedAt": {
+    "$date": "2021-06-24T06:09:00.934Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d42c44e194224afadb8a6a"
+  },
+  "matchId": "60d42ba4dd41846c92a9f58d",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T06:55:00.097Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 57.06666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 27.066667556762695,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "XYeW0jByb2N3FJRFHI94AvA7",
+  "updatedAt": {
+    "$date": "2021-06-24T06:55:00.097Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d42d1ce194224afadbae97"
+  },
+  "matchId": "60d42c8cdd41846c92a9f595",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T06:58:36.527Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 41.900001525878906,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 11.899999618530273,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "tVwPhPIhsAbGU2Yzia",
+  "updatedAt": {
+    "$date": "2021-06-24T06:58:36.527Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d42e01e194224afadbd565"
+  },
+  "matchId": "60d42d68dd41846c92a9f59d",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T07:02:25.483Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 50.53333282470703,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 20.53333282470703,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "OkpWAYNiY",
+  "updatedAt": {
+    "$date": "2021-06-24T07:02:25.483Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d43748e194224afadc6b5e"
+  },
+  "matchId": "60d43588dd41846c92a9f5c4",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T07:42:00.416Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 194.60000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 120.06666564941406,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 74.53333282470703,
+  "playerTwoUserName": "Samawati",
+  "roomName": "vPYlCKV73CHF8cvgpKOFfJtMy+",
+  "updatedAt": {
+    "$date": "2021-06-24T07:42:00.416Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d43748e194224afadc6b70"
+  },
+  "matchId": "60d43588dd41846c92a9f5c4",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T07:42:00.476Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 194.60000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 120.06666564941406,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 74.53333282470703,
+  "playerTwoUserName": "Samawati",
+  "roomName": "vPYlCKV73CHF8cvgpKOFfJtMy+",
+  "updatedAt": {
+    "$date": "2021-06-24T07:42:00.476Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d43d75e194224afadcc2b5"
+  },
+  "matchId": "60d43ab1dd41846c92a9f5d9",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T08:08:21.919Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 315.9666748046875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 136.60000610351562,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 179.36666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "OR1INfGMNMOOYJ9KU+57XO6v3zVDE6goLtdaJIXXYHo=",
+  "updatedAt": {
+    "$date": "2021-06-24T08:08:21.919Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d43d76e194224afadcc2f7"
+  },
+  "matchId": "60d43ab1dd41846c92a9f5d9",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T08:08:22.078Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 315.9666748046875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 136.60000610351562,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 179.36666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "OR1INfGMNMOOYJ9KU+57XO6v3zVDE6goLtdaJIXXYHo=",
+  "updatedAt": {
+    "$date": "2021-06-24T08:08:22.078Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d440eae194224afadcf599"
+  },
+  "matchId": "60d43da6dd41846c92a9f5e4",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T08:23:06.930Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 471.70001220703125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 243.39999389648438,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 228.3000030517578,
+  "playerTwoUserName": "Samawati",
+  "roomName": "gWTNyeGtXHWALuDQI5fkmQ5ROOo4eWDCLjwCdJVwmE8=",
+  "updatedAt": {
+    "$date": "2021-06-24T08:23:06.930Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d440eae194224afadcf5b7"
+  },
+  "matchId": "60d43da6dd41846c92a9f5e4",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T08:23:06.992Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 471.70001220703125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 243.39999389648438,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 228.3000030517578,
+  "playerTwoUserName": "Samawati",
+  "roomName": "gWTNyeGtXHWALuDQI5fkmQ5ROOo4eWDCLjwCdJVwmE8=",
+  "updatedAt": {
+    "$date": "2021-06-24T08:23:06.992Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d443ece194224afadd22bc"
+  },
+  "matchId": "60d4412ddd41846c92a9f5ee",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T08:35:56.611Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 380.0999755859375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 162.8333282470703,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 217.26666259765625,
+  "playerTwoUserName": "Samawati",
+  "roomName": "x43vfYwRM0BQmH1eT6HstK6d",
+  "updatedAt": {
+    "$date": "2021-06-24T08:35:56.611Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d443ece194224afadd231f"
+  },
+  "matchId": "60d4412ddd41846c92a9f5ee",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T08:35:56.834Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 380.0999755859375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 162.8333282470703,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 217.26666259765625,
+  "playerTwoUserName": "Samawati",
+  "roomName": "x43vfYwRM0BQmH1eT6HstK6d",
+  "updatedAt": {
+    "$date": "2021-06-24T08:35:56.834Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d4465de194224afadd47af"
+  },
+  "matchId": "60d4446bdd41846c92a9f5f8",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T08:46:21.191Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 252.39999389648438,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 137.6666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 114.73332977294922,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "TsT6pXwfpoezh9O6IvowCSEthTbQFEFamAop9k1o",
+  "updatedAt": {
+    "$date": "2021-06-24T08:46:21.191Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d4465de194224afadd47d4"
+  },
+  "matchId": "60d4446bdd41846c92a9f5f8",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T08:46:21.252Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 252.39999389648438,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 137.6666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 114.73332977294922,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "TsT6pXwfpoezh9O6IvowCSEthTbQFEFamAop9k1o",
+  "updatedAt": {
+    "$date": "2021-06-24T08:46:21.252Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d44b2ce194224afadd8ea4"
+  },
+  "matchId": "60d4468fdd41846c92a9f603",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T09:06:52.453Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 679.4000244140625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 356.6666564941406,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 322.73333740234375,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "1dtCKZcwuyBtKGR8SWQ53WCXKOS1ILsCNshMByceYRA=",
+  "updatedAt": {
+    "$date": "2021-06-24T09:06:52.453Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d44b2ce194224afadd8f22"
+  },
+  "matchId": "60d4468fdd41846c92a9f603",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T09:06:52.803Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 679.4000244140625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 356.6666564941406,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 322.73333740234375,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "1dtCKZcwuyBtKGR8SWQ53WCXKOS1ILsCNshMByceYRA=",
+  "updatedAt": {
+    "$date": "2021-06-24T09:06:52.803Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d44ef7e194224afaddc533"
+  },
+  "matchId": "60d44c7fdd41846c92a9f612",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T09:23:03.952Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 293.933349609375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 132.1666717529297,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 161.76666259765625,
+  "playerTwoUserName": "Samawati",
+  "roomName": "EMhtRNNu9uVS4BRoSz2fu8gfCOpxZiUquyeTZeSrnFo=",
+  "updatedAt": {
+    "$date": "2021-06-24T09:23:03.952Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d44ef7e194224afaddc537"
+  },
+  "matchId": "60d44c7fdd41846c92a9f612",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-24T09:23:03.956Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 293.933349609375,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 132.1666717529297,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 161.76666259765625,
+  "playerTwoUserName": "Samawati",
+  "roomName": "EMhtRNNu9uVS4BRoSz2fu8gfCOpxZiUquyeTZeSrnFo=",
+  "updatedAt": {
+    "$date": "2021-06-24T09:23:03.956Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d552fce194224afaeb2cf5"
+  },
+  "matchId": "60d551f033b751374a9e33bd",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T03:52:28.892Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 165.9666748046875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 90,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 75.96666717529297,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "7tVlJUbPGDe4vPhXsfqr5NkTGXlFbBLOPg5nBRpcB3o=",
+  "updatedAt": {
+    "$date": "2021-06-25T03:52:28.892Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d57644e194224afaecfea2"
+  },
+  "matchId": "60d575c533b751374a9e33cc",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T06:23:00.223Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 26,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 26,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "Samuel",
+  "roomName": "NmQC6",
+  "updatedAt": {
+    "$date": "2021-06-25T06:23:00.223Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d576f0e194224afaed08e4"
+  },
+  "matchId": "60d5765c33b751374a9e33d6",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T06:25:52.555Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 47.06666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 17.066667556762695,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "Samuel",
+  "roomName": "7lOa4AttB05OB",
+  "updatedAt": {
+    "$date": "2021-06-25T06:25:52.555Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d5780de194224afaed2f8b"
+  },
+  "matchId": "60d5778daee5455f26f3a0d0",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T06:30:37.700Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 26.233333587646484,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 26.233333587646484,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 0,
+  "playerTwoUserName": "Samuel",
+  "roomName": "BtT37x1mSJRuN1LJkiOxLp8ueyx+4utF2xFxcDZBtCQ=",
+  "updatedAt": {
+    "$date": "2021-06-25T06:30:37.700Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d57b36e194224afaed5a71"
+  },
+  "matchId": "60d57aa3aee5455f26f3a0da",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T06:44:06.080Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 45.133331298828125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 15.133333206176758,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "Samuel",
+  "roomName": "l9RIQPoWOddb",
+  "updatedAt": {
+    "$date": "2021-06-25T06:44:06.080Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d57e6de194224afaed9f93"
+  },
+  "matchId": "60d57dadaee5455f26f3a0e3",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T06:57:49.094Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 90,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 60,
+  "playerTwoUserName": "Samuel",
+  "roomName": "v4+IZPYwVMQyaqu",
+  "updatedAt": {
+    "$date": "2021-06-25T06:57:49.094Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d584dfe194224afaedf658"
+  },
+  "matchId": "60d58440aee5455f26f3a0f3",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T07:25:19.806Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 57.666664123535156,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 27.66666603088379,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "rGCPGnkhddA+oIo74uohQngW9Xg1I9jCtCQ3bsx9Qoo=",
+  "updatedAt": {
+    "$date": "2021-06-25T07:25:19.806Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d5b36ee194224afaf073f0"
+  },
+  "matchId": "60d5b2aeaee5455f26f3a101",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T10:43:58.221Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 90,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 60,
+  "playerTwoUserName": "Samuel",
+  "roomName": "qmwmnvn46Wxe9j0OdAijgB6UiwxmkdPFuz3hYaETJws=",
+  "updatedAt": {
+    "$date": "2021-06-25T10:43:58.221Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d5bb99e194224afaf0e100"
+  },
+  "matchId": "60d5bb04aee5455f26f3a10d",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T11:18:49.138Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 47.733333587646484,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 17.733333587646484,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "Samuel",
+  "roomName": "sI36A8MKd8NI",
+  "updatedAt": {
+    "$date": "2021-06-25T11:18:49.138Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d5bd85e194224afaf1134a"
+  },
+  "matchId": "60d5bca2aee5455f26f3a115",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-25T11:27:01.787Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 76.93333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 30,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 46.93333435058594,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "kC9vmKthIat4ug2z7h8p+y8J6h15Yv5EcOCYmtrPFdU=",
+  "updatedAt": {
+    "$date": "2021-06-25T11:27:01.787Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d97ef4e194224afaf6da14"
+  },
+  "matchId": "60d97de1aee5455f26f3a1d7",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T07:49:08.520Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 154.43333435058594,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 70.96666717529297,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 83.46666717529297,
+  "playerTwoUserName": "Samuel",
+  "roomName": "34HrWfhMkXFxf12SGInxEaKdtfAwUAUyDktxrXldMXk=",
+  "updatedAt": {
+    "$date": "2021-06-28T07:49:08.520Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60d98939e194224afaf6e33e"
+  },
+  "matchId": "60d98695aee5455f26f3a1df",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T08:32:57.849Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 347.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 189.26666259765625,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 158.26666259765625,
+  "playerTwoUserName": "Samawati",
+  "roomName": "3nVaIsG41EsoQceZoIYG2M9u02man2L5PNci7U8C2UI=",
+  "updatedAt": {
+    "$date": "2021-06-28T08:32:57.849Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d98939e194224afaf6e34f"
+  },
+  "matchId": "60d98695aee5455f26f3a1df",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T08:32:57.881Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 347.5333251953125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 189.26666259765625,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 158.26666259765625,
+  "playerTwoUserName": "Samawati",
+  "roomName": "3nVaIsG41EsoQceZoIYG2M9u02man2L5PNci7U8C2UI=",
+  "updatedAt": {
+    "$date": "2021-06-28T08:32:57.881Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d98e71e194224afaf6eb79"
+  },
+  "matchId": "60d98caeaee5455f26f3a1ec",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T08:55:13.234Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 197.76666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 87.36666870117188,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 110.4000015258789,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "zA0Fp0u5bTru8Hc0nzFhQH9qv+hIhiM4YLvdVPcaasI=",
+  "updatedAt": {
+    "$date": "2021-06-28T08:55:13.234Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d98e71e194224afaf6eb82"
+  },
+  "matchId": "60d98caeaee5455f26f3a1ec",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T08:55:13.248Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 197.76666259765625,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 87.36666870117188,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 110.4000015258789,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "zA0Fp0u5bTru8Hc0nzFhQH9qv+hIhiM4YLvdVPcaasI=",
+  "updatedAt": {
+    "$date": "2021-06-28T08:55:13.248Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d9941de194224afaf6f66f"
+  },
+  "matchId": "60d98fbfaee5455f26f3a1f7",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T09:19:25.533Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 540.7000122070312,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 299.3999938964844,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 241.3000030517578,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "TJves3mpRUTjZKNee1Xk4jQLz8wP",
+  "updatedAt": {
+    "$date": "2021-06-28T09:19:25.533Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d9941de194224afaf6f673"
+  },
+  "matchId": "60d98fbfaee5455f26f3a1f7",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T09:19:25.538Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 540.7000122070312,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 299.3999938964844,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 241.3000030517578,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "TJves3mpRUTjZKNee1Xk4jQLz8wP",
+  "updatedAt": {
+    "$date": "2021-06-28T09:19:25.538Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d99813e194224afaf6ff75"
+  },
+  "matchId": "60d99445aee5455f26f3a201",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T09:36:19.723Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 498.79998779296875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 272.4333190917969,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 226.36666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "IhbysSLIvHpt9wRJu7MQrhK+Ury9lfd9l2U",
+  "updatedAt": {
+    "$date": "2021-06-28T09:36:19.723Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d99813e194224afaf6ff77"
+  },
+  "matchId": "60d99445aee5455f26f3a201",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T09:36:19.725Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 498.79998779296875,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 272.4333190917969,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 226.36666870117188,
+  "playerTwoUserName": "Samawati",
+  "roomName": "IhbysSLIvHpt9wRJu7MQrhK+Ury9lfd9l2U",
+  "updatedAt": {
+    "$date": "2021-06-28T09:36:19.725Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d9f8e6e194224afaf73e9c"
+  },
+  "matchId": "60d9f69caee5455f26f3a219",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T16:29:26.643Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 263.6666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 141.43333435058594,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 122.23332977294922,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "f5v60aF+",
+  "updatedAt": {
+    "$date": "2021-06-28T16:29:26.643Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d9f8e6e194224afaf73ea0"
+  },
+  "matchId": "60d9f69caee5455f26f3a219",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T16:29:26.647Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 263.6666564941406,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 141.43333435058594,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 122.23332977294922,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "f5v60aF+",
+  "updatedAt": {
+    "$date": "2021-06-28T16:29:26.647Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60d9fbdae194224afaf74624"
+  },
+  "matchId": "60d9f916aee5455f26f3a223",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T16:42:02.880Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 374,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 172.10000610351562,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 201.89999389648438,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "hIt2fjHuANOXiIiJwg5E",
+  "updatedAt": {
+    "$date": "2021-06-28T16:42:02.880Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60d9fbdae194224afaf74626"
+  },
+  "matchId": "60d9f916aee5455f26f3a223",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T16:42:02.881Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 374,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 172.10000610351562,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 201.89999389648438,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "hIt2fjHuANOXiIiJwg5E",
+  "updatedAt": {
+    "$date": "2021-06-28T16:42:02.881Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60da0764e194224afaf7512a"
+  },
+  "matchId": "60da05ffaee5455f26f3a22f",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T17:31:16.033Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 158.1999969482422,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 91.96666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 66.23332977294922,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "AlMrxzkIo8c3P9CwEP",
+  "updatedAt": {
+    "$date": "2021-06-28T17:31:16.033Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60da0764e194224afaf7512e"
+  },
+  "matchId": "60da05ffaee5455f26f3a22f",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T17:31:16.037Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 158.1999969482422,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 91.96666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 66.23332977294922,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "AlMrxzkIo8c3P9CwEP",
+  "updatedAt": {
+    "$date": "2021-06-28T17:31:16.037Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60da0a8de194224afaf75985"
+  },
+  "matchId": "60da077baee5455f26f3a239",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T17:44:45.034Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 345.83331298828125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 167.06666564941406,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 178.76666259765625,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "YGagQb6xDaPM4gh41CUQiCBzDohm3xEY1bX7khUWpQU=",
+  "updatedAt": {
+    "$date": "2021-06-28T17:44:45.034Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60da0a8de194224afaf75989"
+  },
+  "matchId": "60da077baee5455f26f3a239",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T17:44:45.039Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 345.83331298828125,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 167.06666564941406,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 178.76666259765625,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "YGagQb6xDaPM4gh41CUQiCBzDohm3xEY1bX7khUWpQU=",
+  "updatedAt": {
+    "$date": "2021-06-28T17:44:45.039Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60da0c98e194224afaf76111"
+  },
+  "matchId": "60da0acbaee5455f26f3a244",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T17:53:28.655Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 246.60000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 138.6999969482422,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 107.9000015258789,
+  "playerTwoUserName": "Samawati",
+  "roomName": "hjpj+7zJIOWt488GP",
+  "updatedAt": {
+    "$date": "2021-06-28T17:53:28.655Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60da0c98e194224afaf76113"
+  },
+  "matchId": "60da0acbaee5455f26f3a244",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T17:53:28.656Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 246.60000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 138.6999969482422,
+  "playerOneUserName": "Jiweman",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 107.9000015258789,
+  "playerTwoUserName": "Samawati",
+  "roomName": "hjpj+7zJIOWt488GP",
+  "updatedAt": {
+    "$date": "2021-06-28T17:53:28.656Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60da0fabe194224afaf767a7"
+  },
+  "matchId": "60da0d9baee5455f26f3a24e",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T18:06:35.875Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 269,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 134.1666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 134.8333282470703,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "98aQKnicPjUhFqEKk+rxBVurOOEJiLmRvtuvkFiHAFU=",
+  "updatedAt": {
+    "$date": "2021-06-28T18:06:35.875Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60da0fabe194224afaf767ab"
+  },
+  "matchId": "60da0d9baee5455f26f3a24e",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T18:06:35.882Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 269,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 134.1666717529297,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 134.8333282470703,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "98aQKnicPjUhFqEKk+rxBVurOOEJiLmRvtuvkFiHAFU=",
+  "updatedAt": {
+    "$date": "2021-06-28T18:06:35.882Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60da2babe194224afaf77aac"
+  },
+  "matchId": "60da2aeeaee5455f26f3a25b",
+  "senderId": "jogaBonito",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-28T20:06:03.713Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 71.80000305175781,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "1",
+  "playerOneMatchDuration": 21.100000381469727,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 50.70000076293945,
+  "playerTwoUserName": "Samuel",
+  "roomName": "7ytB81ZWyBHxVtl0a5WHeR1mMs9dr3SmIVcm8WEoQYk=",
+  "updatedAt": {
+    "$date": "2021-06-28T20:06:03.713Z"
+  },
+  "winnerName": "jogaBonito"
+},{
+  "_id": {
+    "$oid": "60da79b2e194224afaf7a843"
+  },
+  "matchId": "60da78d4aee5455f26f3a277",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T01:38:58.150Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 120,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 60,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "9Y7qsnGylr9NPVlv",
+  "updatedAt": {
+    "$date": "2021-06-29T01:38:58.150Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60da8176e194224afaf7ade0"
+  },
+  "matchId": "60da7f4caee5455f26f3a282",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T02:12:06.964Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 424.6333312988281,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 210,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 214.63333129882812,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "0u+",
+  "updatedAt": {
+    "$date": "2021-06-29T02:12:06.964Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60da8596e194224afaf7b12d"
+  },
+  "matchId": "60da852aaee5455f26f3a28c",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T02:29:42.217Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 6.599999904632568,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 0,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 6.599999904632568,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "PhvbLmpMzrrF602Ka",
+  "updatedAt": {
+    "$date": "2021-06-29T02:29:42.217Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60da8684e194224afaf7b29d"
+  },
+  "matchId": "60da85c5aee5455f26f3a296",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T02:33:40.869Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 90,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 60,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "JexCWSxtFKQDw4eXAWYFG3K9WtG+CZewhdbfd0RmCNQ=",
+  "updatedAt": {
+    "$date": "2021-06-29T02:33:40.869Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60da8732e194224afaf7b3e0"
+  },
+  "matchId": "60da8695aee5455f26f3a2a0",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T02:36:34.259Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 55.833335876464844,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 25.83333396911621,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "Samuel",
+  "roomName": "ET672rXBccJPwcQ6w4M91WlTzZ1ANp7u+fvl1G7WRkQ=",
+  "updatedAt": {
+    "$date": "2021-06-29T02:36:34.259Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60da88f4e194224afaf7ca03"
+  },
+  "matchId": "60da87b8aee5455f26f3a2a8",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T02:44:04.562Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 136.8000030517578,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 59.33333206176758,
+  "playerOneUserName": "Samuel",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 77.46666717529297,
+  "playerTwoUserName": "jogaBonito",
+  "roomName": "2DPrHMdUhWrldABeArKyjV0vI",
+  "updatedAt": {
+    "$date": "2021-06-29T02:44:04.562Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60dad287e194224afaf7f6a2"
+  },
+  "matchId": "60dad1cfaee5455f26f3a2c9",
+  "senderId": "Samuel",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T07:57:59.433Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 66.16667175292969,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 29.96666717529297,
+  "playerOneUserName": "jogaBonito",
+  "playerTwoGoal": "0",
+  "playerTwoMatchDuration": 36.20000076293945,
+  "playerTwoUserName": "Samuel",
+  "roomName": "QPiujWXuArv5rA5Ib4tgpAA9TIuPD8ouvGyWHcYHddc=",
+  "updatedAt": {
+    "$date": "2021-06-29T07:57:59.433Z"
+  },
+  "winnerName": "Samuel"
+},{
+  "_id": {
+    "$oid": "60dad6d3e194224afaf813dc"
+  },
+  "matchId": "60dad533aee5455f26f3a2d2",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T08:16:19.143Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 171.83334350585938,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "0",
+  "playerOneMatchDuration": 77.83333587646484,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 94,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "lgBdVWkhVVWg5t7HFWdTjQ4Ee9r58cDOBenmXCMT",
+  "updatedAt": {
+    "$date": "2021-06-29T08:16:19.143Z"
+  },
+  "winnerName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "60db562fe194224afaf863de"
+  },
+  "matchId": "60db53a3aee5455f26f3a2ee",
+  "senderId": "Jiweman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T17:19:43.338Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 235.10000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 116.4000015258789,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 118.69999694824219,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "pt",
+  "updatedAt": {
+    "$date": "2021-06-29T17:19:43.338Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60db562fe194224afaf8643c"
+  },
+  "matchId": "60db53a3aee5455f26f3a2ee",
+  "senderId": "Samawati",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-29T17:19:43.577Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 235.10000610351562,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "3",
+  "playerOneMatchDuration": 116.4000015258789,
+  "playerOneUserName": "Samawati",
+  "playerTwoGoal": "2",
+  "playerTwoMatchDuration": 118.69999694824219,
+  "playerTwoUserName": "Jiweman",
+  "roomName": "pt",
+  "updatedAt": {
+    "$date": "2021-06-29T17:19:43.577Z"
+  },
+  "winnerName": "Samawati"
+},{
+  "_id": {
+    "$oid": "60e866a5e194224afa02eedc"
+  },
+  "matchId": "60e8633e892ce06c267f0795",
+  "senderId": "ruchika1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-07-09T15:09:25.889Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 60,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 20,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "room",
+  "secretID": "ruchika",
+  "updatedAt": {
+    "$date": "2021-07-09T15:09:25.889Z"
+  },
+  "winnerName": "ruchika1"
+},{
+  "_id": {
+    "$oid": "60e866d3e194224afa0306e5"
+  },
+  "matchId": "60e8633e892ce06c267f0795",
+  "senderId": "ruchika2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-07-09T15:10:11.602Z"
+  },
+  "isGameValid": true,
+  "matchDuration": 60,
+  "matchType": "oneononeBet",
+  "oneonone": "60a7574367d57d67e4e2cbeb",
+  "playerOneGoal": "2",
+  "playerOneMatchDuration": 20,
+  "playerOneUserName": "ruchika1",
+  "playerTwoGoal": "3",
+  "playerTwoMatchDuration": 30,
+  "playerTwoUserName": "ruchika2",
+  "roomName": "room",
+  "secretID": "ruchika",
+  "updatedAt": {
+    "$date": "2021-07-09T15:10:11.602Z"
+  },
+  "winnerName": "ruchika1"
+}]

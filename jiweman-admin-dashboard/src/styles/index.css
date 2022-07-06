@@ -1,0 +1,354 @@
+@import-normalize;
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap");
+@import "tailwind-base.css";
+
+body.no-animate *,
+body.no-animate *::before,
+body.no-animate *::after {
+    transition: none !important;
+    animation: none !important;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: "Open Sans Condensed", sans-serif;
+    background-color: #121212;
+}
+
+body {
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+html,
+body,
+#root {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    margin: 0;
+}
+
+h1,
+.h1 {
+    font-size: 24px;
+}
+
+h2,
+.h2 {
+    font-size: 20px;
+}
+
+h3,
+.h3 {
+    font-size: 16px;
+}
+
+h4,
+.h4 {
+    font-size: 15px;
+}
+
+h5,
+.h5 {
+    font-size: 13px;
+}
+
+h6,
+.h6 {
+    font-size: 12px;
+}
+
+.ps > .ps__rail-y,
+.ps > .ps__rail-x {
+    z-index: 99;
+}
+
+a[role="button"] {
+    text-decoration: none;
+}
+
+[role="tooltip"] {
+    z-index: 999;
+}
+
+/* Medium Devices, Desktops Only */
+@media only screen and (min-width: 992px) {
+    ::-webkit-scrollbar {
+        width: 12px;
+        height: 12px;
+        background-color: rgba(0, 0, 0, 0);
+    }
+
+    ::-webkit-scrollbar:hover {
+        width: 12px;
+        height: 12px;
+        background-color: rgba(0, 0, 0, 0.06);
+    }
+
+    ::-webkit-scrollbar-thumb {
+        border: 2px solid transparent;
+        box-shadow: inset 0 0 0 20px rgba(0, 0, 0, 0.24);
+        border-radius: 20px;
+    }
+
+    ::-webkit-scrollbar-thumb:active {
+        box-shadow: inset 0 0 0 20px rgba(0, 0, 0, 0.37);
+        border-radius: 20px;
+    }
+}
+
+form label {
+    z-index: 99;
+}
+
+@keyframes autofill {
+    0%,
+    100% {
+        background: transparent;
+    }
+}
+input:-webkit-autofill {
+    animation-delay: 1s;
+    animation-name: autofill !important;
+    animation-fill-mode: both;
+    -webkit-box-shadow: 0 0 0 100px transparent inset !important;
+}
+
+@import "print.css";
+
+@import "tables.css";
+
+@import "prism.css";
+
+@import "tailwind.css";
+
+.blue-ios-button {
+    height: 69px;
+    border-radius: 13px;
+    /* // font-family: Open Sans Condensed; */
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 22px;
+    /* identical to box height, or 61% */
+
+    text-align: center;
+    letter-spacing: -0.408px;
+}
+
+.first-section {
+}
+
+.joga-name {
+    /* font-family: Source Sans Pro; */
+    font-style: normal;
+    font-weight: bold;
+
+    line-height: 20rem;
+    /* or 97% */
+
+    letter-spacing: -0.04em;
+
+    /* Headlines */
+
+    color: #393939;
+    mix-blend-mode: luminosity;
+    padding: 9rem;
+}
+
+.joga-description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 34px;
+    /* or 189% */
+
+    /* Subtitles */
+
+    color: #425466;
+    mix-blend-mode: luminosity;
+}
+
+.homepage-banner-buttons a {
+    width: 122.12px;
+    height: 33px;
+
+    /* Primary Buttons */
+
+    background: #11253e;
+    border-radius: 100px;
+}
+
+.jiweman-label {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 73px;
+    /* identical to box height, or 104% */
+
+    letter-spacing: -0.04em;
+
+    color: #bbe1fa;
+
+    mix-blend-mode: luminosity;
+}
+
+.feature-desc {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 34px;
+    /* or 131% */
+
+    color: #bbe1fa;
+
+    mix-blend-mode: normal;
+}
+
+.bonito-label {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 73px;
+    /* or 104% */
+
+    letter-spacing: -0.04em;
+
+    color: #e4f9ff;
+
+    mix-blend-mode: luminosity;
+}
+
+.brand-label {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 73px;
+    /* or 104% */
+
+    letter-spacing: -0.04em;
+
+    color: #2d4059;
+}
+
+.feature-desc-type-2 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 34px;
+    /* or 106% */
+
+    letter-spacing: 0.065em;
+
+    color: #2d4059;
+}
+
+.customization-label {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 73px;
+    /* or 91% */
+
+    letter-spacing: -0.04em;
+
+    color: #f8ecfd;
+}
+
+.customization-points {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 7rem;
+    /* or 106% */
+
+    color: #ffffff;
+}
+
+/* .last-section {
+    padding: 80px 0;
+    background-color: blue;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.last-section:after {
+    width: 100%;
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 10%;
+    -webkit-transform: skewY(-4deg);
+    -moz-transform: skewY(-4deg);
+    -ms-transform: skewY(-4deg);
+    -o-transform: skewY(-4deg);
+    transform: skewY(-4deg);
+    background-color: red;
+    z-index: 2;
+} */
+
+.login-title{
+	font-size: 4.8rem;
+
+font-weight: 400;
+}
+
+.login-sub-title{
+	font-size: 2.4rem;
+	margin-bottom: 4.8rem;
+}
+
+.blue-ios-button {
+    height: 69px;
+    border-radius: 13px;
+    font-family: Open Sans Condensed;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 22px;
+    text-align: center;
+	letter-spacing: -0.408px;
+	
+	margin: 1.6rem 0rem;
+}
+
+.login-card {
+	padding: 3.2rem;
+}
+
+.click-here-section{
+	font-size: 2rem;
+}
+
+@media screen and (max-width: 600px) {
+
+	.login-card {
+		padding: 2.4rem;
+	}
+	.login-title{
+		font-size: 2.8rem;
+    
+    font-weight: 400;
+	}
+
+	.login-sub-title{
+		font-size: 1.4rem;
+		margin-bottom: 2.8rem;
+	}
+
+	.blue-ios-button {
+		height: 50px;
+		font-size: 24px;
+		margin: 1rem 0rem;
+	}
+
+	.click-here-section{
+		font-size: 1.5rem;
+	}
+  }

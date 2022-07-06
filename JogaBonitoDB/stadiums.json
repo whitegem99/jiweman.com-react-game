@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5de491667f36f0b5ccdc388a"
+  },
+  "name": "Stadium 2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.550Z"
+  },
+  "isActive": false,
+  "stadiumDetails": "good",
+  "stadiumLocation": "USA Stadium",
+  "stadiumRentPrize": 100,
+  "stadiumRentTime": 5,
+  "status": "Unavailable",
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.764Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de491667f36f0b5ccdc389d"
+  },
+  "name": "Stadium 5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.551Z"
+  },
+  "isActive": false,
+  "stadiumDetails": "statsium status is very good",
+  "stadiumLocation": "Australia Stadium",
+  "stadiumRentPrize": 500,
+  "stadiumRentTime": 30,
+  "status": "Unavailable",
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.764Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de491667f36f0b5ccdc389e"
+  },
+  "name": "Stadium 4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.550Z"
+  },
+  "isActive": false,
+  "stadiumDetails": "statsium status is very good",
+  "stadiumLocation": "Africa Stadium",
+  "stadiumRentPrize": 300,
+  "stadiumRentTime": 20,
+  "status": "Unavailable",
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.764Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de491667f36f0b5ccdc38a1"
+  },
+  "name": "Stadium 1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.549Z"
+  },
+  "isActive": true,
+  "stadiumDetails": "Default",
+  "stadiumLocation": "Indian Stadium",
+  "stadiumRentPrize": 0,
+  "stadiumRentTime": 1000000,
+  "status": "Default",
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.764Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de491667f36f0b5ccdc38a2"
+  },
+  "name": "Stadium 3",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.550Z"
+  },
+  "isActive": false,
+  "stadiumDetails": "statsium status is very good",
+  "stadiumLocation": "UK Stadium",
+  "stadiumRentPrize": 200,
+  "stadiumRentTime": 10,
+  "status": "Unavailable",
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.764Z"
+  }
+}]

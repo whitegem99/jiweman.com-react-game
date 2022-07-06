@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "5ed11e4bbc74e419efd9a407"
+  },
+  "played": 1,
+  "win": 5,
+  "loss": -0.25,
+  "goalFor": 1,
+  "goalAgainst": -0.5,
+  "cleanSheet": 3,
+  "goalDifference": 1.5,
+  "__v": 0
+}]

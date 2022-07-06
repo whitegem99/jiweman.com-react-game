@@ -1,0 +1,9586 @@
+[{
+  "_id": {
+    "$oid": "5de494967f36f0b5ccdc39f6"
+  },
+  "playerId": "5de4919765357f18d28194df",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:35:34.828Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e9812"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-2.62",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e9811"
+      },
+      "diskName": "d2",
+      "Y": "-3.21",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e9810"
+      },
+      "diskName": "d3",
+      "Y": "0.16",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e980f"
+      },
+      "diskName": "d4",
+      "Y": "-7.91",
+      "X": "-8.85",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e980e"
+      },
+      "diskName": "d5",
+      "Y": "4.54",
+      "X": "-8.85",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-3",
+  "indexNumber": 20,
+  "updatedAt": {
+    "$date": "2020-01-13T06:26:18.472Z"
+  },
+  "userName": "guest215045"
+},{
+  "_id": {
+    "$oid": "5de494ab7f36f0b5ccdc3a00"
+  },
+  "playerId": "5de4917165357f18d28194de",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:35:55.267Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e4bcf04e4df9f3acc084872"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4bcf04e4df9f3acc084871"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4bcf04e4df9f3acc084870"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4bcf04e4df9f3acc08486f"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4bcf04e4df9f3acc08486e"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2020-02-18T11:48:20.018Z"
+  },
+  "userName": "guest522079"
+},{
+  "_id": {
+    "$oid": "5de4a8ea7f36f0b5ccdc3fd1"
+  },
+  "playerId": "5de4a8b4b5ffc1198120d288",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T06:02:18.487Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec4965a"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49659"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49658"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49657"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49656"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2019-12-30T11:00:16.687Z"
+  },
+  "userName": "guest717174"
+},{
+  "_id": {
+    "$oid": "5de4a91d7f36f0b5ccdc3fe5"
+  },
+  "playerId": "5de4a912b5ffc1198120d28e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T06:03:09.167Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e9812"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-2.62",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e9811"
+      },
+      "diskName": "d2",
+      "Y": "-3.21",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e9810"
+      },
+      "diskName": "d3",
+      "Y": "0.16",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e980f"
+      },
+      "diskName": "d4",
+      "Y": "-7.91",
+      "X": "-8.85",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e980e"
+      },
+      "diskName": "d5",
+      "Y": "4.54",
+      "X": "-8.85",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-3",
+  "indexNumber": 20,
+  "updatedAt": {
+    "$date": "2020-01-13T06:26:18.472Z"
+  },
+  "userName": "guest477021"
+},{
+  "_id": {
+    "$oid": "5de4addf7f36f0b5ccdc4172"
+  },
+  "playerId": "5de4adcdb5ffc1198120d32a",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T06:23:27.579Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e5cbda823a5ab0b26c86578"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-13.05",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e5cbda823a5ab0b26c86579"
+      },
+      "diskName": "d2",
+      "Y": "-3.72",
+      "X": "-8.47",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e5cbda823a5ab0b26c8657a"
+      },
+      "diskName": "d3",
+      "Y": "0.91",
+      "X": "-8.47",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e5cbda823a5ab0b26c8657b"
+      },
+      "diskName": "d4",
+      "Y": "-7.43",
+      "X": "-8.47",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e5cbda823a5ab0b26c8657c"
+      },
+      "diskName": "d5",
+      "Y": "4.37",
+      "X": "-8.47"
+    }
+  ],
+  "formationName": "4-0-0",
+  "indexNumber": 5,
+  "updatedAt": {
+    "$date": "2020-03-02T21:33:05.312Z"
+  },
+  "userName": "guest153397"
+},{
+  "_id": {
+    "$oid": "5de4b2207f36f0b5ccdc4304"
+  },
+  "playerId": "5de4b1a2d6b5c01b5381fe13",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T06:41:36.022Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5de4e9db23c3d51e3ad5b987"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de4e9db23c3d51e3ad5b986"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de4e9db23c3d51e3ad5b985"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de4e9db23c3d51e3ad5b984"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de4e9db23c3d51e3ad5b983"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 7,
+  "updatedAt": {
+    "$date": "2019-12-02T10:39:23.249Z"
+  },
+  "userName": "akash"
+},{
+  "_id": {
+    "$oid": "5de4be887f36f0b5ccdc46d2"
+  },
+  "playerId": "5de4b85dd6b5c01b5381ff54",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T07:34:32.749Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49696"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-2.62",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49695"
+      },
+      "diskName": "d2",
+      "Y": "-3.21",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49694"
+      },
+      "diskName": "d3",
+      "Y": "0.16",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49693"
+      },
+      "diskName": "d4",
+      "Y": "-7.91",
+      "X": "-8.85",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49692"
+      },
+      "diskName": "d5",
+      "Y": "4.54",
+      "X": "-8.85",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-3",
+  "indexNumber": 20,
+  "updatedAt": {
+    "$date": "2019-12-30T11:00:16.689Z"
+  },
+  "userName": "guest160025"
+},{
+  "_id": {
+    "$oid": "5de4c7477f36f0b5ccdc4938"
+  },
+  "playerId": "5de4c18dd6b5c01b5381ff95",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T08:11:51.591Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5df4d3365a3ae17df628e45e"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-13.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df4d3365a3ae17df628e45d"
+      },
+      "diskName": "d2",
+      "Y": "-3.08",
+      "X": "-10.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df4d3365a3ae17df628e45c"
+      },
+      "diskName": "d3",
+      "Y": "-0.98",
+      "X": "-8.51"
+    },
+    {
+      "_id": {
+        "$oid": "5df4d3365a3ae17df628e45b"
+      },
+      "diskName": "d4",
+      "Y": "1.31",
+      "X": "-6.5"
+    },
+    {
+      "_id": {
+        "$oid": "5df4d3365a3ae17df628e45a"
+      },
+      "diskName": "d5",
+      "Y": "-4.66",
+      "X": "-7.75",
+      "Z": "0"
+    }
+  ],
+  "formationName": "3-1-0",
+  "indexNumber": 6,
+  "updatedAt": {
+    "$date": "2019-12-14T12:19:02.593Z"
+  },
+  "userName": "guest308149"
+},{
+  "_id": {
+    "$oid": "5de4c80d7f36f0b5ccdc4971"
+  },
+  "playerId": "5de4c7e3d6b5c01b5381ffb6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T08:15:09.084Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49600"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-13.05",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec495ff"
+      },
+      "diskName": "d2",
+      "Y": "-3.72",
+      "X": "-8.47",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec495fe"
+      },
+      "diskName": "d3",
+      "Y": "0.91",
+      "X": "-8.47",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec495fd"
+      },
+      "diskName": "d4",
+      "Y": "-7.43",
+      "X": "-8.47",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec495fc"
+      },
+      "diskName": "d5",
+      "Y": "4.37",
+      "X": "-8.47"
+    }
+  ],
+  "formationName": "4-0-0",
+  "indexNumber": 5,
+  "updatedAt": {
+    "$date": "2019-12-30T11:00:16.684Z"
+  },
+  "userName": "guest592842"
+},{
+  "_id": {
+    "$oid": "5de502667f36f0b5ccdc58a6"
+  },
+  "playerId": "5de4d6a959a9f01d175c54de",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T12:24:06.552Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e6634ef4e4d45075b677a5f"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-10.34",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e6634ef4e4d45075b677a60"
+      },
+      "diskName": "d2",
+      "Y": "-0.35",
+      "X": "-12.72",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e6634ef4e4d45075b677a61"
+      },
+      "diskName": "d3",
+      "Y": "-3.6",
+      "X": "-3.38",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e6634ef4e4d45075b677a62"
+      },
+      "diskName": "d4",
+      "Y": "-6.19",
+      "X": "-3.38",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e6634ef4e4d45075b677a63"
+      },
+      "diskName": "d5",
+      "Y": "-8.75",
+      "X": "-3.38",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 16,
+  "updatedAt": {
+    "$date": "2020-03-11T04:45:28.432Z"
+  },
+  "userName": "t"
+},{
+  "_id": {
+    "$oid": "5de62d457f36f0b5ccdc9923"
+  },
+  "playerId": "5de62d1b70d3226554a41b5a",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-03T09:39:17.274Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5de658cb2b3a767295d9e462"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de658cb2b3a767295d9e461"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de658cb2b3a767295d9e460"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de658cb2b3a767295d9e45f"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de658cb2b3a767295d9e45e"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2019-12-03T12:44:59.644Z"
+  },
+  "userName": "guest932124"
+},{
+  "_id": {
+    "$oid": "5de649067f36f0b5ccdca50b"
+  },
+  "playerId": "5de4b63dd6b5c01b5381fee8",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-03T11:37:42.200Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5de646d8b212937187a87efe"
+      },
+      "diskName": "d1",
+      "Y": "2.01",
+      "X": "-7.37",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de646d8b212937187a87efd"
+      },
+      "diskName": "d2",
+      "Y": "1.02",
+      "X": "-4.96",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de646d8b212937187a87efc"
+      },
+      "diskName": "d3",
+      "Y": "-7.71",
+      "X": "-12.12",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de646d8b212937187a87efb"
+      },
+      "diskName": "d4",
+      "Y": "-4.96",
+      "X": "-9.83",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de646d8b212937187a87efa"
+      },
+      "diskName": "d5",
+      "Y": "4.07",
+      "X": "-2.64",
+      "Z": "0"
+    }
+  ],
+  "formationName": "1-3-1",
+  "indexNumber": 19,
+  "updatedAt": {
+    "$date": "2019-12-03T11:28:24.777Z"
+  },
+  "userName": "thorat"
+},{
+  "_id": {
+    "$oid": "5de77e5c7f36f0b5ccdcf512"
+  },
+  "playerId": "5de77e3658800b27c44828fe",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-04T09:37:32.212Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49614"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49613"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49612"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49611"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49610"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 7,
+  "updatedAt": {
+    "$date": "2019-12-30T11:00:16.685Z"
+  },
+  "userName": "guest436747"
+},{
+  "_id": {
+    "$oid": "5de8950f7f36f0b5ccdd41ce"
+  },
+  "playerId": "5de4a26fb5ffc1198120d287",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-05T05:26:39.026Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e58b7530f846a6e2a104800"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-13.19",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e58b7530f846a6e2a104801"
+      },
+      "diskName": "d2",
+      "Y": "4.77",
+      "X": "-10.21",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e58b7530f846a6e2a104802"
+      },
+      "diskName": "d3",
+      "Y": "-7.85",
+      "X": "-10.21",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e58b7530f846a6e2a104803"
+      },
+      "diskName": "d4",
+      "Y": "1.66",
+      "X": "-4.52",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e58b7530f846a6e2a104804"
+      },
+      "diskName": "d5",
+      "Y": "-4.5",
+      "X": "-4.52",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-2-0",
+  "indexNumber": 11,
+  "updatedAt": {
+    "$date": "2020-02-28T11:46:41.898Z"
+  },
+  "userName": "guest359132"
+},{
+  "_id": {
+    "$oid": "5de9e9e37f36f0b5ccdd9d96"
+  },
+  "playerId": "5de9e7b075d7cc657dd54346",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-06T05:40:51.490Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e54bc817280153b30a7ff6f"
+      },
+      "diskName": "d1",
+      "Y": "-3.4",
+      "X": "-11.57",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e54bc817280153b30a7ff6e"
+      },
+      "diskName": "d2",
+      "Y": "-0.08",
+      "X": "-11.57",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e54bc817280153b30a7ff6d"
+      },
+      "diskName": "d3",
+      "Y": "-1.5",
+      "X": "-2.33",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e54bc817280153b30a7ff6c"
+      },
+      "diskName": "d4",
+      "Y": "3.24",
+      "X": "-5.82",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e54bc817280153b30a7ff6b"
+      },
+      "diskName": "d5",
+      "Y": "-6.27",
+      "X": "-5.82",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-3-0",
+  "indexNumber": 13,
+  "updatedAt": {
+    "$date": "2020-02-25T06:19:44.965Z"
+  },
+  "userName": "Anand"
+},{
+  "_id": {
+    "$oid": "5de9e9f97f36f0b5ccdd9d9d"
+  },
+  "playerId": "5de9e3a375d7cc657dd54336",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-06T05:41:13.643Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edce"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edcf"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd0"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd1"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd2"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-04-15T06:36:52.325Z"
+  },
+  "userName": "roshan"
+},{
+  "_id": {
+    "$oid": "5de9ec187f36f0b5ccdd9ece"
+  },
+  "playerId": "5ddf56d5a5bc796c6fd9508f",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-06T05:50:16.497Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5de9eb3e1c7f06550a91ddb8"
+      },
+      "diskName": "d1",
+      "Y": "-4.13",
+      "X": "-12.54",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de9eb3e1c7f06550a91ddb7"
+      },
+      "diskName": "d2",
+      "Y": "-1.57",
+      "X": "-12.54",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de9eb3e1c7f06550a91ddb6"
+      },
+      "diskName": "d3",
+      "Y": "1.05",
+      "X": "-12.54",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de9eb3e1c7f06550a91ddb5"
+      },
+      "diskName": "d4",
+      "Y": "4.65",
+      "X": "-4.25",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5de9eb3e1c7f06550a91ddb4"
+      },
+      "diskName": "d5",
+      "Y": "-7.6",
+      "X": "-4.25",
+      "Z": "0"
+    }
+  ],
+  "formationName": "3-0-2",
+  "indexNumber": 4,
+  "updatedAt": {
+    "$date": "2019-12-06T05:46:37.886Z"
+  },
+  "userName": "ruchika"
+},{
+  "_id": {
+    "$oid": "5dea1d477f36f0b5ccddb035"
+  },
+  "playerId": "5dea1d37b76ed5133bc5f271",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-06T09:20:07.029Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5dea1bf9b76ed5133bc5f239"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dea1bf9b76ed5133bc5f238"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dea1bf9b76ed5133bc5f237"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dea1bf9b76ed5133bc5f236"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dea1bf9b76ed5133bc5f235"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2019-12-06T09:14:33.637Z"
+  },
+  "userName": "guest736838"
+},{
+  "_id": {
+    "$oid": "5dea25607f36f0b5ccddb33e"
+  },
+  "playerId": "5dea24f1b76ed5133bc5f344",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-06T09:54:40.690Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e43d652d4022a7a0f1fa92a"
+      },
+      "diskName": "d1",
+      "Y": "-4.3",
+      "X": "-10.91",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e43d652d4022a7a0f1fa929"
+      },
+      "diskName": "d2",
+      "Y": "1.28",
+      "X": "-10.91",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e43d652d4022a7a0f1fa928"
+      },
+      "diskName": "d3",
+      "Y": "-1.49",
+      "X": "-5.83",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e43d652d4022a7a0f1fa927"
+      },
+      "diskName": "d4",
+      "Y": "5.12",
+      "X": "-5.83",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e43d652d4022a7a0f1fa926"
+      },
+      "diskName": "d5",
+      "Y": "-8.29",
+      "X": "-5.83",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-3-0",
+  "indexNumber": 10,
+  "updatedAt": {
+    "$date": "2020-02-12T10:41:22.727Z"
+  },
+  "userName": "Anu"
+},{
+  "_id": {
+    "$oid": "5dea25617f36f0b5ccddb341"
+  },
+  "playerId": "5dea24dfb76ed5133bc5f338",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-06T09:54:41.653Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5df2662047be6967c2f8e82f"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df2662047be6967c2f8e82e"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df2662047be6967c2f8e82d"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df2662047be6967c2f8e82c"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df2662047be6967c2f8e82b"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2019-12-12T16:09:04.169Z"
+  },
+  "userName": "ruchi"
+},{
+  "_id": {
+    "$oid": "5dede7a47f36f0b5ccde8048"
+  },
+  "playerId": "5dede797d6926f164fc02a87",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-09T06:20:20.582Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e97fe"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e97fd"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e97fc"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e97fb"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e1c0d8a274ef422709e97fa"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-01-13T06:26:18.471Z"
+  },
+  "userName": "guest717023"
+},{
+  "_id": {
+    "$oid": "5df08c1f7f36f0b5ccdf8a1e"
+  },
+  "playerId": "5df08bdd9384814076442953",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-11T06:26:39.809Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5def8064ae7bef4088bc47fb"
+      },
+      "diskName": "d1",
+      "Y": "2.01",
+      "X": "-7.37",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5def8064ae7bef4088bc47fa"
+      },
+      "diskName": "d2",
+      "Y": "1.02",
+      "X": "-4.96",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5def8064ae7bef4088bc47f9"
+      },
+      "diskName": "d3",
+      "Y": "-7.71",
+      "X": "-12.12",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5def8064ae7bef4088bc47f8"
+      },
+      "diskName": "d4",
+      "Y": "-4.96",
+      "X": "-9.83",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5def8064ae7bef4088bc47f7"
+      },
+      "diskName": "d5",
+      "Y": "4.07",
+      "X": "-2.64",
+      "Z": "0"
+    }
+  ],
+  "formationName": "1-3-1",
+  "indexNumber": 19,
+  "updatedAt": {
+    "$date": "2019-12-10T11:24:19.848Z"
+  },
+  "userName": "guest809803"
+},{
+  "_id": {
+    "$oid": "5df4b13a7f36f0b5cce08ad7"
+  },
+  "playerId": "5de9e5e875d7cc657dd54342",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-14T09:54:02.299Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49682"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49681"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49680"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec4967f"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec4967e"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2019-12-30T11:00:16.689Z"
+  },
+  "userName": "guest845757"
+},{
+  "_id": {
+    "$oid": "5df8c10a7f36f0b5cce16cb5"
+  },
+  "playerId": "5df8c0fd86c2da119029aed2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-17T11:50:34.984Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5df757d086c2da119029ac7e"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df757d086c2da119029ac7d"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df757d086c2da119029ac7c"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df757d086c2da119029ac7b"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df757d086c2da119029ac7a"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2019-12-16T10:09:20.354Z"
+  },
+  "userName": "guest477846"
+},{
+  "_id": {
+    "$oid": "5df9d8807f36f0b5cce1abb3"
+  },
+  "playerId": "5df9d73450b86d2b12811cea",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-18T07:42:56.341Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811bb8"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-10.34",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811bb7"
+      },
+      "diskName": "d2",
+      "Y": "-0.35",
+      "X": "-12.72",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811bb6"
+      },
+      "diskName": "d3",
+      "Y": "-3.6",
+      "X": "-3.38",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811bb5"
+      },
+      "diskName": "d4",
+      "Y": "-6.19",
+      "X": "-3.38",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811bb4"
+      },
+      "diskName": "d5",
+      "Y": "-8.75",
+      "X": "-3.38",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 16,
+  "updatedAt": {
+    "$date": "2019-12-18T06:57:09.279Z"
+  },
+  "userName": "rahul"
+},{
+  "_id": {
+    "$oid": "5df9d8837f36f0b5cce1abb6"
+  },
+  "playerId": "5df9d7ff50b86d2b12811cf7",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-18T07:42:59.727Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811ba4"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811ba3"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811ba2"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811ba1"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5df9cdc550b86d2b12811ba0"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2019-12-18T06:57:09.278Z"
+  },
+  "userName": "rohit"
+},{
+  "_id": {
+    "$oid": "5dfa05997f36f0b5cce1b9ce"
+  },
+  "playerId": "5df1d9c9afab2451f16959e6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-18T10:55:21.800Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5dfb3c986daaee39b13d2d41"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfb3c986daaee39b13d2d40"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfb3c986daaee39b13d2d3f"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfb3c986daaee39b13d2d3e"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfb3c986daaee39b13d2d3d"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2019-12-19T09:02:15.934Z"
+  },
+  "userName": "guest232559"
+},{
+  "_id": {
+    "$oid": "5dfb1baa7f36f0b5cce1f7e9"
+  },
+  "playerId": "5dfb15376c51b2355bb55791",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-19T06:41:46.331Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e05caacbf5bd737b18077ec"
+      },
+      "diskName": "d1",
+      "Y": "-4.13",
+      "X": "-12.54",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e05caacbf5bd737b18077eb"
+      },
+      "diskName": "d2",
+      "Y": "-1.57",
+      "X": "-12.54",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e05caacbf5bd737b18077ea"
+      },
+      "diskName": "d3",
+      "Y": "1.05",
+      "X": "-12.54",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e05caacbf5bd737b18077e9"
+      },
+      "diskName": "d4",
+      "Y": "4.65",
+      "X": "-4.25",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e05caacbf5bd737b18077e8"
+      },
+      "diskName": "d5",
+      "Y": "-7.6",
+      "X": "-4.25",
+      "Z": "0"
+    }
+  ],
+  "formationName": "3-0-2",
+  "indexNumber": 4,
+  "updatedAt": {
+    "$date": "2019-12-27T09:11:08.003Z"
+  },
+  "userName": "Jiweman3"
+},{
+  "_id": {
+    "$oid": "5dfb1bac7f36f0b5cce1f7ed"
+  },
+  "playerId": "5dfb0ac1e3a3722f704a8014",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-19T06:41:48.448Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e55"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-13.19",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e56"
+      },
+      "diskName": "d2",
+      "Y": "4.77",
+      "X": "-10.21",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e57"
+      },
+      "diskName": "d3",
+      "Y": "-7.85",
+      "X": "-10.21",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e58"
+      },
+      "diskName": "d4",
+      "Y": "1.66",
+      "X": "-4.52",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e59"
+      },
+      "diskName": "d5",
+      "Y": "-4.5",
+      "X": "-4.52",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-2-0",
+  "indexNumber": 11,
+  "updatedAt": {
+    "$date": "2020-03-28T09:46:12.436Z"
+  },
+  "userName": "Jiweman"
+},{
+  "_id": {
+    "$oid": "5dfd08a17f36f0b5cce27604"
+  },
+  "playerId": "5de7819058800b27c44829bb",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-20T17:45:05.310Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3713"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3712"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3711"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3710"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e370f"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2019-12-20T13:13:18.076Z"
+  },
+  "userName": "ruchika"
+},{
+  "_id": {
+    "$oid": "5dfdeea17f36f0b5cce2d34a"
+  },
+  "playerId": "5dfca5236daaee39b13d2eea",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-21T10:06:25.148Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e371d"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e371c"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e371b"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e371a"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3719"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2019-12-20T13:13:18.077Z"
+  },
+  "userName": "ss1"
+},{
+  "_id": {
+    "$oid": "5e00b2677f36f0b5cce3f3ac"
+  },
+  "playerId": "5e00b164f6c69947d62758e5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-23T12:26:15.781Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3713"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3712"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3711"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e3710"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5dfcc8ee4069ec47e78e370f"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2019-12-20T13:13:18.076Z"
+  },
+  "userName": "testing"
+},{
+  "_id": {
+    "$oid": "5e0c017d7f36f0b5cce72650"
+  },
+  "playerId": "5e0c015a27bfae5341dc8dd1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-01T02:18:37.622Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac777"
+      },
+      "diskName": "d1",
+      "Y": "-3.4",
+      "X": "-11.57",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac778"
+      },
+      "diskName": "d2",
+      "Y": "-0.08",
+      "X": "-11.57",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac779"
+      },
+      "diskName": "d3",
+      "Y": "-1.5",
+      "X": "-2.33",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac77a"
+      },
+      "diskName": "d4",
+      "Y": "3.24",
+      "X": "-5.82",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac77b"
+      },
+      "diskName": "d5",
+      "Y": "-6.27",
+      "X": "-5.82",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-3-0",
+  "indexNumber": 13,
+  "updatedAt": {
+    "$date": "2020-03-07T04:22:02.740Z"
+  },
+  "userName": "guest269513"
+},{
+  "_id": {
+    "$oid": "5e147e077f36f0b5cceab697"
+  },
+  "playerId": "5e147e0327bfae5341dc957f",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-07T12:48:07.826Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49696"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-2.62",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49695"
+      },
+      "diskName": "d2",
+      "Y": "-3.21",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49694"
+      },
+      "diskName": "d3",
+      "Y": "0.16",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49693"
+      },
+      "diskName": "d4",
+      "Y": "-7.91",
+      "X": "-8.85",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49692"
+      },
+      "diskName": "d5",
+      "Y": "4.54",
+      "X": "-8.85",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-3",
+  "indexNumber": 20,
+  "updatedAt": {
+    "$date": "2019-12-30T11:00:16.689Z"
+  },
+  "userName": "guest864396"
+},{
+  "_id": {
+    "$oid": "5e1855377f36f0b5ccec45c6"
+  },
+  "playerId": "5e18552527bfae5341dc97e4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-10T10:43:03.134Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec4960a"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-13.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49609"
+      },
+      "diskName": "d2",
+      "Y": "-3.08",
+      "X": "-10.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49608"
+      },
+      "diskName": "d3",
+      "Y": "-0.98",
+      "X": "-8.51"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49607"
+      },
+      "diskName": "d4",
+      "Y": "1.31",
+      "X": "-6.5"
+    },
+    {
+      "_id": {
+        "$oid": "5e09d8c014f809535ec49606"
+      },
+      "diskName": "d5",
+      "Y": "-4.66",
+      "X": "-7.75",
+      "Z": "0"
+    }
+  ],
+  "formationName": "3-1-0",
+  "indexNumber": 6,
+  "updatedAt": {
+    "$date": "2019-12-30T11:00:16.685Z"
+  },
+  "userName": "guest989823"
+},{
+  "_id": {
+    "$oid": "5e1c22957f36f0b5ccedd20c"
+  },
+  "playerId": "5e1c22815c6b132263e0c80b",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-13T07:56:05.433Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac781"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac782"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac783"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac784"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e61f6de8f80c646212ac785"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2020-03-07T04:22:03.821Z"
+  },
+  "userName": "guest571976"
+},{
+  "_id": {
+    "$oid": "5e1d88147f36f0b5ccee669e"
+  },
+  "playerId": "5e1c515c5c6b132263e0c8a4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-14T09:21:24.379Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c6824"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-2.62",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c6823"
+      },
+      "diskName": "d2",
+      "Y": "-3.21",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c6822"
+      },
+      "diskName": "d3",
+      "Y": "0.16",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c6821"
+      },
+      "diskName": "d4",
+      "Y": "-7.91",
+      "X": "-8.85",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c6820"
+      },
+      "diskName": "d5",
+      "Y": "4.54",
+      "X": "-8.85",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-3",
+  "indexNumber": 20,
+  "updatedAt": {
+    "$date": "2020-01-21T10:54:23.407Z"
+  },
+  "userName": "guest941521"
+},{
+  "_id": {
+    "$oid": "5e297b0f069233487e2f59b5"
+  },
+  "playerId": "5e297af4e26159264e7c6905",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-23T10:53:03.080Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c6810"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c680f"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c680e"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c680d"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e26d85fe26159264e7c680c"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-01-21T10:54:23.406Z"
+  },
+  "userName": "guest422218"
+},{
+  "_id": {
+    "$oid": "5e2fd425069233487e30eefd"
+  },
+  "playerId": "5e2fd2fbe26159264e7c72d1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-28T06:26:45.698Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e2ad7c57252ca2413e67f36"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e2ad7c57252ca2413e67f35"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e2ad7c57252ca2413e67f34"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e2ad7c57252ca2413e67f33"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e2ad7c57252ca2413e67f32"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2020-01-24T11:40:53.359Z"
+  },
+  "userName": "thorat34"
+},{
+  "_id": {
+    "$oid": "5e2fd485069233487e30ef1c"
+  },
+  "playerId": "5e2fd17ce26159264e7c72c4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-28T06:28:21.041Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e2fec1453caad0bba653cc0"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e2fec1453caad0bba653cbf"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e2fec1453caad0bba653cbe"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e2fec1453caad0bba653cbd"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e2fec1453caad0bba653cbc"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2020-01-28T08:08:52.416Z"
+  },
+  "userName": "yashshree"
+},{
+  "_id": {
+    "$oid": "5e32a7e6069233487e319e20"
+  },
+  "playerId": "5e32a7d2a5ca1342fae77e97",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-01-30T09:54:46.093Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91eaf"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-2.62",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91eb0"
+      },
+      "diskName": "d2",
+      "Y": "-3.21",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91eb1"
+      },
+      "diskName": "d3",
+      "Y": "0.16",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91eb2"
+      },
+      "diskName": "d4",
+      "Y": "-7.91",
+      "X": "-8.85",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91eb3"
+      },
+      "diskName": "d5",
+      "Y": "4.54",
+      "X": "-8.85",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-3",
+  "indexNumber": 20,
+  "updatedAt": {
+    "$date": "2020-03-29T13:39:34.940Z"
+  },
+  "userName": "anand"
+},{
+  "_id": {
+    "$oid": "5e3a6539069233487e33b352"
+  },
+  "playerId": "5df9efd750b86d2b12811d7e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-05T06:48:25.985Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e3a872e7270391f221cd227"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e3a872e7270391f221cd226"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e3a872e7270391f221cd225"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e3a872e7270391f221cd224"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e3a872e7270391f221cd223"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2020-02-05T09:13:18.337Z"
+  },
+  "userName": "rest"
+},{
+  "_id": {
+    "$oid": "5e3d11ac069233487e348662"
+  },
+  "playerId": "5e3d0effb36880441e819bdd",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-07T07:28:44.754Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e3bebc13eb974443169bc43"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-2.62",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e3bebc13eb974443169bc42"
+      },
+      "diskName": "d2",
+      "Y": "-3.21",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e3bebc13eb974443169bc41"
+      },
+      "diskName": "d3",
+      "Y": "0.16",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e3bebc13eb974443169bc40"
+      },
+      "diskName": "d4",
+      "Y": "-7.91",
+      "X": "-8.85",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e3bebc13eb974443169bc3f"
+      },
+      "diskName": "d5",
+      "Y": "4.54",
+      "X": "-8.85",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-3",
+  "indexNumber": 20,
+  "updatedAt": {
+    "$date": "2020-02-06T10:34:41.200Z"
+  },
+  "userName": "tony"
+},{
+  "_id": {
+    "$oid": "5e3d161f069233487e348997"
+  },
+  "playerId": "5e3d10d0b36880441e819be9",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-07T07:47:43.335Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e4146a055c6af5f655586f0"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-7",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4146a055c6af5f655586ef"
+      },
+      "diskName": "d2",
+      "Y": "1.02",
+      "X": "-4.96",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4146a055c6af5f655586ee"
+      },
+      "diskName": "d3",
+      "Y": "-7.71",
+      "X": "-12.12",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4146a055c6af5f655586ed"
+      },
+      "diskName": "d4",
+      "Y": "-4.96",
+      "X": "-9.83",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4146a055c6af5f655586ec"
+      },
+      "diskName": "d5",
+      "Y": "4.07",
+      "X": "-2.64",
+      "Z": "0"
+    }
+  ],
+  "formationName": "1-3-1",
+  "indexNumber": 19,
+  "updatedAt": {
+    "$date": "2020-02-10T12:03:44.867Z"
+  },
+  "userName": "Girish"
+},{
+  "_id": {
+    "$oid": "5e42abe3069233487e379287"
+  },
+  "playerId": "5e424b5355c6af5f65558817",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-11T13:28:03.341Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e54b32fe5b4bb39a2a9bcf1"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e54b32fe5b4bb39a2a9bcf0"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e54b32fe5b4bb39a2a9bcef"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e54b32fe5b4bb39a2a9bcee"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e54b32fe5b4bb39a2a9bced"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-02-25T05:39:59.404Z"
+  },
+  "userName": "ruchika"
+},{
+  "_id": {
+    "$oid": "5e4fc55b069233487e3d9a5d"
+  },
+  "playerId": "5e4f86821f5f0a0a35d41188",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-21T11:56:11.050Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e4f8f64d5ae6e0bb247279d"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4f8f64d5ae6e0bb247279c"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4f8f64d5ae6e0bb247279b"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4f8f64d5ae6e0bb247279a"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e4f8f64d5ae6e0bb2472799"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 7,
+  "updatedAt": {
+    "$date": "2020-02-21T08:05:56.784Z"
+  },
+  "userName": "Anushri"
+},{
+  "_id": {
+    "$oid": "5e54b3c2069233487e3ea514"
+  },
+  "playerId": "5e54b20d46405f0dfe08e6b4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-25T05:42:26.866Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e5921f8f82fab64f0da8886"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-2.62",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e5921f8f82fab64f0da8887"
+      },
+      "diskName": "d2",
+      "Y": "-3.21",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e5921f8f82fab64f0da8888"
+      },
+      "diskName": "d3",
+      "Y": "0.16",
+      "X": "-4.56",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e5921f8f82fab64f0da8889"
+      },
+      "diskName": "d4",
+      "Y": "-7.91",
+      "X": "-8.85",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e5921f8f82fab64f0da888a"
+      },
+      "diskName": "d5",
+      "Y": "4.54",
+      "X": "-8.85",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-3",
+  "indexNumber": 20,
+  "updatedAt": {
+    "$date": "2020-02-29T15:17:26.648Z"
+  },
+  "userName": "adsul"
+},{
+  "_id": {
+    "$oid": "5e54c069069233487e3eac55"
+  },
+  "playerId": "5e54be487280153b30a7ffc2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-25T06:36:25.317Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80a"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80b"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80c"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80d"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80e"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2020-05-15T11:59:29.136Z"
+  },
+  "userName": "test1"
+},{
+  "_id": {
+    "$oid": "5e54c11b069233487e3eacfe"
+  },
+  "playerId": "5e54bf517280153b30a7ffce",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-25T06:39:23.238Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edce"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edcf"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd0"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd1"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd2"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-04-19T11:39:22.818Z"
+  },
+  "userName": "test2"
+},{
+  "_id": {
+    "$oid": "5e58b6c9069233487e3f9507"
+  },
+  "playerId": "5e54bfbf7280153b30a7ffda",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-28T06:44:25.217Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e73"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e74"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e75"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e76"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e77"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2020-03-28T09:25:52.254Z"
+  },
+  "userName": "test3"
+},{
+  "_id": {
+    "$oid": "5e5cfabf069233487e409806"
+  },
+  "playerId": "5e54c04e7280153b30a7ffe6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-03-02T12:23:27.580Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e7912dffc3a3a448da0beac"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7912dffc3a3a448da0bead"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7912dffc3a3a448da0beae"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7912dffc3a3a448da0beaf"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7912dffc3a3a448da0beb0"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2020-03-27T12:20:17.760Z"
+  },
+  "userName": "test4"
+},{
+  "_id": {
+    "$oid": "5e5f45f2069233487e4123df"
+  },
+  "playerId": "5e5f3bc3bd92a72973356651",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-03-04T06:08:50.624Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e4b"
+      },
+      "diskName": "d1",
+      "Y": "-4.3",
+      "X": "-10.91",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e4c"
+      },
+      "diskName": "d2",
+      "Y": "1.28",
+      "X": "-10.91",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e4d"
+      },
+      "diskName": "d3",
+      "Y": "-1.49",
+      "X": "-5.83",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e4e"
+      },
+      "diskName": "d4",
+      "Y": "5.12",
+      "X": "-5.83",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e4f"
+      },
+      "diskName": "d5",
+      "Y": "-8.29",
+      "X": "-5.83",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-3-0",
+  "indexNumber": 10,
+  "updatedAt": {
+    "$date": "2020-03-28T09:46:15.417Z"
+  },
+  "userName": "Samawati"
+},{
+  "_id": {
+    "$oid": "5e790bb70fa33534fd9904d2"
+  },
+  "playerId": "5e762dbfcba3121c1b31696b",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-03-23T19:19:19.672Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce1"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce2"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce3"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce4"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce5"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-04-01T14:47:24.610Z"
+  },
+  "userName": "ruchika"
+},{
+  "_id": {
+    "$oid": "5e7a6fb20fa33534fd995eeb"
+  },
+  "playerId": "5e7a6f44fc3a3a448da0c2b6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-03-24T20:38:10.398Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5eb51f77c834002573f48e81"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eb51f77c834002573f48e82"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eb51f77c834002573f48e83"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eb51f77c834002573f48e84"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eb51f77c834002573f48e85"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-05-08T13:30:57.685Z"
+  },
+  "userName": "hamzzaamalik"
+},{
+  "_id": {
+    "$oid": "5e804d060fa33534fd9ab3de"
+  },
+  "playerId": "5e804bb147fbad7aeec91f51",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-03-29T07:23:50.210Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e2d"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e2e"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e2f"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e30"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e31"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 7,
+  "updatedAt": {
+    "$date": "2020-03-29T07:23:50.210Z"
+  },
+  "userName": "alika"
+},{
+  "_id": {
+    "$oid": "5e80cdfd0fa33534fd9ace62"
+  },
+  "playerId": "5e80cc5847fbad7aeec91f71",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-03-29T16:34:05.116Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9b"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9c"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9d"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9e"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9f"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-03-29T16:34:05.116Z"
+  },
+  "userName": "saadfiver4@g"
+},{
+  "_id": {
+    "$oid": "5e80ee7b0fa33534fd9ad50f"
+  },
+  "playerId": "5e80ee6747fbad7aeec91f8e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-03-29T18:52:43.318Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9b"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9c"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9d"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9e"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e7df21b47fbad7aeec91e9f"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-03-29T18:52:43.318Z"
+  },
+  "userName": "guest392186"
+},{
+  "_id": {
+    "$oid": "5e8240700fa33534fd9b1a51"
+  },
+  "playerId": "5e823e6a47fbad7aeec91fa5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-03-30T18:54:40.742Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadcd7"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-13.19",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadcd8"
+      },
+      "diskName": "d2",
+      "Y": "-0.14",
+      "X": "-3.29",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadcd9"
+      },
+      "diskName": "d3",
+      "Y": "-3.09",
+      "X": "-3.29",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadcda"
+      },
+      "diskName": "d4",
+      "Y": "2.23",
+      "X": "-1.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadcdb"
+      },
+      "diskName": "d5",
+      "Y": "-5.4",
+      "X": "-1.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-4",
+  "indexNumber": 17,
+  "updatedAt": {
+    "$date": "2020-04-06T14:21:52.938Z"
+  },
+  "userName": "hammad"
+},{
+  "_id": {
+    "$oid": "5e8b7e680fa33534fd9cff5d"
+  },
+  "playerId": "5e8b7d0a45cb5937c8fadd4d",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-04-06T19:09:28.123Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce1"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce2"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce3"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce4"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e8332f845cb5937c8fadce5"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-04-06T19:09:28.123Z"
+  },
+  "userName": "cipher"
+},{
+  "_id": {
+    "$oid": "5e95b93ed934d23922ecc43b"
+  },
+  "playerId": "5e941d8051b64552d5ad9560",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-04-14T13:23:10.791Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6e9"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6ea"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6eb"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6ec"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6ed"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2020-05-24T08:38:38.746Z"
+  },
+  "userName": "ruchika96"
+},{
+  "_id": {
+    "$oid": "5ea5f618d934d23922f357ea"
+  },
+  "playerId": "5ea5f59d6f4ac75a6b165971",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-04-26T20:59:04.755Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edce"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edcf"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd0"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd1"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd2"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-04-26T20:59:04.755Z"
+  },
+  "userName": "test"
+},{
+  "_id": {
+    "$oid": "5ea644edd934d23922f377dc"
+  },
+  "playerId": "5ea644156f4ac75a6b165982",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-04-27T02:35:25.190Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edce"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edcf"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd0"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd1"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edd2"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-04-27T02:36:42.311Z"
+  },
+  "userName": "saddamjit"
+},{
+  "_id": {
+    "$oid": "5ea6a90cd934d23922f3a069"
+  },
+  "playerId": "5ea6a2876f4ac75a6b16599d",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-04-27T09:42:36.801Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edb0"
+      },
+      "diskName": "d1",
+      "Y": "-2.86",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edb1"
+      },
+      "diskName": "d2",
+      "Y": "-0.45",
+      "X": "-12.55",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edb2"
+      },
+      "diskName": "d3",
+      "Y": "4.2",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edb3"
+      },
+      "diskName": "d4",
+      "Y": "-7.6",
+      "X": "-2.43",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968edb4"
+      },
+      "diskName": "d5",
+      "Y": "-1.76",
+      "X": "-2.43",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 15,
+  "updatedAt": {
+    "$date": "2020-04-27T09:42:40.913Z"
+  },
+  "userName": "aiikay89"
+},{
+  "_id": {
+    "$oid": "5ea6d2d5d934d23922f3b176"
+  },
+  "playerId": "5ea6d2456f4ac75a6b1659e0",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-04-27T12:40:53.377Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968ed9c"
+      },
+      "diskName": "d1",
+      "Y": "-3.4",
+      "X": "-11.57",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968ed9d"
+      },
+      "diskName": "d2",
+      "Y": "-0.08",
+      "X": "-11.57",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968ed9e"
+      },
+      "diskName": "d3",
+      "Y": "-1.5",
+      "X": "-2.33",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968ed9f"
+      },
+      "diskName": "d4",
+      "Y": "3.24",
+      "X": "-5.82",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5e955e60fec46d655968eda0"
+      },
+      "diskName": "d5",
+      "Y": "-6.27",
+      "X": "-5.82",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-3-0",
+  "indexNumber": 13,
+  "updatedAt": {
+    "$date": "2020-04-27T12:42:09.949Z"
+  },
+  "userName": "sgx"
+},{
+  "_id": {
+    "$oid": "5eb1a91d9d441a289a6ec142"
+  },
+  "playerId": "5eb1a3b39f9615662d2e1888",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-05-05T17:57:49.232Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5eb3b2ac0be9af15f8b40fef"
+      },
+      "diskName": "d1",
+      "X": "-12.08",
+      "Y": "-1.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eb3b2ac0be9af15f8b40ff0"
+      },
+      "diskName": "d2",
+      "Y": "1.09",
+      "X": "-12.08",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eb3b2ac0be9af15f8b40ff1"
+      },
+      "diskName": "d3",
+      "X": "-12.08",
+      "Y": "-4.22",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eb3b2ac0be9af15f8b40ff2"
+      },
+      "diskName": "d4",
+      "Y": "-2.76",
+      "X": "-9.12",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eb3b2ac0be9af15f8b40ff3"
+      },
+      "diskName": "d5",
+      "Y": "-7.08",
+      "X": "-9.12",
+      "Z": "0"
+    }
+  ],
+  "formationName": "5-0-0",
+  "indexNumber": 2,
+  "updatedAt": {
+    "$date": "2020-05-07T15:14:35.971Z"
+  },
+  "userName": "JOE"
+},{
+  "_id": {
+    "$oid": "5eb28a599d441a289a6ef120"
+  },
+  "playerId": "5eb2855653c0ac049411a4e8",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-05-06T09:58:49.753Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6f3"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-10.34",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6f4"
+      },
+      "diskName": "d2",
+      "Y": "-0.35",
+      "X": "-12.72",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6f5"
+      },
+      "diskName": "d3",
+      "Y": "-3.6",
+      "X": "-3.38",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6f6"
+      },
+      "diskName": "d4",
+      "Y": "-6.19",
+      "X": "-3.38",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5eca2d19710ab2523d87d6f7"
+      },
+      "diskName": "d5",
+      "Y": "-8.75",
+      "X": "-3.38",
+      "Z": "0"
+    }
+  ],
+  "formationName": "2-0-3",
+  "indexNumber": 16,
+  "updatedAt": {
+    "$date": "2020-05-25T07:37:39.363Z"
+  },
+  "userName": "rus28"
+},{
+  "_id": {
+    "$oid": "5ec268c79d441a289a723dc3"
+  },
+  "playerId": "5ec23232b68a7974ed1cb8f4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-05-18T10:51:51.274Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb832"
+      },
+      "diskName": "d1",
+      "Y": "-1.49",
+      "X": "-4.6",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb833"
+      },
+      "diskName": "d2",
+      "Y": "1.88",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb834"
+      },
+      "diskName": "d3",
+      "Y": "-5.16",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb835"
+      },
+      "diskName": "d4",
+      "Y": "4.45",
+      "X": "-2.31",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb836"
+      },
+      "diskName": "d5",
+      "Y": "-7.70",
+      "X": "-2.31",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-0-5",
+  "indexNumber": 18,
+  "updatedAt": {
+    "$date": "2020-05-18T10:51:51.274Z"
+  },
+  "userName": "rupeshpawar"
+},{
+  "_id": {
+    "$oid": "5ec774b29d441a289a73490d"
+  },
+  "playerId": "5ec770eeb68a7974ed1cb906",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-05-22T06:44:02.858Z"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80a"
+      },
+      "diskName": "d1",
+      "Y": "-1.5",
+      "X": "-11.48",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80b"
+      },
+      "diskName": "d2",
+      "Y": "2.55",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80c"
+      },
+      "diskName": "d3",
+      "Y": "-5.26",
+      "X": "-9.53",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80d"
+      },
+      "diskName": "d4",
+      "Y": "5.22",
+      "X": "-5",
+      "Z": "0"
+    },
+    {
+      "_id": {
+        "$oid": "5ebba521b68a7974ed1cb80e"
+      },
+      "diskName": "d5",
+      "Y": "-8.25",
+      "X": "-5",
+      "Z": "0"
+    }
+  ],
+  "formationName": "0-2-2",
+  "indexNumber": 14,
+  "updatedAt": {
+    "$date": "2020-05-22T06:52:09.876Z"
+  },
+  "userName": "ashish"
+},{
+  "_id": {
+    "$oid": "5ed3835977484d4492de3783"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de3784"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de3785"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de3786"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de3787"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de3788"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de3789"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de378a"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de378b"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de378c"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3835977484d4492de378d"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3835877484d4492de3782",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T10:13:45.562Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T10:13:45.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed38908da11106ff14ef439"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef43a"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef43b"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef43c"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef43d"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef43e"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef43f"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef440"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef441"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef442"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed38908da11106ff14ef443"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed38908da11106ff14ef438",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-05-31T10:38:00.613Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T10:38:00.613Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3ae568ce1e771dfd425d9"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425da"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425db"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425dc"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425dd"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425de"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425df"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425e0"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425e1"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425e2"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ae568ce1e771dfd425e3"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3ae568ce1e771dfd425d8",
+  "userName": "testuser2",
+  "createdAt": {
+    "$date": "2020-05-31T13:17:10.176Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:17:10.176Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b2c856414f38af22e434"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e435"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e436"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e437"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e438"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e439"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e43a"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e43b"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e43c"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e43d"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b2c856414f38af22e43e"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b2c756414f38af22e433",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:36:08.399Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:36:08.399Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b35757c6ea79f2f4d561"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d562"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d563"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d564"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d565"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d566"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d567"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d568"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d569"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d56a"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b35757c6ea79f2f4d56b"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b35757c6ea79f2f4d560",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:38:31.910Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:38:31.910Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b3f233c25c7ace5deb4a"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb4b"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb4c"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb4d"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb4e"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb4f"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb50"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb51"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb52"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb53"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b3f233c25c7ace5deb54"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b3f233c25c7ace5deb49",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:41:06.905Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:41:06.905Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b4277f37907b075f1f33"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f34"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f35"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f36"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f37"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f38"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f39"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f3a"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f3b"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f3c"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b4277f37907b075f1f3d"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b4277f37907b075f1f32",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:41:59.895Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:41:59.895Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b5603a82be7b9df9fb20"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb21"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb22"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb23"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb24"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb25"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb26"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb27"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb28"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb29"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b5603a82be7b9df9fb2a"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b55f3a82be7b9df9fb1f",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:47:12.163Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:47:12.163Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b70a4f1c7b7c1224f738"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f739"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f73a"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f73b"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f73c"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f73d"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f73e"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f73f"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f740"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f741"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b70a4f1c7b7c1224f742"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b7094f1c7b7c1224f737",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:54:18.028Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:54:18.028Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b7f24665067c66361ce7"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361ce8"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361ce9"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361cea"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361ceb"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361cec"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361ced"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361cee"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361cef"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361cf0"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b7f24665067c66361cf1"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b7f14665067c66361ce6",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:58:10.139Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:58:10.139Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b83bff990343aa015fb1"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fb2"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fb3"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fb4"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fb5"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fb6"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fb7"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fb8"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fb9"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fba"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b83bff990343aa015fbb"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b83aff990343aa015fb0",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:59:23.313Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:59:23.313Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b85f6ad975443fcbea11"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea12"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea13"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea14"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea15"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea16"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea17"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea18"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea19"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea1a"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b85f6ad975443fcbea1b"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b85e6ad975443fcbea10",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T13:59:59.318Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:59:59.318Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3b90107b2ca7cdaff2d62"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d63"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d64"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d65"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d66"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d67"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d68"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d69"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d6a"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d6b"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3b90107b2ca7cdaff2d6c"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3b90107b2ca7cdaff2d61",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T14:02:41.405Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T14:02:41.405Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3ba2707b2ca7cdaff2d6e"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d6f"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d70"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d71"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d72"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d73"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d74"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d75"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d76"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d77"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba2707b2ca7cdaff2d78"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3ba2707b2ca7cdaff2d6d",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T14:07:35.831Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T14:07:35.831Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3ba839a87527d330d5a65"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a66"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a67"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a68"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a69"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a6a"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a6b"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a6c"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a6d"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a6e"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3ba839a87527d330d5a6f"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3ba829a87527d330d5a64",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T14:09:07.060Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T14:09:07.060Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3bb639a87527d330d5a71"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a72"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a73"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a74"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a75"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a76"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a77"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a78"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a79"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a7a"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bb639a87527d330d5a7b"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3bb639a87527d330d5a70",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T14:12:51.720Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T14:12:51.720Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3bcad9a87527d330d5a81"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a82"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a83"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a84"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a85"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a86"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a87"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a88"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a89"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a8a"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bcad9a87527d330d5a8b"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3bcac9a87527d330d5a80",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-05-31T14:18:21.113Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T14:18:21.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3bdb69a87527d330d5a8f"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a90"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a91"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a92"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a93"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a94"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a95"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a96"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a97"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a98"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3bdb69a87527d330d5a99"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3bdb69a87527d330d5a8e",
+  "userName": "ruchikaJiwemann",
+  "createdAt": {
+    "$date": "2020-05-31T14:22:46.983Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T14:22:46.983Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3c30aa467b87efeeef455"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef456"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef457"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef458"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef459"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef45a"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef45b"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef45c"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef45d"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef45e"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed3c30aa467b87efeeef45f"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed3c309a467b87efeeef454",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-05-31T14:45:30.151Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T14:45:30.151Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed51dd178d655462d4b1979"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b197a"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b197b"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b197c"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b197d"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b197e"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b197f"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b1980"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b1981"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b1982"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51dd178d655462d4b1983"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed51dd178d655462d4b1978",
+  "userName": "ruchikaJiwemann",
+  "createdAt": {
+    "$date": "2020-06-01T15:25:05.920Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-01T15:25:05.920Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed51e7978d655462d4b1985"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b1986"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b1987"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b1988"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b1989"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b198a"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b198b"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b198c"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b198d"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b198e"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed51e7978d655462d4b198f"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed51e7978d655462d4b1984",
+  "userName": "ruchika96",
+  "createdAt": {
+    "$date": "2020-06-01T15:27:53.391Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-01T15:27:53.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed5200878d655462d4b1991"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b1992"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b1993"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b1994"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b1995"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b1996"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b1997"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b1998"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b1999"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b199a"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5200878d655462d4b199b"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed5200878d655462d4b1990",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-01T15:34:32.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-01T15:34:32.784Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed5f01f78d655462d4b19ac"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19ad"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19ae"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19af"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19b0"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19b1"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19b2"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19b3"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19b4"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19b5"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f01f78d655462d4b19b6"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed5f01e78d655462d4b19ab",
+  "userName": "Njoro",
+  "createdAt": {
+    "$date": "2020-06-02T06:22:23.028Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T06:22:23.028Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed5f39978d655462d4b19ba"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19bb"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19bc"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19bd"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19be"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19bf"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19c0"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19c1"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19c2"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19c3"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed5f39978d655462d4b19c4"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed5f39978d655462d4b19b9",
+  "userName": "Bolingo",
+  "createdAt": {
+    "$date": "2020-06-02T06:37:13.733Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T06:37:13.733Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed6316d78d655462d4b19cc"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19cd"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19ce"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19cf"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19d0"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19d1"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19d2"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19d3"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19d4"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19d5"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6316d78d655462d4b19d6"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed6316d78d655462d4b19cb",
+  "userName": "ashish23",
+  "createdAt": {
+    "$date": "2020-06-02T11:01:01.549Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T11:01:01.549Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed636bdccc75d5824775f1a"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f1b"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f1c"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f1d"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f1e"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f1f"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f20"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f21"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f22"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f23"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed636bdccc75d5824775f24"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed636bdccc75d5824775f19",
+  "userName": "123456",
+  "createdAt": {
+    "$date": "2020-06-02T11:23:41.503Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T11:23:41.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed63b3accc75d5824775f26"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f27"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f28"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f29"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f2a"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f2b"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f2c"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f2d"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f2e"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f2f"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed63b3accc75d5824775f30"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed63b3accc75d5824775f25",
+  "userName": "123456",
+  "createdAt": {
+    "$date": "2020-06-02T11:42:50.223Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T11:42:50.223Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed647c1ccc75d5824775f32"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f33"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f34"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f35"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f36"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f37"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f38"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f39"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f3a"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f3b"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed647c1ccc75d5824775f3c"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed647c1ccc75d5824775f31",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-02T12:36:17.720Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T12:36:17.720Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed652c4ccc75d5824775f3e"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f3f"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f40"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f41"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f42"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f43"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f44"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f45"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f46"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f47"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed652c4ccc75d5824775f48"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed652c4ccc75d5824775f3d",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-02T13:23:16.573Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T13:23:16.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed6532cccc75d5824775f4a"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f4b"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f4c"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f4d"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f4e"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f4f"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f50"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f51"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f52"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f53"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed6532cccc75d5824775f54"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed6532bccc75d5824775f49",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-02T13:25:00.191Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T13:25:00.191Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed65611ccc75d5824775f56"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f57"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f58"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f59"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f5a"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f5b"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f5c"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f5d"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f5e"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f5f"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65611ccc75d5824775f60"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed65611ccc75d5824775f55",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-02T13:37:21.469Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T13:37:21.469Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed65667ccc75d5824775f62"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f63"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f64"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f65"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f66"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f67"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f68"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f69"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f6a"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f6b"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed65667ccc75d5824775f6c"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed65667ccc75d5824775f61",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-02T13:38:47.743Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T13:38:47.743Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed7519e73ad81349ff6fb1e"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb1f"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb20"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb21"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb22"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb23"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb24"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb25"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb26"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb27"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7519e73ad81349ff6fb28"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed7519d73ad81349ff6fb1d",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-03T07:30:38.062Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-03T07:30:38.062Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed757e973ad81349ff6fb33"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb34"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb35"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb36"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb37"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb38"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb39"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb3a"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb3b"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb3c"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed757e973ad81349ff6fb3d"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed757e973ad81349ff6fb32",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-03T07:57:29.156Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-03T07:57:29.156Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed759dcfb3d394a4b986413"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b986414"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b986415"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b986416"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b986417"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b986418"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b986419"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b98641a"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b98641b"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b98641c"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed759dcfb3d394a4b98641d"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed759dcfb3d394a4b986412",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-03T08:05:48.411Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-03T08:05:48.411Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed764c1c6a172520171b8ab"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8ac"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8ad"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8ae"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8af"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8b0"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8b1"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8b2"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8b3"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8b4"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed764c1c6a172520171b8b5"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed764c1c6a172520171b8aa",
+  "userName": "ruchikaJiweman",
+  "createdAt": {
+    "$date": "2020-06-03T08:52:17.671Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-03T08:52:17.671Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed7665fc6a172520171b8be"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8bf"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c0"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c1"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c2"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c3"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c4"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c5"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c6"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c7"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed7665fc6a172520171b8c8"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed7665fc6a172520171b8bd",
+  "userName": "ashish233",
+  "createdAt": {
+    "$date": "2020-06-03T08:59:11.780Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-03T08:59:11.780Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed8c6eee027373d2fe7738f"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77390"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77391"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77392"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77393"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77394"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77395"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77396"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77397"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77398"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5ed8c6eee027373d2fe77399"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5ed8c6eee027373d2fe7738e",
+  "userName": "Chris1234567",
+  "createdAt": {
+    "$date": "2020-06-04T10:03:26.547Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-04T10:03:26.547Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edbd97ecf83a1307ad42ffd"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad42ffe"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad42fff"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad43000"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad43001"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad43002"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad43003"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad43004"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad43005"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad43006"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbd97ecf83a1307ad43007"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5edbd97dcf83a1307ad42ffc",
+  "userName": "ruchika123",
+  "createdAt": {
+    "$date": "2020-06-06T17:59:26.093Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-06T17:59:26.093Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edbda57cf83a1307ad43009"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad4300a"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad4300b"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad4300c"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad4300d"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad4300e"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad4300f"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad43010"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad43011"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad43012"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbda57cf83a1307ad43013"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5edbda57cf83a1307ad43008",
+  "userName": "ruchika123",
+  "createdAt": {
+    "$date": "2020-06-06T18:03:03.262Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-06T18:03:03.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edbdc9ecf83a1307ad43016"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad43017"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad43018"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad43019"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad4301a"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad4301b"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad4301c"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad4301d"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad4301e"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad4301f"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edbdc9ecf83a1307ad43020"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5edbdc9dcf83a1307ad43015",
+  "userName": "      ",
+  "createdAt": {
+    "$date": "2020-06-06T18:12:46.060Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-06T18:12:46.060Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc89f8cf83a1307ad43032"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad43033"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad43034"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad43035"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad43036"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad43037"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad43038"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad43039"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad4303a"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad4303b"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc89f8cf83a1307ad4303c"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5edc89f8cf83a1307ad43031",
+  "userName": "testuser3",
+  "createdAt": {
+    "$date": "2020-06-07T06:32:24.801Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-07T06:32:24.801Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edc9a0237cdf47552cda817"
+  },
+  "disks": [
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda818"
+      },
+      "diskName": "d1",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda819"
+      },
+      "diskName": "d2",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda81a"
+      },
+      "diskName": "d3",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda81b"
+      },
+      "diskName": "d4",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda81c"
+      },
+      "diskName": "d5",
+      "diskType": "active",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda81d"
+      },
+      "diskName": "d6",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda81e"
+      },
+      "diskName": "d7",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda81f"
+      },
+      "diskName": "d8",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda820"
+      },
+      "diskName": "d9",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    },
+    {
+      "_id": {
+        "$oid": "5edc9a0237cdf47552cda821"
+      },
+      "diskName": "d10",
+      "diskType": "substitute",
+      "isCaptain": false,
+      "force": 3.5,
+      "aim": 10,
+      "time": 20
+    }
+  ],
+  "playerId": "5edc9a0237cdf47552cda816",
+  "userName": "test123",
+  "createdAt": {
+    "$date": "2020-06-07T07:40:50.353Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-07T07:40:50.353Z"
+  },
+  "__v": 0
+}]

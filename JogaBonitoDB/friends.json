@@ -1,0 +1,1137 @@
+[{
+  "_id": {
+    "$oid": "5de4ec8223c3d51e3ad5ba62"
+  },
+  "FriendUserName": "guest592842",
+  "loggedInUserName": "guest308149",
+  "email": "guest592842",
+  "userId": "5de4c7e3d6b5c01b5381ffb6",
+  "deviceToken": "cKe_0m572m4:APA91bHgoxAK-cUQI5dzD_7cvivQLpa13SE5CqlQmZfH2mGezgfQqPBVbdIpx4cRD3UjVd44uk0dWMigmHYr_wPf3CBL--qhuDniAXetrTgfefCeP2y9UwlgMqedJzMw8nt1kJKgkZoZ",
+  "createdAt": {
+    "$date": "2019-12-02T10:50:42.233Z"
+  },
+  "updatedAt": {
+    "$date": "2019-12-02T10:50:42.233Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5de6359e8da0246f7e318eb7"
+  },
+  "FriendUserName": "guest215045",
+  "loggedInUserName": "guest932124",
+  "email": "guest215045",
+  "userId": "5de4919765357f18d28194df",
+  "deviceToken": "f2o0xdy3hhs:APA91bG1zx9pgJmks4BiIrprWnPqhJLFTdiGw3VV4IZmte6EuF2z83PTuta2IWpNNzjpIQSnJg87hLjQg_SlQ_QYIgFtqp-iy7yItyytrvsorgpT0LA-GjFQ75BAfwRFcKGCPSd-m9YA",
+  "createdAt": {
+    "$date": "2019-12-03T10:14:54.541Z"
+  },
+  "updatedAt": {
+    "$date": "2019-12-03T10:14:54.541Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5de6359e8da0246f7e318eb8"
+  },
+  "FriendUserName": "guest215045",
+  "loggedInUserName": "guest932124",
+  "email": "guest215045",
+  "userId": "5de4919765357f18d28194df",
+  "deviceToken": "f2o0xdy3hhs:APA91bG1zx9pgJmks4BiIrprWnPqhJLFTdiGw3VV4IZmte6EuF2z83PTuta2IWpNNzjpIQSnJg87hLjQg_SlQ_QYIgFtqp-iy7yItyytrvsorgpT0LA-GjFQ75BAfwRFcKGCPSd-m9YA",
+  "createdAt": {
+    "$date": "2019-12-03T10:14:54.541Z"
+  },
+  "updatedAt": {
+    "$date": "2019-12-03T10:14:54.541Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5de8d6c7f58fcd15c1a228af"
+  },
+  "FriendUserName": "guest436747",
+  "loggedInUserName": "guest215045",
+  "email": "guest436747",
+  "userId": "5de77e3658800b27c44828fe",
+  "deviceToken": "dX0RtV0b6IE:APA91bG08js1OAmgJsfpm5i1VtHIH7eIFEVao7DHcM7IhB6TOBucX4y5yzVl338VKgqEvovxNUAh1N89_viBc3A0K4dwpsdwp_IjJgeAU2NHl3I2XP4YUnpJjrXOWPL9OcoB422yfbSV",
+  "createdAt": {
+    "$date": "2019-12-05T10:07:03.878Z"
+  },
+  "updatedAt": {
+    "$date": "2019-12-05T10:07:03.878Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5de8d726f58fcd15c1a228b2"
+  },
+  "FriendUserName": "guest215045",
+  "loggedInUserName": "guest436747",
+  "email": "guest215045",
+  "userId": "5de4919765357f18d28194df",
+  "deviceToken": "fzzF5uiIDFE:APA91bGzF78dgNZJicFF2TtQWkMEenDYNwlvegDpcgMfx9DRAo_4pJqEPhFE7rQtLiZZnSIrFnP8hVZfWWndMn4o2dIa6mqoyx1A5l0oWPmRP0Lz5eYzGUxqnuhvuy327wdtMGbuV3kX",
+  "createdAt": {
+    "$date": "2019-12-05T10:08:38.134Z"
+  },
+  "updatedAt": {
+    "$date": "2019-12-05T10:08:38.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5debf79bd6926f164fc0296a"
+  },
+  "FriendUserName": "guest308149",
+  "loggedInUserName": "guest592842",
+  "email": "guest308149",
+  "userId": "5de4c18dd6b5c01b5381ff95",
+  "deviceToken": "fZsYyRY33uk:APA91bEuwgkTf3TnCO3B89D-Gvbx5UTg7Q6cDcFVl5IEt6dHhg8umXur3b1kKdvMYd9zkRazb5C8Ld3y9eh2yhKYwJF4rvIkhCTrqTaDGWv1cgXYRL-zvZ6fCzEGRhbMlpT_mCBtZs2f",
+  "createdAt": {
+    "$date": "2019-12-07T19:03:55.649Z"
+  },
+  "updatedAt": {
+    "$date": "2019-12-07T19:03:55.649Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5df9d4ce50b86d2b12811cd1"
+  },
+  "FriendUserName": "guest717174",
+  "loggedInUserName": "guest477021",
+  "email": "guest717174",
+  "userId": "5de4a8b4b5ffc1198120d288",
+  "deviceToken": "eFfti99vJgs:APA91bEIMvr37sAab4LVAbtS2nzQ5HdWXNHYmCFmaZF6Ad7YsJqLr0AwbwjOAylceevjVgomeO7zauG4E1k8w4mAwd3rcuJdChjlPxRPm1f-tpzNCYmz8CG4VpFrSvVCFA2-uzpAMvXM",
+  "createdAt": {
+    "$date": "2019-12-18T07:27:10.258Z"
+  },
+  "updatedAt": {
+    "$date": "2019-12-18T07:27:10.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e18706027bfae5341dc980a"
+  },
+  "FriendUserName": "t",
+  "loggedInUserName": "guest215045",
+  "email": "sudarshan4@gmail.com",
+  "userId": "5de4d6a959a9f01d175c54de",
+  "deviceToken": "cfdBzdxJFoc:APA91bFPieH1eTP-mobnxPz_IdO8V0HQAitWgFdJpX_oZiPq7OLL1UWgNYjLUJKaTAf0Mlls7M4ZcayTszJf5P02J_3saSbx-CgPp0JD3-J5Pv-5KeAZIAI4moFv0jOpDZQYQQveeQlX",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-01-10T12:38:56.429Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-10T12:38:56.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e1c25465c6b132263e0c834"
+  },
+  "FriendUserName": "t",
+  "loggedInUserName": "Anand",
+  "email": "sudarshan4@gmail.com",
+  "userId": "5de4d6a959a9f01d175c54de",
+  "deviceToken": "",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-01-13T08:07:34.201Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-13T08:07:34.201Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e1d87f95c6b132263e0c981"
+  },
+  "FriendUserName": "guest477021",
+  "loggedInUserName": "guest941521",
+  "email": "guest477021",
+  "userId": "5de4a912b5ffc1198120d28e",
+  "deviceToken": "cyk0_FFpcvk:APA91bG39cg57azYJUG5m5dDfcrgpa_MJo42nlR6mtqzEb87oSFzQ1Ths0teeuuMWN6dgF89ig5aBKacconO1ZoUTxVcNWv_1-muSrt3NmpxNspNWDyHdUWCv33aDvCe2TsXTNWAPwx6",
+  "createdAt": {
+    "$date": "2020-01-14T09:20:57.465Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-14T09:20:57.465Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e1d88a35c6b132263e0c991"
+  },
+  "FriendUserName": "guest941521",
+  "loggedInUserName": "guest477021",
+  "email": "guest941521",
+  "userId": "5e1c515c5c6b132263e0c8a4",
+  "deviceToken": "ehC2PN0QaoI:APA91bHQOm9nikcw6mfZzET2baMNJlYs9A1qAWpkrLPIUowdOg4nA9vdai1_yd3LM2neS57C9uCM9EDhs9iviC-grCeQi4fG6qCJO-P6XWQX_yNw_weXy1fq7FZ-oJ_3g2IvY1v4NZLP",
+  "createdAt": {
+    "$date": "2020-01-14T09:23:47.008Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-14T09:23:47.008Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e2fd8ebe26159264e7c739c"
+  },
+  "FriendUserName": "yashshree",
+  "loggedInUserName": "thorat34",
+  "email": "testing@gmail.com",
+  "userId": "5e2fd17ce26159264e7c72c4",
+  "deviceToken": "c7VyXdLY7Og:APA91bEeSWBr9c9T957TK4iYUDJJ5tiFmdvW9Ad5e0CSJVoPUa5OQDEIOZCEwzDLe2tJrBFSZljHshVGhrXaN_XOcq9lyFVZ1L3yWg9IU_cOScE8pHBQfb-IVKGzd9FyEpy42rIIlz2M",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-01-28T06:47:07.182Z"
+  },
+  "updatedAt": {
+    "$date": "2020-01-28T06:47:07.182Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e3d157fb36880441e819c4e"
+  },
+  "FriendUserName": "tony",
+  "loggedInUserName": "anand",
+  "email": "ruchika.pawar@barquecontech.com",
+  "userId": "5e3d0effb36880441e819bdd",
+  "deviceToken": "elaeQrVhWYw:APA91bFZAyzDVFEod9BuZdQcs9rnXoY7D1J37mO99dD52i2-4ug3AJPCcYH_MVfhxyQmEsLVyTQSLOHqtRbyI0aib99EVYKy2bfpM_hsOzPqxMtu8xf52ycuqSrG-8rM8Hux-1FBb29V",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-07T07:45:03.408Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-07T07:45:03.408Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e3d3321b36880441e819deb"
+  },
+  "FriendUserName": "tony",
+  "loggedInUserName": "Girish",
+  "email": "ruchika.pawar@barquecontech.com",
+  "userId": "5e3d0effb36880441e819bdd",
+  "deviceToken": "elaeQrVhWYw:APA91bFZAyzDVFEod9BuZdQcs9rnXoY7D1J37mO99dD52i2-4ug3AJPCcYH_MVfhxyQmEsLVyTQSLOHqtRbyI0aib99EVYKy2bfpM_hsOzPqxMtu8xf52ycuqSrG-8rM8Hux-1FBb29V",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-07T09:51:29.623Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-07T09:51:29.623Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e3d3327b36880441e819dec"
+  },
+  "FriendUserName": "Girish",
+  "loggedInUserName": "tony",
+  "email": "girish.takalkar@barquecontech.com",
+  "userId": "5e3d10d0b36880441e819be9",
+  "deviceToken": "fIJxtdF-D4o:APA91bF1pMzcGKJWAF0ricsRbia_VCgwOln99wYCvcXgt6MH4JNGfQp4ZEZTJiTf1nLpybnMxzUjpv6cwu50IeQrMQi90W3RY7WnrYLCMCYyQobJ7u36atAZEHFJhdlvpV-fg-OjlMTp",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-07T09:51:35.270Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-07T09:51:35.270Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e43dc16f748387a3c90bd54"
+  },
+  "FriendUserName": "Anand",
+  "loggedInUserName": "t",
+  "email": "anand.bholane@barquecontech.com",
+  "userId": "5de9e7b075d7cc657dd54346",
+  "deviceToken": "fEDlMASe9C8:APA91bGfaikpEXlJRF3NW0EGD9lbN7QhBw2bSn72O_ueMC-K3BSR8sTrRVwKNR-NuO-ywTjXLmBD8neFPESxkqr_JhHmpVIRlGgxyeLYSEd6uKRGsjCAzyLbXQwKexTOVxuL_60e7FO3",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-12T11:05:58.336Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-12T11:05:58.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e4fc948d5ae6e0bb2472938"
+  },
+  "FriendUserName": "ruchika",
+  "loggedInUserName": "Anushri",
+  "email": "ruchika.pawar@barquecontech.com",
+  "userId": "5e424b5355c6af5f65558817",
+  "deviceToken": "dAliF2eLRPM:APA91bHO4d4-LrO5gKc20aI2i74imIBsynlQyl27zp41yPjvCnXp8SZHxMhecL1bIKdzm9_lm04FKGoFUP1fnTjKF4DG7F53_Mv8OszMuNE6jedzFLNy_UIEnjdVTUYRauPMDo03DhXY",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-21T12:12:56.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-21T12:12:56.341Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54bacae5b4bb39a2a9bea1"
+  },
+  "FriendUserName": "roshan",
+  "loggedInUserName": "t",
+  "email": "roshan.d@barquecontech.com",
+  "userId": "5de9e3a375d7cc657dd54336",
+  "deviceToken": "eoibj-EGfA0:APA91bFZzzReO0oVP9ohNAFdJf2O8ozJhpyrnx145fdNgZicyfJqyI_m4bCst3Q648mA3UktLuTHVc8ppYHkBUmt_1obRkhy_fgRyVOmvP8fFka4PLoZcQg9ncWI4D_kmyyBUjbCcymi",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-25T06:12:26.965Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T06:12:26.965Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54badee5b4bb39a2a9beb9"
+  },
+  "FriendUserName": "Girish",
+  "loggedInUserName": "t",
+  "email": "girish.takalkar@barquecontech.com",
+  "userId": "5e3d10d0b36880441e819be9",
+  "deviceToken": "fIJxtdF-D4o:APA91bF1pMzcGKJWAF0ricsRbia_VCgwOln99wYCvcXgt6MH4JNGfQp4ZEZTJiTf1nLpybnMxzUjpv6cwu50IeQrMQi90W3RY7WnrYLCMCYyQobJ7u36atAZEHFJhdlvpV-fg-OjlMTp",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-25T06:12:46.757Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T06:12:46.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54badfe5b4bb39a2a9beba"
+  },
+  "FriendUserName": "ruchika",
+  "loggedInUserName": "t",
+  "email": "ruchika.pawar@barquecontech.com",
+  "userId": "5e424b5355c6af5f65558817",
+  "deviceToken": "fZj7J1qPTVo:APA91bH7RwcUq76FjINIj8BVBCvzt0FNwoAi3oX18c0Gbiw1YcoxR4k9tTRvyzngEDfu4fQx2T6RotMPwQiv7rvEI7OopWSbwwVOpvvEkkXKURH-pUQrRIimdi-690lb1oeWxUhsVO-I",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-25T06:12:47.802Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T06:12:47.802Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54bae1e5b4bb39a2a9bebb"
+  },
+  "FriendUserName": "Anushri",
+  "loggedInUserName": "t",
+  "email": "anushrikher07@gmail.com",
+  "userId": "5e4f86821f5f0a0a35d41188",
+  "deviceToken": "c5aRsWoc1vI:APA91bHEssvcRH7PlPc8SkP6xJa1WBHONJgDUd5lU5YIm2tBa9cWWPwMgUQBpf1UnRH5W8dKMARCOIc43LlXmR7EvA3QAmbPYxJccV1KKdHOraGzajo_vAtBIyehmupH7eqHvZHHF5c8",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-25T06:12:49.168Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T06:12:49.168Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54bae2e5b4bb39a2a9bebc"
+  },
+  "FriendUserName": "newroshan",
+  "loggedInUserName": "t",
+  "email": "rd7636@gmail.com",
+  "userId": "5e33cd3864f9005467fc90fb",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-25T06:12:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T06:12:50.578Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e54bc8a7280153b30a7ffbb"
+  },
+  "FriendUserName": "adsul",
+  "loggedInUserName": "roshan",
+  "email": "adsuldipak@gmail.com",
+  "userId": "5e54b20d46405f0dfe08e6b4",
+  "deviceToken": "cuu4nJIUwqE:APA91bFS_X3r6gRwrnBQfL9GWIIXIn-xVeYD5ZyJQ2bL0YtEv7t_DVA6MkFBvSeiuCSHxdCpOybm5pS92jrwSqikNBa6rWALOZwQMNkFwCeJ5cGSe1e7sRdeyL9rfLFbtTrpJn1diZnZ",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-25T06:19:54.599Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T06:19:54.599Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5645031adaa64b0e53bef9"
+  },
+  "FriendUserName": "roshan",
+  "loggedInUserName": "guest359132",
+  "email": "roshan.d@barquecontech.com",
+  "userId": "5de9e3a375d7cc657dd54336",
+  "deviceToken": "f1I2u2kF_f0:APA91bEjdkiObOoYOdpy-F2zxT13iptFE6-IaSbJaftjHmR71HXBMAcuOvwTe80AfiGcQw_qyJ0Q0Fzj2uDaNfoszVVQRGrTErrk0R4bvCNh2ALq6LHDnCDfgqMn7Z-zOdOVeaKGfg-N",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-26T10:14:27.448Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-26T10:14:27.448Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5645051adaa64b0e53befb"
+  },
+  "FriendUserName": "rahul",
+  "loggedInUserName": "guest359132",
+  "email": "rahul@gmail.com",
+  "userId": "5df9d73450b86d2b12811cea",
+  "deviceToken": "eFfti99vJgs:APA91bEIMvr37sAab4LVAbtS2nzQ5HdWXNHYmCFmaZF6Ad7YsJqLr0AwbwjOAylceevjVgomeO7zauG4E1k8w4mAwd3rcuJdChjlPxRPm1f-tpzNCYmz8CG4VpFrSvVCFA2-uzpAMvXM",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-26T10:14:29.568Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-26T10:14:29.568Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5a5a1cf82fab64f0da8aee"
+  },
+  "FriendUserName": "roshan",
+  "loggedInUserName": "test2",
+  "email": "roshan.d@barquecontech.com",
+  "userId": "5de9e3a375d7cc657dd54336",
+  "deviceToken": "f1I2u2kF_f0:APA91bEjdkiObOoYOdpy-F2zxT13iptFE6-IaSbJaftjHmR71HXBMAcuOvwTe80AfiGcQw_qyJ0Q0Fzj2uDaNfoszVVQRGrTErrk0R4bvCNh2ALq6LHDnCDfgqMn7Z-zOdOVeaKGfg-N",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-02-29T12:33:32.488Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-29T12:33:32.488Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e5f4ae6bd92a729733566b6"
+  },
+  "FriendUserName": "Jiweman",
+  "loggedInUserName": "anand",
+  "email": "andrew.nganga@gmail.com",
+  "userId": "5dfb0ac1e3a3722f704a8014",
+  "deviceToken": "dYZnL6A-DDo:APA91bGcwwmxJHq_EZet_dBuw8hykswDmB-SG8dCD5PpRfyFN50m2iP-RZ6gx38-YoN5N8-QhCyEVQ-moZmC0gPCB2_n6mJvN6QtRQPM7PyWTL5vL3DHHzCHnzmhFtDaHeFiY4xFP9GW",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-03-04T06:29:58.526Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-04T06:29:58.526Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e60eb12721c052c63c9c85b"
+  },
+  "FriendUserName": "roshan",
+  "loggedInUserName": "anand",
+  "email": "roshan.d@barquecontech.com",
+  "userId": "5de9e3a375d7cc657dd54336",
+  "deviceToken": "dbBFSDQaVDU:APA91bHVF_lKoo_E2RKt4jcJjl15c9YxzVnffYk4E-KP_3m-WdRMvdSvQ3RlBQjcKVNfU-EqbEzqOHOqhoYhJsOeiV6Sr23gXPpXBi3nvUqja-VENXXvN9MuFRi3rQ4xe9OPdasmoxy6",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-03-05T12:05:38.643Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-05T12:05:38.643Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed7596d73ad81349ff6fb3e"
+  },
+  "FriendUserName": "cletrich",
+  "loggedInUserName": "rus28",
+  "email": "russel@jiweman.com",
+  "userId": "5ecceedf7d151e742108dd3f",
+  "deviceToken": "dnaGfCHLIMo:APA91bGAbSk_NKDiry1Y-ywlqyFNxwvwaVr387JmrVnYJDMkpGRBZfL2VUDw5-yolV6hlPDf-b09S-K5oxOuDXIRQC2yI9sGMgz6vkxXyBScu6g5LHiu__73l4Ms07y4eGKD6o0a1YqL",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-03T08:03:57.478Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-03T08:03:57.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed795831c83f357c34f9106"
+  },
+  "FriendUserName": "saadfiver4@g",
+  "loggedInUserName": "rus28",
+  "email": "shah4you2012@gmail.com",
+  "userId": "5e80cc5847fbad7aeec91f71",
+  "deviceToken": "flpa9p_11A4:APA91bEMeXbZOpmbiwIAgncNHhmrgetblY6Wje-mT2Mbk_PiMCUFyi6yDXJ6Aac9HGMAuGHrfh5DxqaKEhJ-IZQP1Qtmg948G6NUUstqQ6BRcJByke3RFTzzdIIMOJJBN1JJ47vWhXGe",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-03T12:20:19.014Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-03T12:20:19.014Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed886e5e027373d2fe77379"
+  },
+  "FriendUserName": "rus07",
+  "loggedInUserName": "cletrich",
+  "email": "lentelinfo@gmail.com",
+  "userId": "5eb288c853c0ac049411a4f5",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-04T05:30:13.760Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-04T05:30:13.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed886e6e027373d2fe7737a"
+  },
+  "FriendUserName": "rus0728",
+  "loggedInUserName": "cletrich",
+  "email": "lentelinfo@test.com",
+  "userId": "5ebba1c874d5717485872e36",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-04T05:30:14.777Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-04T05:30:14.777Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed886e8e027373d2fe7737b"
+  },
+  "FriendUserName": "rus28",
+  "loggedInUserName": "cletrich",
+  "email": "mendez.russel28@gmail.com",
+  "userId": "5eb2855653c0ac049411a4e8",
+  "deviceToken": "eXKnLgrLoTw:APA91bHUyavmoqZNpkQWXhQc6WXPX_pvT_FMK_84R55CnZokrLhi8TVRkZZJIAbWLZdRC0GG0vhiEDqyclyhN5utM753JJOmPqVLFxSIA3idYpDE0fhJrXTCHwBzdEMhPMJa5r_r2Vpo",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-04T05:30:16.428Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-04T05:30:16.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee1d64406b74547d78f280"
+  },
+  "FriendUserName": "ruchikaGmail",
+  "loggedInUserName": "ruchikaJiweman",
+  "email": "ruchikapawar771@gmail.com",
+  "userId": "5eee0d2d406b74547d78f27f",
+  "deviceToken": "c5pyCqIyQ3U:APA91bGKqcV8pfIda9MV8Kcme0RwVkixGlZNMn0zaTpldwfXDhs1A_q-pWTUhPnq3GcfJIg7WLh2Q1xk6bOUgG8GLzffAigIY-Am708h-tz7p2AFcrjAqaLoZAIgR_AGmmI8wy9srokv",
+  "gender": "Other",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-20T14:29:56.539Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-20T14:29:56.539Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef1fd6c10c6f7082919282f"
+  },
+  "FriendUserName": "test1",
+  "loggedInUserName": "ruchikaGmail",
+  "email": "vishal.jadhav@barquecontech.com",
+  "userId": "5e54be487280153b30a7ffc2",
+  "deviceToken": "dOcDbbJ4Z8s:APA91bEPCHhtwwpdCpBiIPtUvbc6PLbX07Bc7GO1mi1NVhUNl-Ijd62Gb3Ft9vsRaulLY_DS9ckhO2Ae2LewPaVSbebrHUBeLv1ydqpZ-FWrts2cJFkAKxRJH2azpY9hhaQdaT5MJVv_",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-23T13:02:36.152Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-23T13:02:36.152Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef1ff5a10c6f70829192831"
+  },
+  "FriendUserName": "ruchikaGmail",
+  "loggedInUserName": "test1",
+  "email": "ruchikapawar771@gmail.com",
+  "userId": "5eee0d2d406b74547d78f27f",
+  "deviceToken": "c5pyCqIyQ3U:APA91bGKqcV8pfIda9MV8Kcme0RwVkixGlZNMn0zaTpldwfXDhs1A_q-pWTUhPnq3GcfJIg7WLh2Q1xk6bOUgG8GLzffAigIY-Am708h-tz7p2AFcrjAqaLoZAIgR_AGmmI8wy9srokv",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-23T13:10:50.906Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-23T13:10:50.906Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5155a10c6f7082919288b"
+  },
+  "FriendUserName": "Jiweman",
+  "loggedInUserName": "Samawati",
+  "email": "andrew.nganga@gmail.com",
+  "userId": "5dfb0ac1e3a3722f704a8014",
+  "deviceToken": "c4lTa-S_Z9Q:APA91bEsscl8fCFbHCey5q7dVBcftUkiHzQ_qPkYocoIwinp8Yr0LiZwcmlUUsAU7vLniz0V2GvoeP-KXKJbjNQLkYjtdX7c4arpUA39LP7pyXsZIR2JKS9yp9bUzbeiKslI_wfg5MQV",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-25T21:21:30.852Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-25T21:21:30.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef519ec10c6f7082919288d"
+  },
+  "FriendUserName": "Jiweman",
+  "loggedInUserName": "Zidane",
+  "email": "andrew.nganga@gmail.com",
+  "userId": "5dfb0ac1e3a3722f704a8014",
+  "deviceToken": "c4lTa-S_Z9Q:APA91bEsscl8fCFbHCey5q7dVBcftUkiHzQ_qPkYocoIwinp8Yr0LiZwcmlUUsAU7vLniz0V2GvoeP-KXKJbjNQLkYjtdX7c4arpUA39LP7pyXsZIR2JKS9yp9bUzbeiKslI_wfg5MQV",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-06-25T21:41:00.813Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-25T21:41:00.813Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f42513ff93f1863cd863025"
+  },
+  "FriendUserName": "ruchika96",
+  "loggedInUserName": "ruchika86",
+  "email": "ruchikapawar7@gmail.com",
+  "userId": "5ed51e7978d655462d4b1984",
+  "deviceToken": "eKAcoT1fUco:APA91bGpcG_M31DJ07JwFW_G6KLPSzsnjiN6qstw-Lwkc4z_yT5mOM_k-2F4ZogfZT_opVZsehF9cJ5LPLds6PilcaUhPqSI8VdKwUyVRVQmVv2pbEr51yxLf9Ge4Z4-44-5Af5CQABn",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-08-23T11:21:35.698Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-23T11:21:35.698Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7a7d96f07df66552067be6"
+  },
+  "FriendUserName": "FSTtest",
+  "loggedInUserName": "FastSkill",
+  "email": "keegan2012@me.com",
+  "userId": "5f0ae83b24faa25d9b001689",
+  "deviceToken": "eHaUr-NGzqs:APA91bF6mLi5D_5eEsOF_-Ce83Vlecgtz04z2BeC_sKWWndi_u7lETB_2xB5Go1zxClq0cFzKRSFtrn-P26VFet7g_t8EO5-c0cDpCVg11mhjoMTHLjEw2uDy28MAfbOi_TkVeeZY92G",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-10-05T01:57:42.836Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-05T01:57:42.836Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f0df4f07df66552067dbc"
+  },
+  "FriendUserName": "ruchika96",
+  "loggedInUserName": "test1",
+  "email": "ruchikapawar7@gmail.com",
+  "userId": "5ed51e7978d655462d4b1984",
+  "deviceToken": "cXkyfQWv3v8:APA91bGimbYYliCDOYSwBFd-Pc3edlTN_bSPbSvsXS2wujbqm9PtOnWpgnldiy2B-p-cPRPyAhjMBagxUgxMGM-_Q5Paw1ccNIzr3K6_OEValDZb74qfKFeFz1O_z4SEyQ4xFsSLXCtL",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-10-08T13:02:44.173Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T13:02:44.173Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f843b85f07df66552067e8d"
+  },
+  "FriendUserName": "Priya",
+  "loggedInUserName": "Jeni",
+  "email": "priyanka.thummar@cipherhex.com",
+  "userId": "5f8438c7f07df66552067e8b",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-10-12T11:18:29.286Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T11:18:29.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f843b86f07df66552067e8e"
+  },
+  "FriendUserName": "priyanka",
+  "loggedInUserName": "Jeni",
+  "email": "priyanka.thummar9999@gmail.com",
+  "userId": "5f7ec6c2f07df66552067d98",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2020-10-12T11:18:30.775Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T11:18:30.775Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffff0eb1d7f0722efc5ac7d"
+  },
+  "FriendUserName": "ashish233",
+  "loggedInUserName": "ruchika96",
+  "email": "pandeashish233@gmail.com",
+  "userId": "5ed7665fc6a172520171b8bd",
+  "deviceToken": "cXkyfQWv3v8:APA91bGimbYYliCDOYSwBFd-Pc3edlTN_bSPbSvsXS2wujbqm9PtOnWpgnldiy2B-p-cPRPyAhjMBagxUgxMGM-_Q5Paw1ccNIzr3K6_OEValDZb74qfKFeFz1O_z4SEyQ4xFsSLXCtL",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-01-14T07:21:15.539Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-14T07:21:15.539Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d8b4f3dd1af3fb69cb184"
+  },
+  "FriendUserName": "Jiweman",
+  "loggedInUserName": "ruchika96",
+  "email": "andrew.nganga@gmail.com",
+  "userId": "5dfb0ac1e3a3722f704a8014",
+  "deviceToken": "f3c7tGbo0Co:APA91bFoyeK9yPQJKjiyGbL7Cnty7Ouzh26UIcWo6FCnV1FDGWrMm1Z8AVSa6Bcb7EhIfBN1X8gsXPje2j7plX1IZzBIGCFYShoJsrfWZQqF4SpklpPdqeyiq7PatjhaDG2j3A3bMG8A",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-19T13:53:19.628Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-19T13:53:19.628Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607f8fde3dd1af3fb69cb1df"
+  },
+  "FriendUserName": "Samawati",
+  "loggedInUserName": "Samuel",
+  "email": "jiwemanjobs@yahoo.com",
+  "userId": "5ef506b510c6f70829192886",
+  "deviceToken": "e8R5Po_9FvQ:APA91bEMc8f2hHUM2ZWleNdcKWWIvBZ1XJlptVozZXWowMg0b89ClhtplqPDInRlhmYL0JFITgR1vKqDKySa5rV6F5Ro9q7jmuW3QF-B0M6Xe6mErt4pZnR_SpRorjCP5_DjD7I4CB0S",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-21T02:37:18.116Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-21T02:37:18.116Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607f9d2a3dd1af3fb69cb1e3"
+  },
+  "FriendUserName": "Samuel",
+  "loggedInUserName": "jogaBonito",
+  "email": "dummy@yahoo.com",
+  "userId": "602b46520a7f043a6a715e70",
+  "deviceToken": "ehUvp1B13Ho:APA91bEwuFMnbCHQ1PC3cJm8wc9deZpW_8XsqQXyhb8YSJEUjYcmmSFlEuLTjnANcUbWnZZu9yWrqz1ESnJql6yvgrUhxdK3VsvA6xk7lQUH2cvfRV2fy9SWu33p5SKfPXLB8wNaKSxK",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-21T03:34:02.431Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-21T03:34:02.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60816f753dd1af3fb69cb232"
+  },
+  "FriendUserName": "Samawati",
+  "loggedInUserName": "jogaBonito",
+  "email": "jiwemanjobs@yahoo.com",
+  "userId": "5ef506b510c6f70829192886",
+  "deviceToken": "e8R5Po_9FvQ:APA91bEMc8f2hHUM2ZWleNdcKWWIvBZ1XJlptVozZXWowMg0b89ClhtplqPDInRlhmYL0JFITgR1vKqDKySa5rV6F5Ro9q7jmuW3QF-B0M6Xe6mErt4pZnR_SpRorjCP5_DjD7I4CB0S",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T12:43:33.642Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T12:43:33.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608171763dd1af3fb69cb234"
+  },
+  "FriendUserName": "jogaBonito",
+  "loggedInUserName": "Samuel",
+  "email": "dummy@gmail.com",
+  "userId": "602a42b0e7b63d635c2d1643",
+  "deviceToken": "cBkhmJfdFaA:APA91bGERaNfuAHWULaMvLjh8Bo2jjliD3cva6bGyKnpjfv1XePSnnQBxa92FRb11Ht1KJOjg4NpuVqRxkQSL483ZHXVMlRuoofBVnC9F5HI5afabMyR_ZugB5ptbhAhr5XU-6p2r9lm",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T12:52:06.386Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T12:52:06.386Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608b37eac882447b7b5f935e"
+  },
+  "FriendUserName": "Samawati",
+  "loggedInUserName": "Jiweman",
+  "email": "jiwemanjobs@yahoo.com",
+  "userId": "5ef506b510c6f70829192886",
+  "deviceToken": "e8R5Po_9FvQ:APA91bEMc8f2hHUM2ZWleNdcKWWIvBZ1XJlptVozZXWowMg0b89ClhtplqPDInRlhmYL0JFITgR1vKqDKySa5rV6F5Ro9q7jmuW3QF-B0M6Xe6mErt4pZnR_SpRorjCP5_DjD7I4CB0S",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-29T22:49:14.022Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-29T22:49:14.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608b4e2ec882447b7b5f9376"
+  },
+  "FriendUserName": "Zidane",
+  "loggedInUserName": "Jiweman",
+  "email": "andrew.nganga@jiweman.com",
+  "userId": "5ef3cbce10c6f7082919285f",
+  "deviceToken": "cBkhmJfdFaA:APA91bGERaNfuAHWULaMvLjh8Bo2jjliD3cva6bGyKnpjfv1XePSnnQBxa92FRb11Ht1KJOjg4NpuVqRxkQSL483ZHXVMlRuoofBVnC9F5HI5afabMyR_ZugB5ptbhAhr5XU-6p2r9lm",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T00:24:14.429Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T00:24:14.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608b7221c882447b7b5f93bc"
+  },
+  "FriendUserName": "ruchika86",
+  "loggedInUserName": "Jiweman",
+  "email": "ruchika.pawar@jiweman.com",
+  "userId": "60193a076da1c27ee54d86a6",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T02:57:37.881Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T02:57:37.881Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608b7269c882447b7b5f93bd"
+  },
+  "FriendUserName": "Jiweman",
+  "loggedInUserName": "ruchika86",
+  "email": "andrew.nganga@gmail.com",
+  "userId": "5dfb0ac1e3a3722f704a8014",
+  "deviceToken": "f3c7tGbo0Co:APA91bFoyeK9yPQJKjiyGbL7Cnty7Ouzh26UIcWo6FCnV1FDGWrMm1Z8AVSa6Bcb7EhIfBN1X8gsXPje2j7plX1IZzBIGCFYShoJsrfWZQqF4SpklpPdqeyiq7PatjhaDG2j3A3bMG8A",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T02:58:49.530Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T02:58:49.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6092977855ad976d3ed6783e"
+  },
+  "FriendUserName": "ruchika1",
+  "loggedInUserName": "ruchika2",
+  "email": "ruchika1@jiweman.com",
+  "userId": "6040a85ee815742169bd10dc",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-05-05T13:02:48.894Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-05T13:02:48.894Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609297b555ad976d3ed6783f"
+  },
+  "FriendUserName": "ruchika2",
+  "loggedInUserName": "ruchika1",
+  "email": "ruchika2@jiweman.com",
+  "userId": "6040a871e815742169bd10dd",
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-05-05T13:03:49.946Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-05T13:03:49.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1d5781f057803c59f7ae2"
+  },
+  "FriendUserName": "Zidane",
+  "loggedInUserName": "Samawati",
+  "email": "andrew.nganga@jiweman.com",
+  "userId": "5ef3cbce10c6f7082919285f",
+  "deviceToken": "cBkhmJfdFaA:APA91bGERaNfuAHWULaMvLjh8Bo2jjliD3cva6bGyKnpjfv1XePSnnQBxa92FRb11Ht1KJOjg4NpuVqRxkQSL483ZHXVMlRuoofBVnC9F5HI5afabMyR_ZugB5ptbhAhr5XU-6p2r9lm",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-05-17T02:31:20.352Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T02:31:20.352Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1d5ee1f057803c59f7ae3"
+  },
+  "FriendUserName": "Samawati",
+  "loggedInUserName": "Zidane",
+  "email": "jiwemanjobs@yahoo.com",
+  "userId": "5ef506b510c6f70829192886",
+  "deviceToken": "e8R5Po_9FvQ:APA91bEMc8f2hHUM2ZWleNdcKWWIvBZ1XJlptVozZXWowMg0b89ClhtplqPDInRlhmYL0JFITgR1vKqDKySa5rV6F5Ro9q7jmuW3QF-B0M6Xe6mErt4pZnR_SpRorjCP5_DjD7I4CB0S",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-05-17T02:33:18.981Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T02:33:18.981Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a35a7bcc23777ecb511a12"
+  },
+  "FriendUserName": "Jiweman",
+  "loggedInUserName": "ruchika1",
+  "email": "andrew.nganga@gmail.com",
+  "userId": "5dfb0ac1e3a3722f704a8014",
+  "deviceToken": "e8R5Po_9FvQ:APA91bEMc8f2hHUM2ZWleNdcKWWIvBZ1XJlptVozZXWowMg0b89ClhtplqPDInRlhmYL0JFITgR1vKqDKySa5rV6F5Ro9q7jmuW3QF-B0M6Xe6mErt4pZnR_SpRorjCP5_DjD7I4CB0S",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-05-18T06:11:07.166Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-18T06:11:07.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a35a95cc23777ecb511a13"
+  },
+  "FriendUserName": "Samawati",
+  "loggedInUserName": "ruchika1",
+  "email": "jiwemanjobs@yahoo.com",
+  "userId": "5ef506b510c6f70829192886",
+  "deviceToken": "e8R5Po_9FvQ:APA91bEMc8f2hHUM2ZWleNdcKWWIvBZ1XJlptVozZXWowMg0b89ClhtplqPDInRlhmYL0JFITgR1vKqDKySa5rV6F5Ro9q7jmuW3QF-B0M6Xe6mErt4pZnR_SpRorjCP5_DjD7I4CB0S",
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "createdAt": {
+    "$date": "2021-05-18T06:11:33.285Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-18T06:11:33.285Z"
+  },
+  "__v": 0
+}]

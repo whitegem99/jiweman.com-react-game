@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "5f12b35cb5816a0f8d7d8ff0"
+  },
+  "allocation": [
+    100
+  ],
+  "position": 1
+},{
+  "_id": {
+    "$oid": "5f12b35cb5816a0f8d7d8ff1"
+  },
+  "allocation": [
+    60,
+    40
+  ],
+  "position": 2
+},{
+  "_id": {
+    "$oid": "5f12b35db5816a0f8d7d8ff2"
+  },
+  "allocation": [
+    50,
+    30,
+    20
+  ],
+  "position": 3,
+  "updatedAt": {
+    "$date": "2020-07-23T17:46:53.411Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f12b35db5816a0f8d7d8ff3"
+  },
+  "allocation": [
+    45,
+    27,
+    16,
+    12
+  ],
+  "position": 4
+},{
+  "_id": {
+    "$oid": "5f12b35eb5816a0f8d7d8ff4"
+  },
+  "allocation": [
+    40,
+    25,
+    17,
+    11,
+    7
+  ],
+  "position": 5
+},{
+  "_id": {
+    "$oid": "5f12b35eb5816a0f8d7d8ff5"
+  },
+  "allocation": [
+    39,
+    24,
+    15,
+    10,
+    7,
+    5
+  ],
+  "position": 6
+},{
+  "_id": {
+    "$oid": "5f12b35fb5816a0f8d7d8ff6"
+  },
+  "allocation": [
+    37,
+    23,
+    15,
+    10,
+    7,
+    5,
+    3
+  ],
+  "position": 7
+},{
+  "_id": {
+    "$oid": "5f12b360b5816a0f8d7d8ff7"
+  },
+  "allocation": [
+    35,
+    22,
+    14,
+    10,
+    8,
+    5,
+    3.5,
+    2.5
+  ],
+  "position": 8
+}]

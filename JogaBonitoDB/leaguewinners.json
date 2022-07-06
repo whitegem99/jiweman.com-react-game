@@ -1,0 +1,1235 @@
+[{
+  "_id": {
+    "$oid": "5f74aadd35e9a616dc78ea32"
+  },
+  "hasClaimed": false,
+  "state": "created",
+  "leaderboard": {
+    "$oid": "5f6b2b67dff0fd3a7707d011"
+  },
+  "league": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "user": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 2.98,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-09-30T15:57:17.453Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T15:57:17.453Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f74aadd35e9a616dc78ea33"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f6b275adff0fd3a7707d006"
+  },
+  "league": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 2,
+  "amount": 2.66,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-09-30T15:57:17.453Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T16:00:26.735Z"
+  },
+  "paymentResponse": {
+    "amount": 2.66,
+    "amountAfterCharges": 2.66,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f74ab9a35e9a616dc78ea38"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f74aadd35e9a616dc78ea33",
+    "reason": "Won League: Jiweman Royale",
+    "createdAt": {
+      "$date": "2020-09-30T16:00:26.687Z"
+    },
+    "updatedAt": {
+      "$date": "2020-09-30T16:00:26.687Z"
+    },
+    "__v": 0
+  }
+},{
+  "_id": {
+    "$oid": "5f74aadd35e9a616dc78ea34"
+  },
+  "hasClaimed": false,
+  "state": "created",
+  "leaderboard": {
+    "$oid": "5f6b4440dff0fd3a7707d020"
+  },
+  "league": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 3,
+  "amount": 2.37,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-09-30T15:57:17.453Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T15:57:17.453Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f74aadd35e9a616dc78ea35"
+  },
+  "hasClaimed": false,
+  "state": "created",
+  "leaderboard": {
+    "$oid": "5f6b275adff0fd3a7707d007"
+  },
+  "league": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "user": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "leagueWinnerPosition": 4,
+  "amount": 2.11,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-09-30T15:57:17.454Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T15:57:17.454Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f74aadd35e9a616dc78ea36"
+  },
+  "hasClaimed": false,
+  "state": "created",
+  "leaderboard": {
+    "$oid": "5f6b4440dff0fd3a7707d021"
+  },
+  "league": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "user": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "leagueWinnerPosition": 5,
+  "amount": 1.88,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-09-30T15:57:17.454Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T15:57:17.454Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dd560f07df66552067d66"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f7b1e20f07df66552067c1f"
+  },
+  "league": {
+    "$oid": "5f7738ec35e9a616dc78eabd"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 5.54,
+  "paymentResponse": {
+    "amount": 602,
+    "amountAfterCharges": 602,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f7dd560f07df66552067d67"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f7dd560f07df66552067d66",
+    "reason": "Won League: Beta League - 3",
+    "createdAt": {
+      "$date": "2020-10-07T14:49:04.704Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-07T14:49:04.704Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-07T14:49:04.715Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T14:49:04.715Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dd55ef07df66552067d64"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f7b1dcef07df66552067c18"
+  },
+  "league": {
+    "$oid": "5f7738ec35e9a616dc78eabd"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 2,
+  "amount": 4.61,
+  "paymentResponse": {
+    "amount": 501,
+    "amountAfterCharges": 501,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f7dd55ef07df66552067d65"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f7dd55ef07df66552067d64",
+    "reason": "Won League: Beta League - 3",
+    "createdAt": {
+      "$date": "2020-10-07T14:49:02.890Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-07T14:49:02.890Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-07T14:49:04.716Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T14:49:04.716Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dd55ef07df66552067d62"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f7b1dcef07df66552067c19"
+  },
+  "league": {
+    "$oid": "5f7738ec35e9a616dc78eabd"
+  },
+  "user": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "leagueWinnerPosition": 3,
+  "amount": 3.84,
+  "paymentResponse": {
+    "amount": 417,
+    "amountAfterCharges": 417,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f7dd55ef07df66552067d63"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5f352be94e300b61729e7511"
+    },
+    "reference": "5f7dd55ef07df66552067d62",
+    "reason": "Won League: Beta League - 3",
+    "createdAt": {
+      "$date": "2020-10-07T14:49:02.812Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-07T14:49:02.812Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-07T14:49:04.716Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T14:49:04.716Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f847763caa464299b8e3289"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f84755fcaa464299b8e3285"
+  },
+  "league": {
+    "$oid": "5f8470120a956d2840aa175c"
+  },
+  "user": {
+    "$oid": "5edc89f8cf83a1307ad43031"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 286.4,
+  "paymentResponse": {
+    "amount": 31089,
+    "amountAfterCharges": 31089,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f847763caa464299b8e328a"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5edc89f8cf83a1307ad43031"
+    },
+    "reference": "5f847763caa464299b8e3289",
+    "reason": "Won League: International Test",
+    "createdAt": {
+      "$date": "2020-10-12T15:33:55.223Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-12T15:33:55.223Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-12T15:33:55.237Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T15:33:55.237Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f847763caa464299b8e3287"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f84755fcaa464299b8e3286"
+  },
+  "league": {
+    "$oid": "5f8470120a956d2840aa175c"
+  },
+  "user": {
+    "$oid": "5f2fe6253eab8f299a7149d6"
+  },
+  "leagueWinnerPosition": 2,
+  "amount": 213.6,
+  "paymentResponse": {
+    "amount": 23187,
+    "amountAfterCharges": 23187,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f847763caa464299b8e3288"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5f2fe6253eab8f299a7149d6"
+    },
+    "reference": "5f847763caa464299b8e3287",
+    "reason": "Won League: International Test",
+    "createdAt": {
+      "$date": "2020-10-12T15:33:55.221Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-12T15:33:55.221Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-12T15:33:55.238Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T15:33:55.238Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f848097caa464299b8e329c"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f848031caa464299b8e329a"
+  },
+  "league": {
+    "$oid": "5f7c41edf07df66552067ca6"
+  },
+  "user": {
+    "$oid": "5f2fe6253eab8f299a7149d6"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 18,
+  "paymentResponse": {
+    "amount": 18,
+    "amountAfterCharges": 18,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f848097caa464299b8e329d"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5f2fe6253eab8f299a7149d6"
+    },
+    "reference": "5f848097caa464299b8e329c",
+    "reason": "Won League: Beta League - 6",
+    "createdAt": {
+      "$date": "2020-10-12T16:13:11.731Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-12T16:13:11.731Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-12T16:13:11.738Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T16:13:11.738Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f85d08835ae8f758054542f"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f859550caa464299b8e32d5"
+  },
+  "league": {
+    "$oid": "5f857c3bcaa464299b8e32c5"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 5.15,
+  "paymentResponse": {
+    "amount": 6,
+    "amountAfterCharges": 6,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f85d08835ae8f7580545430"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f85d08835ae8f758054542f",
+    "reason": "Won League: Beta League - 7",
+    "createdAt": {
+      "$date": "2020-10-13T16:06:32.613Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-13T16:06:32.613Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-13T16:06:32.637Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T16:06:32.637Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f85d08835ae8f7580545433"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f8594e1caa464299b8e32ce"
+  },
+  "league": {
+    "$oid": "5f857c3bcaa464299b8e32c5"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 2,
+  "amount": 4.29,
+  "paymentResponse": {
+    "amount": 5,
+    "amountAfterCharges": 5,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f85d08835ae8f7580545434"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f85d08835ae8f7580545433",
+    "reason": "Won League: Beta League - 7",
+    "createdAt": {
+      "$date": "2020-10-13T16:06:32.619Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-13T16:06:32.619Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-13T16:06:32.637Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T16:06:32.637Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f85d08835ae8f7580545431"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f8594e1caa464299b8e32cf"
+  },
+  "league": {
+    "$oid": "5f857c3bcaa464299b8e32c5"
+  },
+  "user": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "leagueWinnerPosition": 3,
+  "amount": 3.57,
+  "paymentResponse": {
+    "amount": 4,
+    "amountAfterCharges": 4,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f85d08835ae8f7580545432"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5f352be94e300b61729e7511"
+    },
+    "reference": "5f85d08835ae8f7580545431",
+    "reason": "Won League: Beta League - 7",
+    "createdAt": {
+      "$date": "2020-10-13T16:06:32.616Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-13T16:06:32.616Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-13T16:06:32.638Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T16:06:32.638Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ee6940eb4d8384a446cf9"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f8aeda335ae8f7580545519"
+  },
+  "league": {
+    "$oid": "5f8aebd535ae8f7580545504"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 3.96,
+  "paymentResponse": {
+    "amount": 430.61,
+    "amountAfterCharges": 430.61,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f8ee6940eb4d8384a446cfa"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f8ee6940eb4d8384a446cf9",
+    "reason": "Won League: Beta League - 11",
+    "createdAt": {
+      "$date": "2020-10-20T13:31:00.708Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-20T13:31:00.708Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-20T13:31:08.442Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-20T13:31:08.442Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ee6940eb4d8384a446cfb"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f8aed1b35ae8f7580545512"
+  },
+  "league": {
+    "$oid": "5f8aebd535ae8f7580545504"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 2,
+  "amount": 3.3,
+  "paymentResponse": {
+    "amount": 358.84,
+    "amountAfterCharges": 358.84,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f8ee6940eb4d8384a446cfc"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f8ee6940eb4d8384a446cfb",
+    "reason": "Won League: Beta League - 11",
+    "createdAt": {
+      "$date": "2020-10-20T13:31:00.886Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-20T13:31:00.886Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-20T13:31:08.443Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-20T13:31:08.443Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ee69c0eb4d8384a446cfd"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f8aed1b35ae8f7580545511"
+  },
+  "league": {
+    "$oid": "5f8aebd535ae8f7580545504"
+  },
+  "user": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "leagueWinnerPosition": 3,
+  "amount": 2.74,
+  "paymentResponse": {
+    "amount": 297.95,
+    "amountAfterCharges": 297.95,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f8ee69c0eb4d8384a446cfe"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5f352be94e300b61729e7511"
+    },
+    "reference": "5f8ee69c0eb4d8384a446cfd",
+    "reason": "Won League: Beta League - 11",
+    "createdAt": {
+      "$date": "2020-10-20T13:31:08.424Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-20T13:31:08.424Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-20T13:31:08.444Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-20T13:31:08.444Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ef32f0eb4d8384a446d04"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f8d782035ae8f7580545583"
+  },
+  "league": {
+    "$oid": "5f8d746e35ae8f7580545576"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 198.01,
+  "paymentResponse": {
+    "amount": 198.01,
+    "amountAfterCharges": 198.01,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f8ef32f0eb4d8384a446d05"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f8ef32f0eb4d8384a446d04",
+    "reason": "Won League: Beta League - 12",
+    "createdAt": {
+      "$date": "2020-10-20T14:24:47.968Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-20T14:24:47.968Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-20T14:24:48.031Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-20T14:24:48.031Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ef32f0eb4d8384a446d06"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f8d77a235ae8f758054557c"
+  },
+  "league": {
+    "$oid": "5f8d746e35ae8f7580545576"
+  },
+  "user": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "leagueWinnerPosition": 2,
+  "amount": 164.81,
+  "paymentResponse": {
+    "amount": 164.81,
+    "amountAfterCharges": 164.81,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f8ef32f0eb4d8384a446d07"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5ed51e7978d655462d4b1984"
+    },
+    "reference": "5f8ef32f0eb4d8384a446d06",
+    "reason": "Won League: Beta League - 12",
+    "createdAt": {
+      "$date": "2020-10-20T14:24:47.995Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-20T14:24:47.995Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-20T14:24:48.032Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-20T14:24:48.032Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f8ef3300eb4d8384a446d08"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "5f8d77a235ae8f758054557d"
+  },
+  "league": {
+    "$oid": "5f8d746e35ae8f7580545576"
+  },
+  "user": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "leagueWinnerPosition": 3,
+  "amount": 137.18,
+  "paymentResponse": {
+    "amount": 137.18,
+    "amountAfterCharges": 137.18,
+    "status": "successful",
+    "_id": {
+      "$oid": "5f8ef3300eb4d8384a446d09"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "5f352be94e300b61729e7511"
+    },
+    "reference": "5f8ef3300eb4d8384a446d08",
+    "reason": "Won League: Beta League - 12",
+    "createdAt": {
+      "$date": "2020-10-20T14:24:48.016Z"
+    },
+    "updatedAt": {
+      "$date": "2020-10-20T14:24:48.016Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-20T14:24:48.032Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-20T14:24:48.032Z"
+  }
+},{
+  "_id": {
+    "$oid": "609bd5de4251e44226fe9806"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "609a8eb4510f7305e48d3142"
+  },
+  "league": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "user": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 248.68,
+  "paymentResponse": {
+    "amount": 248.68,
+    "amountAfterCharges": 248.68,
+    "status": "successful",
+    "winnings": true,
+    "_id": {
+      "$oid": "609bd5de4251e44226fe9807"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "6040a85ee815742169bd10dc"
+    },
+    "bettingCompanyId": {
+      "$oid": "602a3f91e7b63d635c2d1640"
+    },
+    "reference": "609bd5de4251e44226fe9806",
+    "reason": "Won League: testing..",
+    "createdAt": {
+      "$date": "2021-05-12T13:19:26.441Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-12T13:19:26.441Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-12T13:19:26.551Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T13:19:26.551Z"
+  }
+},{
+  "_id": {
+    "$oid": "609bd5de4251e44226fe9808"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "609a8cc8510f7305e48d3125"
+  },
+  "league": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "user": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "leagueWinnerPosition": 2,
+  "amount": 221.54,
+  "paymentResponse": {
+    "amount": 221.54,
+    "amountAfterCharges": 221.54,
+    "status": "successful",
+    "winnings": true,
+    "_id": {
+      "$oid": "609bd5de4251e44226fe9809"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "6040a85ee815742169bd10dc"
+    },
+    "bettingCompanyId": {
+      "$oid": "602a3f91e7b63d635c2d1640"
+    },
+    "reference": "609bd5de4251e44226fe9808",
+    "reason": "Won League: testing..",
+    "createdAt": {
+      "$date": "2021-05-12T13:19:26.469Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-12T13:19:26.469Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-12T13:19:26.552Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T13:19:26.552Z"
+  }
+},{
+  "_id": {
+    "$oid": "609bd5de4251e44226fe980a"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "609a8df9510f7305e48d3135"
+  },
+  "league": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "user": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "leagueWinnerPosition": 3,
+  "amount": 197.35,
+  "paymentResponse": {
+    "amount": 197.35,
+    "amountAfterCharges": 197.35,
+    "status": "successful",
+    "winnings": true,
+    "_id": {
+      "$oid": "609bd5de4251e44226fe980b"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "6040a85ee815742169bd10dc"
+    },
+    "bettingCompanyId": {
+      "$oid": "602a3f91e7b63d635c2d1640"
+    },
+    "reference": "609bd5de4251e44226fe980a",
+    "reason": "Won League: testing..",
+    "createdAt": {
+      "$date": "2021-05-12T13:19:26.490Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-12T13:19:26.490Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-12T13:19:26.553Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T13:19:26.553Z"
+  }
+},{
+  "_id": {
+    "$oid": "609bd5de4251e44226fe980c"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "609a8cc8510f7305e48d3126"
+  },
+  "league": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "user": {
+    "$oid": "6040a871e815742169bd10dd"
+  },
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "leagueWinnerPosition": 4,
+  "amount": 175.81,
+  "paymentResponse": {
+    "amount": 175.81,
+    "amountAfterCharges": 175.81,
+    "status": "successful",
+    "winnings": true,
+    "_id": {
+      "$oid": "609bd5de4251e44226fe980d"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "6040a871e815742169bd10dd"
+    },
+    "bettingCompanyId": {
+      "$oid": "602a3f91e7b63d635c2d1640"
+    },
+    "reference": "609bd5de4251e44226fe980c",
+    "reason": "Won League: testing..",
+    "createdAt": {
+      "$date": "2021-05-12T13:19:26.510Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-12T13:19:26.510Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-12T13:19:26.553Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T13:19:26.553Z"
+  }
+},{
+  "_id": {
+    "$oid": "609bd5de4251e44226fe980e"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "609a8df9510f7305e48d3136"
+  },
+  "league": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "user": {
+    "$oid": "6040a871e815742169bd10dd"
+  },
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "leagueWinnerPosition": 5,
+  "amount": 156.62,
+  "paymentResponse": {
+    "amount": 156.62,
+    "amountAfterCharges": 156.62,
+    "status": "successful",
+    "winnings": true,
+    "_id": {
+      "$oid": "609bd5de4251e44226fe980f"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "6040a871e815742169bd10dd"
+    },
+    "bettingCompanyId": {
+      "$oid": "602a3f91e7b63d635c2d1640"
+    },
+    "reference": "609bd5de4251e44226fe980e",
+    "reason": "Won League: testing..",
+    "createdAt": {
+      "$date": "2021-05-12T13:19:26.530Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-12T13:19:26.530Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-12T13:19:26.554Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T13:19:26.554Z"
+  }
+},{
+  "_id": {
+    "$oid": "609bdc0b4251e44226fe9816"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "609a7725272dd07e31743f43"
+  },
+  "league": {
+    "$oid": "608fdcdf060b3a5bc1e18f61"
+  },
+  "user": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 84,
+  "paymentResponse": {
+    "amount": 73.356,
+    "amountAfterCharges": 73.356,
+    "status": "successful",
+    "winnings": true,
+    "_id": {
+      "$oid": "609bdc0b4251e44226fe9817"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "6040a85ee815742169bd10dc"
+    },
+    "bettingCompanyId": {
+      "$oid": "602a3f91e7b63d635c2d1640"
+    },
+    "reference": "609bdc0b4251e44226fe9816",
+    "reason": "Won League: Summer Ending league - 3",
+    "createdAt": {
+      "$date": "2021-05-12T13:45:47.162Z"
+    },
+    "updatedAt": {
+      "$date": "2021-05-12T13:45:47.162Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-12T13:45:47.181Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-12T13:45:47.181Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c210b83d8cc2182a08e721"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "609e1420e194224afa64398d"
+  },
+  "league": {
+    "$oid": "609d0e085d2a7a4b16308e11"
+  },
+  "user": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 48,
+  "paymentResponse": {
+    "amount": 39.54,
+    "amountAfterCharges": 39.54,
+    "balance": 1490.96,
+    "status": "successful",
+    "winnings": true,
+    "_id": {
+      "$oid": "60c210b83d8cc2182a08e722"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "6040a85ee815742169bd10dc"
+    },
+    "bettingCompanyId": {
+      "$oid": "602a3f91e7b63d635c2d1640"
+    },
+    "reference": "60c210b83d8cc2182a08e721",
+    "reason": "Won League: Summer Ending league - 8",
+    "createdAt": {
+      "$date": "2021-06-10T13:16:40.178Z"
+    },
+    "updatedAt": {
+      "$date": "2021-06-10T13:16:40.178Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-10T13:16:40.204Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-10T13:16:40.204Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c350c1332bc5753e98967e"
+  },
+  "hasClaimed": true,
+  "state": "successful",
+  "leaderboard": {
+    "$oid": "60c345a4332bc5753e98967a"
+  },
+  "league": {
+    "$oid": "60c2f9eb3d8cc2182a08e7ce"
+  },
+  "user": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "leagueWinnerPosition": 1,
+  "amount": 8,
+  "paymentResponse": {
+    "amount": 7.352,
+    "amountAfterCharges": 7.352,
+    "balance": 1493.3120000000001,
+    "status": "successful",
+    "winnings": true,
+    "_id": {
+      "$oid": "60c350c1332bc5753e98967f"
+    },
+    "operation": "credit",
+    "accountNumber": {
+      "$oid": "6040a85ee815742169bd10dc"
+    },
+    "bettingCompanyId": {
+      "$oid": "602a3f91e7b63d635c2d1640"
+    },
+    "reference": "60c350c1332bc5753e98967e",
+    "reason": "Won League: testing changes ruchika",
+    "createdAt": {
+      "$date": "2021-06-11T12:02:09.653Z"
+    },
+    "updatedAt": {
+      "$date": "2021-06-11T12:02:09.653Z"
+    },
+    "__v": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-06-11T12:02:09.674Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-11T12:02:09.674Z"
+  }
+}]

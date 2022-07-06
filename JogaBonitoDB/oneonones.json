@@ -1,0 +1,512 @@
+[{
+  "_id": {
+    "$oid": "60a7574367d57d67e4e2cbeb"
+  },
+  "gameInfo": [
+    "3 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Kenya"
+  ],
+  "prize": [
+    "0.00",
+    "16.30"
+  ],
+  "gameName": "pwf mode 05",
+  "brandId": "Sprite",
+  "gameCount": 1,
+  "status": "active",
+  "cardImage": "https://dev.jiweman.com/uploads/images/card-9.png",
+  "numberOfGoalsToWin": 3,
+  "entryFee": 12,
+  "jiwemanCommisionPercentage": 10,
+  "gameRegionType": "local",
+  "gameCurrency": "KES",
+  "stakeAmount": 10.43,
+  "type_of_business": "customer_first",
+  "salesTax": 0,
+  "winningTax": 20,
+  "taxOnStakeOfBet": 15,
+  "bettingCompanyCommisionPercentage": 10,
+  "betType": "pwf",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "origianlEntryFee": 12,
+  "bettingCompanyCommission": 1,
+  "jiwemanCommision": 1,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 1.56,
+  "gameplayWinningsAmountToBeWonPerBet": 8.69,
+  "createdAt": {
+    "$date": "2021-05-21T06:46:27.947Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-18T07:26:30.551Z"
+  },
+  "__v": 0,
+  "endDate": {
+    "$date": "2021-08-15T07:26:00Z"
+  },
+  "startDate": {
+    "$date": "2021-06-01T07:26:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "60b783d85df0f176e4889e8b"
+  },
+  "gameInfo": [
+    "3 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Kenya"
+  ],
+  "prize": [
+    "0.00",
+    "3.66",
+    "7.32",
+    "10.98",
+    "14.11",
+    "17.04"
+  ],
+  "gameName": "purchase testing Ruchika 34",
+  "brandId": "jiweman",
+  "entryFee": 12,
+  "numberOfGoalsToWin": 3,
+  "startDate": {
+    "$date": "2021-05-01T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-06-28T00:00:00Z"
+  },
+  "jiwemanCommisionPercentage": 7,
+  "bettingCompanyCommisionPercentage": 7,
+  "salesTax": 0,
+  "winningTax": 20,
+  "taxOnStakeOfBet": 15,
+  "gameCount": 5,
+  "cardImage": "https://dev.jiweman.com:8080/uploads/images/card-3.png",
+  "gameRegionType": "local",
+  "gameCurrency": "KES",
+  "type_of_business": "customer_first",
+  "betType": "1vs1",
+  "status": "active",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "origianlEntryFee": 12,
+  "stakeAmount": 10.43,
+  "bettingCompanyCommission": 1,
+  "jiwemanCommision": 1,
+  "gameplayWinningsAmountToBeWonPerBet": 9.15,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 1.56,
+  "createdAt": {
+    "$date": "2021-06-02T13:12:56.964Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-02T13:13:59.233Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b783f15df0f176e4889e8c"
+  },
+  "gameInfo": [
+    "3 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Kenya"
+  ],
+  "prize": [
+    "0.00",
+    "2.40",
+    "4.80",
+    "7.20",
+    "9.60",
+    "12.00",
+    "13.92",
+    "15.84",
+    "17.76",
+    "19.68",
+    "21.60"
+  ],
+  "gameName": "purchase testing Ruchika 35",
+  "brandId": "jiweman",
+  "entryFee": 16,
+  "numberOfGoalsToWin": 3,
+  "startDate": {
+    "$date": "2021-06-01T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "jiwemanCommisionPercentage": 7,
+  "bettingCompanyCommisionPercentage": 7,
+  "salesTax": 0,
+  "winningTax": 20,
+  "taxOnStakeOfBet": 15,
+  "gameCount": 10,
+  "cardImage": "https://dev.jiweman.com:8080/uploads/images/card-3.png",
+  "gameRegionType": "local",
+  "gameCurrency": "KES",
+  "type_of_business": "business_first",
+  "betType": "1vs1",
+  "status": "active",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "origianlEntryFee": 12,
+  "stakeAmount": 13.68,
+  "bettingCompanyCommission": 1,
+  "jiwemanCommision": 1,
+  "gameplayWinningsAmountToBeWonPerBet": 12,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 2.05,
+  "createdAt": {
+    "$date": "2021-06-02T13:13:21.280Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-02T13:13:21.280Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b9b3ab17594c623faa9712"
+  },
+  "gameInfo": [
+    "1 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Ghana"
+  ],
+  "prize": [
+    "NaN"
+  ],
+  "gameName": "Demo by AJinkya",
+  "brandId": "Demo",
+  "gameCount": 0,
+  "status": "active",
+  "cardImage": "https://dev.jiweman.com/uploads/images/card-15.jpeg",
+  "numberOfGoalsToWin": 1,
+  "startDate": {
+    "$date": "2021-06-04T10:31:00Z"
+  },
+  "endDate": {
+    "$date": "2021-06-05T10:31:00Z"
+  },
+  "entryFee": 10,
+  "jiwemanCommisionPercentage": 2,
+  "gameRegionType": "local",
+  "gameCurrency": "GHS",
+  "stakeAmount": 10,
+  "type_of_business": "customer_first",
+  "salesTax": 0,
+  "winningTax": 0,
+  "taxOnStakeOfBet": 0,
+  "bettingCompanyCommisionPercentage": 0,
+  "betType": "1vs1",
+  "bettingCompanyId": {
+    "$oid": "607d052c3323e87ad86278ef"
+  },
+  "bettingCompanyCommission": 1,
+  "jiwemanCommision": 0,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 0,
+  "gameplayWinningsAmountToBeWonPerBet": 9.8,
+  "createdAt": {
+    "$date": "2021-06-04T05:01:31.508Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T05:02:03.635Z"
+  },
+  "__v": 0,
+  "origianlEntryFee": 10
+},{
+  "_id": {
+    "$oid": "60b9d8e617594c623faa971b"
+  },
+  "gameInfo": [
+    "2 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Kenya"
+  ],
+  "prize": [
+    "0.00",
+    "9.94"
+  ],
+  "gameName": "test a11",
+  "brandId": "Coca",
+  "gameCount": 1,
+  "status": "active",
+  "cardImage": "https://dev.jiweman.com/uploads/images/card-9.png",
+  "numberOfGoalsToWin": 3,
+  "startDate": {
+    "$date": "2021-05-31T01:09:00Z"
+  },
+  "endDate": {
+    "$date": "2021-06-30T01:09:00Z"
+  },
+  "entryFee": 7,
+  "jiwemanCommisionPercentage": 7,
+  "gameRegionType": "local",
+  "gameCurrency": "KES",
+  "stakeAmount": 6.09,
+  "type_of_business": "customer_first",
+  "salesTax": 0,
+  "winningTax": 20,
+  "taxOnStakeOfBet": 15,
+  "bettingCompanyCommisionPercentage": 7,
+  "betType": "pwf",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "origianlEntryFee": 7,
+  "bettingCompanyCommission": 1,
+  "jiwemanCommision": 1,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 0.91,
+  "gameplayWinningsAmountToBeWonPerBet": 5.34,
+  "createdAt": {
+    "$date": "2021-06-04T07:40:22.882Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-04T07:43:58.584Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cb5a7c7167e0300eefb581"
+  },
+  "gameInfo": [
+    "3 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Kenya"
+  ],
+  "prize": [
+    "0.00",
+    "1.53",
+    "3.06",
+    "4.58",
+    "5.89",
+    "7.11"
+  ],
+  "gameName": "testing 111",
+  "brandId": "Cola",
+  "gameCount": 5,
+  "status": "active",
+  "cardImage": "https://dev.jiweman.com/uploads/images/card-12.png",
+  "numberOfGoalsToWin": 3,
+  "startDate": {
+    "$date": "2021-06-01T19:43:00Z"
+  },
+  "endDate": {
+    "$date": "2021-06-30T19:43:00Z"
+  },
+  "entryFee": 5,
+  "jiwemanCommisionPercentage": 7,
+  "gameRegionType": "local",
+  "gameCurrency": "KES",
+  "stakeAmount": 4.35,
+  "type_of_business": "customer_first",
+  "salesTax": 0,
+  "winningTax": 20,
+  "taxOnStakeOfBet": 15,
+  "bettingCompanyCommisionPercentage": 7,
+  "betType": "1vs1",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "origianlEntryFee": 5,
+  "bettingCompanyCommission": 1,
+  "jiwemanCommision": 1,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 0.65,
+  "gameplayWinningsAmountToBeWonPerBet": 3.82,
+  "createdAt": {
+    "$date": "2021-06-17T14:21:48.481Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T14:21:48.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc43c17167e0300eefb5d1"
+  },
+  "gameInfo": [
+    "2 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Kenya"
+  ],
+  "prize": [
+    "0.00",
+    "9.94"
+  ],
+  "gameName": "testing 112",
+  "brandId": "Sprite",
+  "gameCount": 1,
+  "status": "active",
+  "cardImage": "https://dev.jiweman.com/uploads/images/card-9.png",
+  "numberOfGoalsToWin": 2,
+  "startDate": {
+    "$date": "2021-06-01T12:22:00Z"
+  },
+  "endDate": {
+    "$date": "2021-07-31T12:23:00Z"
+  },
+  "entryFee": 7,
+  "jiwemanCommisionPercentage": 7,
+  "gameRegionType": "local",
+  "gameCurrency": "KES",
+  "stakeAmount": 6.09,
+  "type_of_business": "customer_first",
+  "salesTax": 0,
+  "winningTax": 20,
+  "taxOnStakeOfBet": 15,
+  "bettingCompanyCommisionPercentage": 7,
+  "betType": "pwf",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "origianlEntryFee": 7,
+  "bettingCompanyCommission": 1,
+  "jiwemanCommision": 1,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 0.91,
+  "gameplayWinningsAmountToBeWonPerBet": 5.34,
+  "createdAt": {
+    "$date": "2021-06-18T06:57:05.530Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-18T06:57:05.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d06d637167e0300eefb7af"
+  },
+  "gameInfo": [
+    "3 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Kenya"
+  ],
+  "prize": [
+    "0.00",
+    "7.11"
+  ],
+  "gameName": "1vs1 math testing",
+  "brandId": "Sprite",
+  "gameCount": 1,
+  "status": "active",
+  "cardImage": "https://dev.jiweman.com/uploads/images/card-12.png",
+  "numberOfGoalsToWin": 3,
+  "startDate": {
+    "$date": "2021-06-01T15:55:00Z"
+  },
+  "endDate": {
+    "$date": "2021-07-31T15:56:00Z"
+  },
+  "entryFee": 5,
+  "jiwemanCommisionPercentage": 7,
+  "gameRegionType": "local",
+  "gameCurrency": "KES",
+  "stakeAmount": 4.35,
+  "type_of_business": "customer_first",
+  "salesTax": 0,
+  "winningTax": 20,
+  "taxOnStakeOfBet": 15,
+  "bettingCompanyCommisionPercentage": 7,
+  "betType": "pwf",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "origianlEntryFee": 5,
+  "bettingCompanyCommission": 1,
+  "jiwemanCommision": 1,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 0.65,
+  "gameplayWinningsAmountToBeWonPerBet": 3.82,
+  "createdAt": {
+    "$date": "2021-06-21T10:43:47.850Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-21T10:43:47.850Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d1b1f4dd41846c92a9f2af"
+  },
+  "gameInfo": [
+    "3 goals to win",
+    "Top players will get exciting prizes and please see leaderboard for more information."
+  ],
+  "currencyConversionRisk": 0,
+  "allowedCountries": [
+    "Kenya"
+  ],
+  "prize": [
+    "0.00",
+    "7.11"
+  ],
+  "gameName": "testing Ruchika 52",
+  "brandId": "jiweman",
+  "entryFee": 5,
+  "numberOfGoalsToWin": 3,
+  "startDate": {
+    "$date": "2021-05-01T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-07-28T00:00:00Z"
+  },
+  "jiwemanCommisionPercentage": 7,
+  "bettingCompanyCommisionPercentage": 7,
+  "salesTax": 0,
+  "winningTax": 20,
+  "taxOnStakeOfBet": 15,
+  "gameCount": 1,
+  "cardImage": "https://dev.jiweman.com:8080/uploads/images/card-3.png",
+  "gameRegionType": "local",
+  "gameCurrency": "KES",
+  "type_of_business": "customer_first",
+  "betType": "pwf",
+  "status": "active",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "origianlEntryFee": 5,
+  "stakeAmount": 4.35,
+  "bettingCompanyCommission": 0.27,
+  "jiwemanCommision": 0.27,
+  "taxOnGrossSale": 0,
+  "taxOnBettingStake": 0.65,
+  "gameplayWinningsAmountToBeWonPerBet": 3.82,
+  "createdAt": {
+    "$date": "2021-06-22T09:48:36.984Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-22T09:48:36.984Z"
+  },
+  "__v": 0
+}]

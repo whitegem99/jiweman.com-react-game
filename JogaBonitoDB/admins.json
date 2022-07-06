@@ -1,0 +1,245 @@
+[{
+  "_id": {
+    "$oid": "5fe9c64b1d7f0722efc5a93e"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "andrew.nganga@jiweman.com",
+  "userName": "andrew.nganga@jiweman.com",
+  "password": "$2a$10$agMCavS7SnaO0nwcD8e3j.kMiJDQLiqSHNEVE86Nu.9LyRp66rVEm",
+  "isSuperAdmin": false,
+  "isActive": true,
+  "bettingCompanyId": {
+    "$oid": "5fe9c64b1d7f0722efc5a93d"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2020-12-28T11:49:31.852Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-02T04:39:32.173Z"
+  },
+  "__v": 0,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZmU5YzY0YjFkN2YwNzIyZWZjNWE5M2UiLCJpYXQiOjE2MTIyNDA3NzIsImV4cCI6MTYxMjMyNzE3Mn0.x-GeHNZbxJaNdaCLHDtDq6ST0zVYa4Y5-1Or9jrrpGM"
+},{
+  "_id": {
+    "$oid": "6018eb886da1c27ee54d869a"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "ruchika.pawar@jiweman.com",
+  "userName": "ruchika.pawar@jiweman.com",
+  "password": "$2a$10$xFXVD92UoHm7r1vh.K7RMu2LVkFdV88q6dFzBgxg.0PatRPAqG06q",
+  "isSuperAdmin": false,
+  "isActive": true,
+  "bettingCompanyId": {
+    "$oid": "6018eb886da1c27ee54d8699"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2021-02-02T06:04:56.812Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-05T14:22:30.462Z"
+  },
+  "__v": 0,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDE4ZWI4ODZkYTFjMjdlZTU0ZDg2OWEiLCJpYXQiOjE2MTQ5NTQxNTAsImV4cCI6MTYxNTA0MDU1MH0.jtHL8JYH6Nqdopp4w6S5g09pYFd2bQAq05GKILCqa38"
+},{
+  "_id": {
+    "$oid": "601cf720c3c4265a6b005921"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "accounts1@jiweman.com",
+  "userName": "accounts1@jiweman.com",
+  "password": "$2a$10$PZwQnd3ClG/glWqdswfsIu2f.RaNGSXlc5V2YyROPyiCpQiKbADCu",
+  "isSuperAdmin": false,
+  "isActive": true,
+  "bettingCompanyId": {
+    "$oid": "601cf720c3c4265a6b005920"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2021-02-05T07:43:28.458Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-05T07:45:39.701Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601cf75ec3c4265a6b005923"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "accounts2@jiweman.com",
+  "userName": "accounts2@jiweman.com",
+  "password": "$2a$10$xruTiWxImN5svrO6mAOOYeYYUZDvHtJzYFFpn7FDyS7Tv3dmitHHS",
+  "isSuperAdmin": false,
+  "isActive": true,
+  "bettingCompanyId": {
+    "$oid": "601cf75ec3c4265a6b005922"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2021-02-05T07:44:30.487Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-08T05:24:07.446Z"
+  },
+  "__v": 0,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDFjZjc1ZWMzYzQyNjVhNmIwMDU5MjMiLCJpYXQiOjE2MTI3NjE4NDcsImV4cCI6MTYxMjg0ODI0N30.RRguv6rN3LPBjIWOAlGeMblVFunA4V-zL05zCJR_nw0"
+},{
+  "_id": {
+    "$oid": "601e431d2868a7579dbbc24f"
+  },
+  "userName": "accounts@jiweman.com",
+  "email": "accounts@jiweman.com",
+  "password": "$2a$10$weNxu1J203W4zmG6XxxbKOKJwOOpvbol7DHz0Ixp.AO2ZAREU8dBe",
+  "roleName": "Admin",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "isActive": true,
+  "isSuperAdmin": true,
+  "createdAt": {
+    "$date": "2021-02-06T07:19:57.510Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-19T15:46:30.398Z"
+  },
+  "__v": 0,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDFlNDMxZDI4NjhhNzU3OWRiYmMyNGYiLCJpYXQiOjE2MjY3MDk1OTAsImV4cCI6MTYyNjc5NTk5MH0.GGkS4dG0h33emvA98wZAgOOoCyuon-WwPlHJcRl1n94"
+},{
+  "_id": {
+    "$oid": "6023a26bedb02d368c00fc33"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "dummyCompany@gmail.com",
+  "userName": "dummyCompany@gmail.com",
+  "password": "$2a$10$kmjN2Sg0AMj.3G8UUwSkJOF2h8SJ5dNIWUwDpnNgsSvtyDiMeRJ2e",
+  "isSuperAdmin": false,
+  "isActive": true,
+  "bettingCompanyId": {
+    "$oid": "6023a26bedb02d368c00fc32"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2021-02-10T09:07:55.468Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-15T08:29:13.986Z"
+  },
+  "__v": 0,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDIzYTI2YmVkYjAyZDM2OGMwMGZjMzMiLCJpYXQiOjE2MTMzNzc3NTMsImV4cCI6MTYxMzQ2NDE1M30.kBuJozRMVqOi2MnX8U1cvufZC0B6U6ty0k_zulAfU9Y"
+},{
+  "_id": {
+    "$oid": "602a3f91e7b63d635c2d1641"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "ruchikapawar7@gmail.com",
+  "userName": "ruchikapawar7@gmail.com",
+  "password": "$2a$10$nSI5TNX3M6XQHSq9Saa7/.wlISlxgS7gQq.nvlgf5eL.e9HwNWFRW",
+  "isSuperAdmin": false,
+  "isActive": true,
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2021-02-15T09:32:01.534Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T04:55:53.416Z"
+  },
+  "__v": 0,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDJhM2Y5MWU3YjYzZDYzNWMyZDE2NDEiLCJpYXQiOjE2MjUyODgxNTMsImV4cCI6MTYyNTM3NDU1M30.zYDcrPpNCxvmePWDMi6YH854Dt3pnYHQpkJu14ckSug"
+},{
+  "_id": {
+    "$oid": "602e15d70a7f043a6a715ef8"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "ruchikapawar771@gmail.com",
+  "userName": "ruchikapawar771@gmail.com",
+  "password": "$2a$10$GUvv9WKqaS1AbGhVXhtuEObnO3yVeEYRIpj6PA87k3tYMDyCd7.Mm",
+  "isSuperAdmin": false,
+  "isActive": false,
+  "bettingCompanyId": {
+    "$oid": "602e15d70a7f043a6a715ef7"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2021-02-18T07:23:03.564Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-18T07:23:03.564Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60688a6f7ceafa406dcaedfc"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "rupeshpawar19@gmail.com",
+  "userName": "rupeshpawar19@gmail.com",
+  "password": "$2a$10$Ei0DZmHliPP4cvMRnOD6ceLhw3qyVHz4dEzCdnmDUABUGM6tb7VDy",
+  "isSuperAdmin": false,
+  "isActive": true,
+  "bettingCompanyId": {
+    "$oid": "60688a6f7ceafa406dcaedfb"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2021-04-03T15:31:59.073Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-03T16:48:42.061Z"
+  },
+  "__v": 0,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDY4OGE2ZjdjZWFmYTQwNmRjYWVkZmMiLCJpYXQiOjE2MTc0Njg1MjIsImV4cCI6MTYxNzU1NDkyMn0.hKKp8iYXHxXztEVzLlYz4R98Qni2XR4rcHVPtqW-fLI"
+},{
+  "_id": {
+    "$oid": "607d052c3323e87ad86278f0"
+  },
+  "accountType": "admin",
+  "roleName": "Admin",
+  "email": "ajinkyaadivekar@gmail.com",
+  "userName": "ajinkyaadivekar@gmail.com",
+  "password": "$2a$10$oNPJIgkd0UQ2FxQRySC/E.4cqeIITGmbIYWMF2m0MbmZCiLOxweVe",
+  "isSuperAdmin": false,
+  "isActive": true,
+  "bettingCompanyId": {
+    "$oid": "607d052c3323e87ad86278ef"
+  },
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "createdAt": {
+    "$date": "2021-04-19T04:21:00.769Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-13T06:06:52.211Z"
+  },
+  "__v": 0,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDdkMDUyYzMzMjNlODdhZDg2Mjc4ZjAiLCJpYXQiOjE2MjM1NjQ0MTIsImV4cCI6MTYyMzY1MDgxMn0.ROjt32H_2KF_eR0_Wq99Hu6TQxi5XigKcb0uSJg8Uvw"
+}]

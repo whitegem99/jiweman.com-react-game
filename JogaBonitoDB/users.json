@@ -1,0 +1,5857 @@
+[{
+  "_id": {
+    "$oid": "5de4917165357f18d28194de"
+  },
+  "fullName": "guest522079",
+  "userName": "guest522079",
+  "email": "guest522079",
+  "password": "$2a$10$Ih9uw2SvchFXazOrTutBM.9EM9/HY09QpAa7CwFDVS/uHDKqotkCG",
+  "deviceToken": "dzH0eKoW6XI:APA91bGaPLmjBjAPqBCkpT3onG9Mr7TG00Fct4fP_4N9CgqhPm62frc4VXKmo-5L45ragzBnLIHSQq0W7EiMVxX4mM34RyYK7NZRuFoLgWvzb-iHvrWlhGF3AbO1l_9RHRXwRLVolL0h",
+  "mainDeviceToken": "91685974f3d63d52dc7271fc620a4805",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T04:22:09.312Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-19T09:10:49.688Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4919765357f18d28194df"
+  },
+  "fullName": "guest215045",
+  "userName": "guest215045",
+  "email": "guest215045",
+  "password": "$2a$10$HDc0mQTzLY0xvbN1jEL4H.zb3i/VWsyx7LmDL1Veork5GTWfHiRr2",
+  "deviceToken": "d_M1n037zhg:APA91bGYpac8Tavvxqb5Y7kncZ6jsIC0KWVdp0psZutYGhNAp0-SRGGBNXB72PI_fcNpWy2dcjY8gTc-uLWAS9G_8mkAxvUeGZao09q0d7Laonc9UwkYnkXnvmqGrPUysHB--IV8T4Z9",
+  "mainDeviceToken": "c9a4d0f00698729f37a960bc58bec434",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T04:22:47.750Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.270Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4a26fb5ffc1198120d287"
+  },
+  "fullName": "guest359132",
+  "userName": "guest359132",
+  "email": "guest359132",
+  "password": "$2a$10$B1s/mnKwuGWjcIHyYVAGu./gxRU8m6QaF4ulTs5iH/VVV9obrQ1wC",
+  "deviceToken": "",
+  "mainDeviceToken": "ff09219c2c4967ae54ac4e5ea154d89656b91c95",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T05:34:39.395Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-28T11:47:07.484Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4a8b4b5ffc1198120d288"
+  },
+  "fullName": "guest717174",
+  "userName": "guest717174",
+  "email": "guest717174",
+  "password": "$2a$10$/0J1XG2.PcJ6zt4ee.lnmemv12EtT9q5OfvZZe/Kr2sbdaLCblBNO",
+  "deviceToken": "d9zbEhp3fNQ:APA91bE-WCBYf6MGUtuM-P6qOHMjsdILJ1F1aADsavyJ_wstJHhXaZi0t3jXgiXic1lfepzUXqB2JOx9pWTIzL23-SNxjhKO1JRxknTMGcmDDjFScYf17mphfW6nqAw8NLHgmxGL2Vx-",
+  "mainDeviceToken": "adfb0ed6e63944fa8b529fcd704d6400",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T06:01:24.965Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4a912b5ffc1198120d28e"
+  },
+  "fullName": "guest477021",
+  "userName": "guest477021",
+  "email": "guest477021",
+  "password": "$2a$10$y4XSG5QADKfZaUnfQszKCOXkplzNlL9dDEotF1NaBQ8/6Z6Ty0z9u",
+  "deviceToken": "cyk0_FFpcvk:APA91bG39cg57azYJUG5m5dDfcrgpa_MJo42nlR6mtqzEb87oSFzQ1Ths0teeuuMWN6dgF89ig5aBKacconO1ZoUTxVcNWv_1-muSrt3NmpxNspNWDyHdUWCv33aDvCe2TsXTNWAPwx6",
+  "mainDeviceToken": "fe350f13a9851b8053931af615aa3a72",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T06:02:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4adcdb5ffc1198120d32a"
+  },
+  "fullName": "guest153397",
+  "userName": "guest153397",
+  "email": "guest153397",
+  "password": "$2a$10$A.94.jL6jo6JUmvKNeBH7u6vgzaiGrY/oWMCJODQi6xLm1AxiOt3e",
+  "deviceToken": "deMkQ-oiZgg:APA91bEfQ9cBdqjQn45nRIffqI0e3JHJ6AtDJVmTcwe3hYfUJNO3y7Nvn2SJ1FxOU8xV7DhfvGs5RZcasDOJuP5sWTSVEXOb5lST5RxYQCCzJusONWW4GbZ7UA1ivN3NDp8yII9HmDLs",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T06:23:09.819Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4b1a2d6b5c01b5381fe13"
+  },
+  "userName": "akash",
+  "fullName": "Akash",
+  "email": "akash@gmail.com",
+  "password": "$2a$10$zQdsXBylkpFoP8PaF4mOIOTSzJjs56sV5MB0LwUEx9gDPUJb8tYCi",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-09-22T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-02T06:39:30.367Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-26T01:18:18.739Z"
+  },
+  "__v": 0,
+  "deviceToken": "fJ5W-Jm2TVg:APA91bH2YUBuT9LJVmekhtHcN5oEmc1nyXxlnsk4PD2-eU7jUhitKQwB0UtKs4AaZYwcCisKaJRAkesZenCTv13sAU8tOOuMlfw6YADGLArynBAvcZkYwKq_FnX4kLvUTVBAUYdHl1iX",
+  "age": 23,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "banReason": null,
+  "isUserBanned": true,
+  "warnCount": 2,
+  "warnReasons": [
+    null,
+    null
+  ],
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "balance": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2021-05-27T01:18:18.738Z"
+    },
+    "initiated": true,
+    "token": "XQJJ5xSXtYqdvPtHqrW38UySWwKRwW4Yg4EjIOeeGLFQjKL0j8"
+  }
+},{
+  "_id": {
+    "$oid": "5de4b63dd6b5c01b5381fee8"
+  },
+  "userName": "thorat",
+  "fullName": "Pooja",
+  "email": "poohthorat@gmail.com",
+  "password": "$2a$10$mfg.VInq7dc8QhHMyw.uoO/0BodwAYs80GC5upUrxUYoomEQHG2x.",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1998-12-03T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-02T06:59:09.247Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.023Z"
+  },
+  "__v": 0,
+  "deviceToken": "dw1zOgjax5s:APA91bGGDaoQA0ab3aUS2LUqI5fe1ZDhrviBZZrNHTEC2z_HCcCM94Z09jPaM6pgHNRsIuutHeKrK32XlUZ651agtYv2y9i26MhFnQbwCC3QmqJfRrwoI_Gg-5VA_MW41iwGulQ6HEc8",
+  "age": 21,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4b85dd6b5c01b5381ff54"
+  },
+  "fullName": "guest160025",
+  "userName": "guest160025",
+  "email": "guest160025",
+  "password": "$2a$10$22OfmnsByE83h5pCqRNvpOOYBNUm6s/Oc/fN8KRTtiIALbGiiEtjy",
+  "deviceToken": "",
+  "mainDeviceToken": "b6d2a0b38fb3df23c49f206ac6859a921bc2129a",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T07:08:13.426Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4c18dd6b5c01b5381ff95"
+  },
+  "fullName": "guest308149",
+  "userName": "guest308149",
+  "email": "guest308149",
+  "password": "$2a$10$yo4bVlSA.OthYoa8G2UvS.dCWlQzHOWZbq7W/SmFkkNFNfpgBoENu",
+  "deviceToken": "eIC2i9-fs0g:APA91bHUie2IdDEvad--80DEefGT8Y0UvklT_nDbGq0_MEHf3X6Iq_0HHzIVYpq9SJCTjVnvAP-SVqwvzJFsdpuik5uwAXCCzPie3vl_9s1QfSa4xTufVzwuozq1JGVvsYARxCmovMWW",
+  "mainDeviceToken": "d6f02c5d9862dc5e251b3ada5a49c97e",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T07:47:25.034Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4c7e3d6b5c01b5381ffb6"
+  },
+  "fullName": "guest592842",
+  "userName": "guest592842",
+  "email": "guest592842",
+  "password": "$2a$10$ynSMYssLWgqxulaKh9CLs.JhJWF5yV/sV.8fgv652xMA9N6KNiCh2",
+  "deviceToken": "ed1oGkLalDQ:APA91bFKeKw3oBW9otCoecrZnpQsWquvGJhGoB3Xd-T7yWCUBq7-9lgBRSLonjMkhB3Ml3xCW_om_TlMHyOGrzVdd8nVoF81xM3_Q7hic4ppQtq19UJMS1wzqCvGEyD4P7IEIikZ35SD",
+  "mainDeviceToken": "bef94857aa548dceceb70875bfbe5ac2",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-02T08:14:27.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de4d6a959a9f01d175c54de"
+  },
+  "userName": "t",
+  "fullName": "Sudarshan",
+  "email": "sudarshan4@gmail.com",
+  "password": "$2a$10$M1HoW4sC.nT/0PkEXnMBbuYJcZBpZwO0V4Ne1rPsP.2I/hGTQdi/e",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-02T09:17:30.014Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-11T04:46:49.095Z"
+  },
+  "__v": 0,
+  "deviceToken": "cu2RznpVMkk:APA91bFP3XutmhCaTf936y7rT5YKaLm3iUtbjkkU-O0AQYZdbyJepaJOG5QKFQiB3ZXZeu9-4kAvZHf37y76l9jVtyV5NAS9mI6egJhW7rkC8WoaN5RnYLq6tVy6ojfWvDY04DS1_Fna",
+  "age": 29,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de5fda670d3226554a41ae8"
+  },
+  "fullName": "guest942620",
+  "userName": "guest942620",
+  "email": "guest942620",
+  "password": "$2a$10$crrAPy5th13R.XcX3pRQ8.tnHB0n2nX5jpO7HnPp1Ka732nSLE/De",
+  "deviceToken": "d0_3NxQjNqA:APA91bGCdHViMB4clPC46p2jM74n0zac1jA0YQtkAuLxu7ty-wcMkO7I2VOkAc1rkfZX_myBS43_AOo2mEgpp843xjehZF3W_0tmr_yy83f-nXWOmu6QExkLWJM2OaqVLwR7lPRUQ6ZT",
+  "mainDeviceToken": "9fd8096f3e237bf38ec4967df9aac4d0",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-03T06:16:06.372Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de62d1b70d3226554a41b5a"
+  },
+  "fullName": "guest932124",
+  "userName": "guest932124",
+  "email": "guest932124",
+  "password": "$2a$10$fU6bOWVFw0J/n6PYhhr2dO80d7bYuLQLo0SrSkNLYlA2CLe9aG03W",
+  "deviceToken": "fcLCt-xyQOY:APA91bFeb_4YfIqGn06u9N7WMZve1UieKHV2038CyvObiPZyvrCROKFcJm0h1xTBE0ZoiciVpCyWomxUOtJUXvxVE3wVt7cw6fWMqtRAhXbQe0f2elOXil7Bhm3IMxusQsmp-codC3C_",
+  "mainDeviceToken": "3cbcdf38e01fabd624a2768a6fd76382",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-03T09:38:35.338Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de77e3658800b27c44828fe"
+  },
+  "fullName": "guest436747",
+  "userName": "guest436747",
+  "email": "guest436747",
+  "password": "$2a$10$JThCGRzjjtCeEdFBzmrRguLASho5AB6fPNDkdOokXKnNLWy4TeRk6",
+  "deviceToken": "clYIxVMvgfc:APA91bFkvbLEc3WkQTT3maqoZ5fov5koGYS2BMFIupQ5Zq_VTkXXvUfI5uzMYjkEg7yFRiog4uENJvmC0O72FaQj2Oax72G_fKfdshYWRrgscQIzTPoivaEYoqvk0bYmp1cLKxFa4ZZn",
+  "mainDeviceToken": "3011ffc61e61d9d1f766423b533934bb",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-04T09:36:54.929Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de9e3a375d7cc657dd54336"
+  },
+  "userName": "roshan",
+  "fullName": "roshan",
+  "email": "roshan.d@barquecontech.com",
+  "password": "$2a$10$UlZj2W1KPgMrcAiEv/JLOuAnFzl1PINz7sfS4y2r1GviMqEKovhA2",
+  "countryOfRecidence": "UK",
+  "dateOfBirth": {
+    "$date": "1994-05-30T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-06T05:14:11.093Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T14:15:23.378Z"
+  },
+  "__v": 0,
+  "deviceToken": "f1I2u2kF_f0:APA91bEjdkiObOoYOdpy-F2zxT13iptFE6-IaSbJaftjHmR71HXBMAcuOvwTe80AfiGcQw_qyJ0Q0Fzj2uDaNfoszVVQRGrTErrk0R4bvCNh2ALq6LHDnCDfgqMn7Z-zOdOVeaKGfg-N",
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-01-23T10:31:21.810Z"
+    },
+    "initiated": false,
+    "token": null
+  },
+  "age": 25,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "balance": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZGU5ZTNhMzc1ZDdjYzY1N2RkNTQzMzYiLCJpYXQiOjE2MDE1NDg1NDMsImV4cCI6MTYwMTYzNDk0M30.ow-BDq49-w_MHK8sWCqLJr2xQt0P1L2SjgcnyNefw7I",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZGU5ZTNhMzc1ZDdjYzY1N2RkNTQzMzYiLCJpYXQiOjE2MDMxMTY5MjMsImV4cCI6MTYwMzIwMzMyM30.z_BPYZJ7kD9HkGdycAYavbdzb7K0glJh8Zer4OY__K0",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de9e5e875d7cc657dd54342"
+  },
+  "fullName": "guest845757",
+  "userName": "guest845757",
+  "email": "guest845757",
+  "password": "$2a$10$hKzuel7a548KJlGnEj6F/.9UucBd8cs5xkVlegIb234BNJWu4CxO.",
+  "deviceToken": "e_G5I8aexfY:APA91bEa6_IB73M4RkAg-LZhJE870sqlt_ZRQ5uyqduKWR0lWVGTil2c9JR7AB3fMLjKq9kwbbQa-Sm6bsL2oGp1Uu_wOIIOL7BkISQSK-B--FLvewNnmwTDOJHC2v3_QVjcluudOrFA",
+  "mainDeviceToken": "84bae5352717dbc3d011a397c0003009",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-06T05:23:52.193Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5de9e7b075d7cc657dd54346"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-02-25T06:35:53.493Z"
+  },
+  "deviceToken": "fFCw2uzC7Zo:APA91bFG_XolHxLDeufi09t_eSSXgdtnLPuV2kxsrShmWs8idbPgBzJc-i8YV4QhrP2GRIpDfFh9rJUHA7NEJH5VcUrbuBM3avoMgdQePV08ia59P_vZVw1brtOm7gsCiGYE6P1BFyor",
+  "updatedAt": {
+    "$date": "2020-02-25T06:35:53.493Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5dea1d37b76ed5133bc5f271"
+  },
+  "fullName": "guest736838",
+  "userName": "guest736838",
+  "email": "guest736838",
+  "password": "$2a$10$lz5byqqjsf5lq/Q1sNrLIeCxb1noplnqfdzNFB3UFIbbBPi5zjktO",
+  "deviceToken": "fXJ5XEf77Xo:APA91bEyslmn9Z25Yzd8W27GSP_-X1GGSgl6x064G8e_t3DW0jpuniQfs5unREyqb9ksLfsafCOGt1pl8P4MmzrfZGh1xVv_gamkz0avDntCy6KdjafpYRRxxubuodeQpBxxTWSUWiGR",
+  "mainDeviceToken": "c5c3f627bb02edf85e61f9602ddfbde2",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-06T09:19:51.022Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5dea24dfb76ed5133bc5f338"
+  },
+  "userName": "ruchi",
+  "fullName": "Ruchi",
+  "email": "test@gmail.com",
+  "password": "$2a$10$x08l.g/xUhaoQna8Ri2xbOI3g6r6C6ntyyoNSMaBYJKzeNuONXdme",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1986-12-06T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-06T09:52:31.863Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-09T12:14:58.381Z"
+  },
+  "__v": 0,
+  "deviceToken": "eHuCso0dV78:APA91bHE8vt4B2zRqkw9Y1fSeruuyfS_wO1CnyrllQKW0S7LKvckegML3QhdeH2B3hB3cKepnmcetZl166tIfNijDerDx9ad2vH4hiPGOwL44x-VEsZBjJ6RlfK8PVfrb17v20CLGdBT",
+  "age": 33,
+  "registrationStatus": "verified",
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZGVhMjRkZmI3NmVkNTEzM2JjNWYzMzgiLCJpYXQiOjE1OTY5NzUyOTgsImV4cCI6MTU5NzA2MTY5OH0.IaXv5Dm0Wdc7kPZBWVhrXvNHhvkF_Sx9EEIUvcWQBu8",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5dea24f1b76ed5133bc5f344"
+  },
+  "userName": "Anu",
+  "fullName": "Anu",
+  "email": "anu@gmail.com",
+  "password": "$2a$10$svS1xJ1SpRp4FOQwEXBDiuhyvNkXrojb6HwAqDrfnaiA9yGGlly9u",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1995-12-21T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-06T09:52:49.952Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-12T10:59:10.157Z"
+  },
+  "__v": 0,
+  "deviceToken": "eun8w--3hJU:APA91bEXqPBFiZ-CtkTwS9n9DCSn3iEjXudWwEfQR1TsI8CT80cDqt-J7x0Je4ke6ugonkdASKIxLDV1KQ2PA8J7DRbmknY68E05fsL8z04USnxAF8eFuRdNz-yAJkFrfhYI0G_z_tiQ",
+  "age": 24,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5dede797d6926f164fc02a87"
+  },
+  "fullName": "guest717023",
+  "userName": "guest717023",
+  "email": "guest717023",
+  "password": "$2a$10$yipzQbizxrXPStgLpVIheOGRgz53J.ERjo/dHeNQjhgdd9PizAdIi",
+  "deviceToken": "fVgw68XnPm0:APA91bG_FGUOvkfoKnWxfoi1Gp36FXQL45JU2R_oseb40yIAKEdIvX9y1wSCB8x8C3VV-yWfAsaAcNLNGC9YHkn4NjC7oSU8fxfoWinpSlRBUBqn71ASER74ow3osPP_VwxgwEkjvZR2",
+  "mainDeviceToken": "0163e37fd6aa1fbf68f5fb6be96c5f95",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-09T06:20:07.978Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5df08bdd9384814076442953"
+  },
+  "fullName": "guest809803",
+  "userName": "guest809803",
+  "email": "guest809803",
+  "password": "$2a$10$C3.7wtI372OrUUqkw3nCdOQl8Ez0vGcWAjPOfe8fsLzo/KJLmIbmu",
+  "deviceToken": "eshs_2H8Ysc:APA91bHKyriaUQtUOkZ6qGxJ9F5Cj8b7NPsNKSzw1Gomt4O9m8jAEaX_XSP3pnAFc39I-af3pQYFOEMqQWxr1xHMy1U8KrYXxyKY2X6x0StZrLw_jmCWFjYtEJPodb-xBV1_26k8YzpC",
+  "mainDeviceToken": "d9603c6abfaeec6868e7079a0d8c016c",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-11T06:25:33.159Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5df1d9c9afab2451f16959e6"
+  },
+  "fullName": "guest232559",
+  "userName": "guest232559",
+  "email": "guest232559",
+  "password": "$2a$10$i81hqi6FuqTx424IyDrZae82.PMkUOj8ueyqc0pPxMxttdTpcSBXm",
+  "deviceToken": "",
+  "mainDeviceToken": "b861a5aa748c7600e2d8cd2541a223612200f25c",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-12T06:10:17.496Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5df32a5547be6967c2f8e867"
+  },
+  "userName": "ss",
+  "fullName": "Sasa",
+  "email": "ss@ss.com",
+  "password": "$2a$10$.TTfi3yYB7zBkGHuRiih.Otkj3gXNnc0gKwSCWlCljKDGN2oKqPSm",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-13T06:06:14.065Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.024Z"
+  },
+  "__v": 0,
+  "deviceToken": "",
+  "age": 29,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5df8c0fd86c2da119029aed2"
+  },
+  "fullName": "guest477846",
+  "userName": "guest477846",
+  "email": "guest477846",
+  "password": "$2a$10$8SjxTcDKJHaykvBJYPTyvu7rDI7.nfVYdQ9bcaTw9NXRpkqc81a2e",
+  "deviceToken": "cnWWPNaEpOE:APA91bEUuWs4OCZoKdnTGks6Es5BROOnE3qPMxmUpovOTEmTEC5fLTc5LJuMUTBgjCFf1qo1ra584SxkwdbHb-qXfBkzXdIVHsFYpFxLXIQVRnTQj6dXksfrg8fgXeXp4hWdcXseetT4",
+  "mainDeviceToken": "0f111676b0150d45716d9303aeebbe2a",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2019-12-17T11:50:21.754Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5df9d73450b86d2b12811cea"
+  },
+  "userName": "rahul",
+  "fullName": "Rahul",
+  "email": "rahul@gmail.com",
+  "password": "$2a$10$JryrDSech3bjUdJntx.g/u.CeAWWTG/oXXIONB5JE3RDYdJPFufFq",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1983-12-18T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-18T07:37:24.271Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.024Z"
+  },
+  "__v": 0,
+  "deviceToken": "eFfti99vJgs:APA91bEIMvr37sAab4LVAbtS2nzQ5HdWXNHYmCFmaZF6Ad7YsJqLr0AwbwjOAylceevjVgomeO7zauG4E1k8w4mAwd3rcuJdChjlPxRPm1f-tpzNCYmz8CG4VpFrSvVCFA2-uzpAMvXM",
+  "age": 36,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5df9d7ff50b86d2b12811cf7"
+  },
+  "userName": "rohit",
+  "fullName": "Rohit",
+  "email": "rohit@gmail.com",
+  "password": "$2a$10$.3sESsw3d2Yl8pHp.hmywuy.dhnOPLTMjLXmumN5ZcNTMsT.fUGum",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1996-03-08T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-18T07:40:47.729Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.024Z"
+  },
+  "__v": 0,
+  "deviceToken": "eFfti99vJgs:APA91bEIMvr37sAab4LVAbtS2nzQ5HdWXNHYmCFmaZF6Ad7YsJqLr0AwbwjOAylceevjVgomeO7zauG4E1k8w4mAwd3rcuJdChjlPxRPm1f-tpzNCYmz8CG4VpFrSvVCFA2-uzpAMvXM",
+  "age": 23,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5df9efd750b86d2b12811d7e"
+  },
+  "userName": "rest",
+  "fullName": "Rest",
+  "email": "poojathorat1556@gmail.com",
+  "password": "$2a$10$8oF9BgeREcFDF8txiZ96kuAgNBKUhXBbERwhlpewMgWbbXC8XkIre",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1986-12-18T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-18T09:22:31.851Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-05T09:19:01.711Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-02-06T05:41:37.334Z"
+    },
+    "initiated": false,
+    "token": null
+  },
+  "age": 33,
+  "deviceToken": "dDqN9WRD0tk:APA91bHc-CVDuyP2Ofs4yHHbwJq9IOYj7O_BbJJy75Jllkkfgm3MYxd5CyxBes6AGJwS1EU-85O-wf9yCZebprKvrnOlXcZIgKY0FV5E1sbU4lSJg7yVeQ_qExx7TPc-fRKdvVMxMKD2",
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5dfb0ac1e3a3722f704a8014"
+  },
+  "userName": "Jiweman",
+  "fullName": "Andrew Nganga",
+  "email": "andrew.nganga@gmail.com",
+  "registrationStatus": "verified",
+  "password": "$2a$10$yMiUudHLqJBGJTkg6I/JGOqaGHwXG7LKwOX/yYhp7AsZozjWELNkO",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1986-02-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-19T05:29:37.425Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-19T15:00:44.914Z"
+  },
+  "__v": 1,
+  "deviceToken": "e8R5Po_9FvQ:APA91bEMc8f2hHUM2ZWleNdcKWWIvBZ1XJlptVozZXWowMg0b89ClhtplqPDInRlhmYL0JFITgR1vKqDKySa5rV6F5Ro9q7jmuW3QF-B0M6Xe6mErt4pZnR_SpRorjCP5_DjD7I4CB0S",
+  "age": 33,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-06-27T01:42:00.270Z"
+    },
+    "initiated": true,
+    "token": "teEOrCtnU3BDYZBvEQRxZ3gYco3IXGVkkbMVPCejN3Ie7o1vmJ"
+  },
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZGZiMGFjMWUzYTM3MjJmNzA0YTgwMTQiLCJpYXQiOjE2MjUwMzk5OTQsImV4cCI6MTYyNTEyNjM5NH0.Uf_Hq-DjbVRMqpMGr_Fd_XYqY9gB1repRmn_F3erpwU",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZGZiMGFjMWUzYTM3MjJmNzA0YTgwMTQiLCJpYXQiOjE2MjY3MDY4NDQsImV4cCI6MTYyNjc5MzI0NH0.LzBzDSuLppoSESIqjeXzG4m8C4sRW22DM7ma6Ove4vA",
+  "userCurrency": "KES",
+  "balance": 50.71,
+  "banReason": "",
+  "isUserBanned": false,
+  "warnCount": 0,
+  "warnReasons": [],
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "referCode": "k3GRMOBiJ"
+},{
+  "_id": {
+    "$oid": "5dfb10d0e3a3722f704a8023"
+  },
+  "userName": "Jiweman2",
+  "fullName": "Andrew Nganga",
+  "email": "Andrew.Nganga@gmail.com",
+  "password": "$2a$10$aDL6HaWQLqgcHiODIiwiMeOJ/KuijuV8WUpL1Io0.0vC7k5ou315e",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1997-05-15T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-19T05:55:29.004Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "age": 22,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5dfb15376c51b2355bb55791"
+  },
+  "userName": "Jiweman3",
+  "fullName": "Kolo Mobo",
+  "email": "kolo.mobo@yahoo.com",
+  "password": "$2a$10$2t9iOHOiSuHyLkNNtWgfv.E.8uM9gA2/vIOFcIlwFG.4SSCX/xwlm",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-12-19T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-19T06:14:15.156Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "deviceToken": "ed1oGkLalDQ:APA91bFKeKw3oBW9otCoecrZnpQsWquvGJhGoB3Xd-T7yWCUBq7-9lgBRSLonjMkhB3Ml3xCW_om_TlMHyOGrzVdd8nVoF81xM3_Q7hic4ppQtq19UJMS1wzqCvGEyD4P7IEIikZ35SD",
+  "age": 26,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5dfca5236daaee39b13d2eea"
+  },
+  "userName": "ss1",
+  "fullName": "Ss",
+  "email": "ss1@ss.com",
+  "password": "$2a$10$CbYJpqt3.dGdJ0.X35J7Vem5fLqzG4TXKDviS4lpRTkTdZ0Cdlo1S",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-20T10:40:35.813Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "deviceToken": "",
+  "age": 29,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e00b164f6c69947d62758e5"
+  },
+  "userName": "testing",
+  "fullName": "Testing",
+  "email": "pooja@gmail.com",
+  "password": "$2a$10$QRJJLEd2G4ihU8EAfTo7c.uZaxbgl0Brl7qSYhOTscNw.7HE8ib5K",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1992-12-23T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-23T12:21:56.417Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "deviceToken": "dSgJYS9M-QI:APA91bE4_O19I8mPSdiA8Fy70_oAdx-lzNtBRIeVQ7cDv0ZLm0TvajuEMvDU-CVQMxJZnDf1loSLhsAmDb-2-0mtHvSDp_LReFi5Ee_xJvhNcSMOgKymbCxCNK6r5sEMTJWiOdtWnH3M",
+  "age": 27,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e0ad95927bfae5341dc8d84"
+  },
+  "userName": "xyz",
+  "fullName": "Xyz",
+  "email": "testdjdj@gmail.com",
+  "password": "$2a$10$fv.NXs/ATST0kocP4eLH7OF/PbkcmdcuAxPbytbJ.g7jTS0hjjJre",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-379641600000"
+    }
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2019-12-31T05:15:05.349Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "age": 62,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e0c015a27bfae5341dc8dd1"
+  },
+  "fullName": "guest269513",
+  "userName": "guest269513",
+  "email": "guest269513",
+  "password": "$2a$10$jCsaAsTr2W8h.K6nnIoh4Ox.2gR8f5m/jj44y7Q2da5/GyR5Oo4me",
+  "deviceToken": "",
+  "mainDeviceToken": "48a69b9f8203c6f1633ed4078a4e6a29287e9f54",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-01-01T02:18:02.045Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-09T04:36:16.262Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e147e0327bfae5341dc957f"
+  },
+  "fullName": "guest864396",
+  "userName": "guest864396",
+  "email": "guest864396",
+  "password": "$2a$10$/KXhMuGvxfgpPX2nKoRjjeEiGiP6e1ebCuD/yUzCAtMGTF13Usi/C",
+  "deviceToken": "cF2TomklUdQ:APA91bE0hHxrNidbhn-AEsYuPRt021Y33UeCyI6WjusfRNZnylsenjLqtGy_J9Pm-skC58Ow4PxBC49OtK4kJwAqrZXaaqFf0IU4h0dVYzRqYwC0-UIr-Z9POZDy0upMbTUgN9WvX5-1",
+  "mainDeviceToken": "8984469fb326d43d396b137d8134c1dd",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-01-07T12:48:03.170Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-21T06:45:34.658Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e18552527bfae5341dc97e4"
+  },
+  "fullName": "guest989823",
+  "userName": "guest989823",
+  "email": "guest989823",
+  "password": "$2a$10$ULyhZ4FJ2Whu/2/bx8okSeIPIKhUvAt4DTdTVe5cEF7Kjsna1iWxK",
+  "deviceToken": "",
+  "mainDeviceToken": "2ab9710e3f88f251d83e5489575914dc4cfde378",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-01-10T10:42:45.865Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-20T13:49:53.734Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e1c22815c6b132263e0c80b"
+  },
+  "fullName": "guest571976",
+  "userName": "guest571976",
+  "email": "guest571976",
+  "password": "$2a$10$Qvn7ugmA3kDonZztxBLevuQrn/TKHWRm8HEIofjJ9Vw/taFak99sK",
+  "deviceToken": "e69vNyYuvKY:APA91bEjpiwXGqxk4rbYevhtMyrq6UGpxGtQMtAJbZDWabA6ZeWFhSMXCE-ZGCDdTnVhbwa_WleOo9KsshkclrvHC6uUQNUwmMeNdTcacyFLYItplmrIdSiLWliW6QxJEUikeChZPz84",
+  "mainDeviceToken": "352ad6bfb86aa59715ee960339435b88",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-01-13T07:55:45.904Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-22T04:04:01.309Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e1c515c5c6b132263e0c8a4"
+  },
+  "fullName": "guest941521",
+  "userName": "guest941521",
+  "email": "guest941521",
+  "password": "$2a$10$mFb8/6HBppMmSo8vFRgG2OdubgO.9m7XADVce/huxJA/KAOHRccJi",
+  "deviceToken": "d86EX8LC1Oo:APA91bEwl_hYRxfcUXzY618u9RLZfsEsTN_E539PaAzxbs6mGEU3NBpW6HxlnYT34Qs68qAlcm5bldCQz6-4o4wlAbtsN24xgd50JPhkb1SRmvnVra1AKcdgrOGsyJdPnMdOAtmXdXr-",
+  "mainDeviceToken": "f64e7e8a80c339f44f335fa3c8987ade",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-01-13T11:15:40.546Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.271Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e297af4e26159264e7c6905"
+  },
+  "fullName": "guest422218",
+  "userName": "guest422218",
+  "email": "guest422218",
+  "password": "$2a$10$RHRzi0hEoAjwJ.lOIvXB8ejISlyoq2eG3oNTwPttR1MAGYBlvd712",
+  "deviceToken": "",
+  "mainDeviceToken": "3EAD4764-3036-5968-B8D8-04076CEB0CBE",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-01-23T10:52:36.078Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:50:28.272Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "dateOfBirth": {
+    "$date": "2000-01-15T18:30:00Z"
+  },
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e2fd17ce26159264e7c72c4"
+  },
+  "userName": "yashshree",
+  "fullName": "Yashshree",
+  "email": "testing@gmail.com",
+  "password": "$2a$10$A3d0822aNImghu.8CNEh3uik31s2RkCAJwjSFw6SI2Tfn9VjEF92i",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1990-01-28T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2020-01-28T06:15:24.534Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "deviceToken": "c7VyXdLY7Og:APA91bEeSWBr9c9T957TK4iYUDJJ5tiFmdvW9Ad5e0CSJVoPUa5OQDEIOZCEwzDLe2tJrBFSZljHshVGhrXaN_XOcq9lyFVZ1L3yWg9IU_cOScE8pHBQfb-IVKGzd9FyEpy42rIIlz2M",
+  "age": 30,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e2fd2fbe26159264e7c72d1"
+  },
+  "userName": "thorat34",
+  "fullName": "Thoratt",
+  "email": "pooja.thorat@barquecontech.com",
+  "password": "$2a$10$2JxV6X/kr5l0eOWvcTOZtOd5uOiYPeEgbxTV3WRX4LmCeawGQufUq",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1996-01-16T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2020-01-28T06:21:47.962Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T12:13:10.686Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-02-04T12:13:10.682Z"
+    },
+    "initiated": true,
+    "token": "EQuGL590YcZPvLyzhDMnRUKlMCFAG8Yq98NqRFTo9t80D92Hyk"
+  },
+  "deviceToken": "d4sD6qQ8qSk:APA91bEhRRTp-Glsdz3VqIFl6qCfD4ESAV9JjbDURUgy8bTd3IjplVomDfsQLTH-69Hx7v_T6_Y50CP7suVVl7pxQwea1n7fFcdfn8UMsuQgeLzmuXK4roeYSknaQBCxeZpJH23QiZfr",
+  "age": 24,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e32615653caad0bba6541ff"
+  },
+  "userName": "ssa",
+  "fullName": "Sasa",
+  "email": "ss@gmail.com",
+  "password": "$2a$10$pXh351xTZximOgp0Y0uuXOwWoGTFeXf/l9yYXHA5DWOkpDccPL4be",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2020-01-30T04:53:42.597Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-01-31T05:02:26.733Z"
+    },
+    "initiated": true,
+    "token": "BSVIB6d47yikvYCHCcPgMKExNxpXIkdcdtctShZhyZhCO3nSOV"
+  },
+  "deviceToken": "",
+  "age": 29,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e32a7d2a5ca1342fae77e97"
+  },
+  "userName": "anand",
+  "fullName": "Anand Bholane",
+  "email": "anand.bholane@gmail.com",
+  "password": "$2a$10$6ccJaTf0LgaSnSsBNjAb.uGOv97b4XdSoTo.w5rpBUNdwiZe49BOu",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "2000-11-28T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2020-01-30T09:54:26.166Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-21T14:04:16.282Z"
+  },
+  "__v": 0,
+  "deviceToken": "",
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-02-04T10:40:02.380Z"
+    },
+    "initiated": true,
+    "token": "t4eBy4yg2HD6eazMycKpgrzhb5o73sMrW4oXAup04S5Cr67LGB"
+  },
+  "age": 19,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e32e6d0b8a6e84c698aee31"
+  },
+  "registrationStatus": "verified",
+  "userName": "admin",
+  "fullName": "roshan deshmukh",
+  "email": "roshan.deshmukh30@gmail.com",
+  "password": "$2a$10$uNN1qe8kNA12yPJ24vd0d.eLX.h9jmnv7O2dIYoLfqvvYGVkc6q7S",
+  "countryOfRecidence": "kenya",
+  "dateOfBirth": {
+    "$date": "2000-01-16T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "createdAt": {
+    "$date": "2020-01-30T14:23:12.014Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "age": 20,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e33cd3864f9005467fc90fb"
+  },
+  "registrationStatus": "verified",
+  "userName": "newroshan",
+  "fullName": "roshan deshmukh",
+  "email": "rd7636@gmail.com",
+  "password": "$2a$10$DWIW01YL/Rc1AnbOVvaHLu9uIerf3zBtrKNQiUGNtPMQ3oILbZZfi",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "2000-01-16T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 20,
+  "createdAt": {
+    "$date": "2020-01-31T06:46:16.503Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-03T07:00:19.025Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e3d0c72b36880441e819bcf"
+  },
+  "registrationStatus": "verified",
+  "userName": "devil",
+  "fullName": "Devil",
+  "email": "henero4132@nwesmail.com",
+  "password": "$2a$10$a2I9./qZDL8EWVDt427e0.23sA2Eie2yYMHW5VBwtIiNmrJqBQX8O",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-1132876800000"
+    }
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 86,
+  "createdAt": {
+    "$date": "2020-02-07T07:06:26.323Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-07T07:06:26.323Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e410128b36880441e81a14c"
+  },
+  "registrationStatus": "verified",
+  "userName": "sud",
+  "fullName": "Sud",
+  "email": "sudarshanthube4@gmail.com",
+  "password": "$2a$10$nSUMy2jLOELqK101bBTP4O94CU5ystX1VqY5UzxpAVD2ZMNkoHzCa",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-02-10T07:07:20.914Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-12T07:27:29.378Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-02-13T07:27:29.372Z"
+    },
+    "initiated": true,
+    "token": "dXLjiW26gPbcs6yfNYiRaseoeNu9ZIpFywUETRiLL2aqrM8uWH"
+  },
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e4104ebb36880441e81a176"
+  },
+  "registrationStatus": "verified",
+  "userName": "asdad",
+  "fullName": "Asdas",
+  "email": "anand12@gmail.com",
+  "password": "$2a$10$CwOHzmstUKBFHZ8VOLLUWetGUr2x/3pX82glPxK8/b6ffREWpcJ26",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-02-10T07:23:23.720Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-10T07:23:23.720Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e412f54b36880441e81a1df"
+  },
+  "registrationStatus": "verified",
+  "userName": "we",
+  "fullName": "We",
+  "email": "we@we.com",
+  "password": "$2a$10$fk14TQxbsDkEQWWZBsTCr.uDLb.IBqNYYo6NKfuEu3ltGcFA7DnO6",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-02-10T10:24:20.465Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-10T10:24:20.465Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e413ad4c19b425e32fbdcc9"
+  },
+  "registrationStatus": "verified",
+  "userName": "xyzqwee",
+  "fullName": "roshan deshmukh",
+  "email": "rd7636@xyz.com",
+  "password": "$2a$10$0zX81.pJUc.E7pV07lEPyeTtq1hdPC/MMw.7jXs4KXi2YtBi3jf3O",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "2000-01-16T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 20,
+  "createdAt": {
+    "$date": "2020-02-10T11:13:24.744Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-10T11:13:24.744Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e4f86821f5f0a0a35d41188"
+  },
+  "registrationStatus": "verified",
+  "userName": "Anushri",
+  "fullName": "Anushri",
+  "email": "anushrikher07@gmail.com",
+  "password": "$2a$10$7CC0KhCOn5FdMwJU.jWWyOw6Kt43bAZWgnw9RZxBkXh1ad8DqGI6m",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1985-02-21T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 35,
+  "createdAt": {
+    "$date": "2020-02-21T07:28:02.667Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-20T10:44:02.168Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-02-22T12:52:24.263Z"
+    },
+    "initiated": true,
+    "token": "phHqZyz5omyFuGE0puN7sjrQSzPR6qW34q6rXLrnGNH32wRGuN"
+  },
+  "deviceToken": "c5aRsWoc1vI:APA91bHEssvcRH7PlPc8SkP6xJa1WBHONJgDUd5lU5YIm2tBa9cWWPwMgUQBpf1UnRH5W8dKMARCOIc43LlXmR7EvA3QAmbPYxJccV1KKdHOraGzajo_vAtBIyehmupH7eqHvZHHF5c8",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e54b11a46405f0dfe08e694"
+  },
+  "fullName": "guest800657",
+  "userName": "guest800657",
+  "email": "guest800657",
+  "password": "$2a$10$OKv9YgK6rq3DqeM/u6AJcObGwOEpgYxudH5q/MhdtFgfAv3h3Ur9.",
+  "deviceToken": "cuu4nJIUwqE:APA91bFS_X3r6gRwrnBQfL9GWIIXIn-xVeYD5ZyJQ2bL0YtEv7t_DVA6MkFBvSeiuCSHxdCpOybm5pS92jrwSqikNBa6rWALOZwQMNkFwCeJ5cGSe1e7sRdeyL9rfLFbtTrpJn1diZnZ",
+  "mainDeviceToken": "82c2475103217b98592a28b42d18ff38",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-02-25T05:31:06.858Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-25T05:31:07.634Z"
+  },
+  "__v": 0,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e54b20d46405f0dfe08e6b4"
+  },
+  "registrationStatus": "verified",
+  "userName": "adsul",
+  "fullName": "Dipak",
+  "email": "adsuldipak@gmail.com",
+  "password": "$2a$10$WHhN7ftb.LTmJBWiA.FGzeyeXksclChD5u2hzVfxxlaHN4cfd.6vq",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1992-01-21T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 28,
+  "createdAt": {
+    "$date": "2020-02-25T05:35:09.714Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-06T12:37:03.511Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-02-26T05:35:55.359Z"
+    },
+    "initiated": false,
+    "token": null
+  },
+  "deviceToken": "cuu4nJIUwqE:APA91bFS_X3r6gRwrnBQfL9GWIIXIn-xVeYD5ZyJQ2bL0YtEv7t_DVA6MkFBvSeiuCSHxdCpOybm5pS92jrwSqikNBa6rWALOZwQMNkFwCeJ5cGSe1e7sRdeyL9rfLFbtTrpJn1diZnZ",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e54be487280153b30a7ffc2"
+  },
+  "registrationStatus": "verified",
+  "userName": "test1",
+  "fullName": "test1",
+  "email": "vishal.jadhav@barquecontech.com",
+  "password": "$2a$10$.TUfqOLi0U0fB/MCM2Pt4O4a1VSYhvE8XZvnvsKPA0otBAbWEAp3q",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "createdAt": {
+    "$date": "2020-02-25T06:27:20.918Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-28T11:56:03.358Z"
+  },
+  "__v": 1,
+  "deviceToken": "clUOSkfMWqE:APA91bF_2fKtu0P3-yljMB9kvxdHdsWquJAbYU_f98lfDlTT77JdqeAd83iMlJ1bOl48-Al-_jf57F4ggoRdxITiOvBgFEuKgMva8Ajk85uzpSkviunAo_7-iG7XDpMsJxFhUziDeMdt",
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZTU0YmU0ODcyODAxNTNiMzBhN2ZmYzIiLCJpYXQiOjE2MDMxNzQyODIsImV4cCI6MTYwMzI2MDY4Mn0.mdJF27H_84jS1gPi9phSJMteY6S0O5esyYvbbQi75xk",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZTU0YmU0ODcyODAxNTNiMzBhN2ZmYzIiLCJpYXQiOjE2MDkxNTY1NjMsImV4cCI6MTYwOTI0Mjk2M30.zleIzEkJ9mnIR6V5D_KM3Si8A18fj6CDHlwpHrSuntw",
+  "userCurrency": "KES",
+  "balance": 0,
+  "banReason": "",
+  "isUserBanned": false,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "warnCount": 0,
+  "warnReasons": []
+},{
+  "_id": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "registrationStatus": "verified",
+  "userName": "test3",
+  "fullName": "test3",
+  "email": "girish.takalkar@barquecontech.com",
+  "password": "$2a$10$unK41OcQIiHhDT/zoGAWXOQzn0.HPQlh4PLwSrK9QZKn1vaAZrEZu",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "createdAt": {
+    "$date": "2020-02-25T06:33:35.713Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-28T11:55:36.611Z"
+  },
+  "__v": 1,
+  "deviceToken": "cXkyfQWv3v8:APA91bGimbYYliCDOYSwBFd-Pc3edlTN_bSPbSvsXS2wujbqm9PtOnWpgnldiy2B-p-cPRPyAhjMBagxUgxMGM-_Q5Paw1ccNIzr3K6_OEValDZb74qfKFeFz1O_z4SEyQ4xFsSLXCtL",
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZTU0YmZiZjcyODAxNTNiMzBhN2ZmZGEiLCJpYXQiOjE2MDgwMzE0NzcsImV4cCI6MTYwODExNzg3N30.I4OVd2mx0QwlkKVlEH3cxbqsVTaPon2z1IkuZuUKaEg",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZTU0YmZiZjcyODAxNTNiMzBhN2ZmZGEiLCJpYXQiOjE2MDkxNTY1MzYsImV4cCI6MTYwOTI0MjkzNn0.WXnOG-K3RH9IbgC0qljj-OAia7pp8nA2550dVEOukWs",
+  "userCurrency": "KES",
+  "balance": 407,
+  "banReason": "",
+  "isUserBanned": false,
+  "warnCount": 0,
+  "warnReasons": [],
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e54c04e7280153b30a7ffe6"
+  },
+  "registrationStatus": "verified",
+  "userName": "test4",
+  "fullName": "test4",
+  "email": "anand.bholane@barquecontech.com",
+  "password": "$2a$10$2PUOpWu8mn/1I68RDubQzuInK0vFo1US7r7sILeKdxkHpRM2lF..G",
+  "countryOfRecidence": "USA",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "createdAt": {
+    "$date": "2020-02-25T06:35:58.816Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T14:17:10.078Z"
+  },
+  "__v": 0,
+  "deviceToken": "foeFkGJ01OE:APA91bGUSUsfbb23JBtRhbTPkBNlPT_V8WD_m-aok8cRyGCLDgxuyp3zGrcRLot94tBdin8gnCQWxJtxihbSDEJdblth4VLsr6_hrxxixirYPSuheHmPDM6WSozj3DqPIGs7sk3AQUMo",
+  "userCurrency": "KES",
+  "balance": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZTU0YzA0ZTcyODAxNTNiMzBhN2ZmZTYiLCJpYXQiOjE2MDMxMTcwMzAsImV4cCI6MTYwMzIwMzQzMH0.1j56A43MFRIacwhKGj4LVO6YGcAgbTFsMBYQblvI2Us",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e591bf30f846a6e2a104b4b"
+  },
+  "registrationStatus": "verified",
+  "userName": "suda",
+  "fullName": "Sud",
+  "email": "ssa@gmail.com",
+  "password": "$2a$10$9T2yOKXC4/T6O7ayr3hkNuDCjltmFoi8Ul.vhcRIo4tJ7r31BhmDy",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1991-02-28T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-02-28T13:56:03.536Z"
+  },
+  "updatedAt": {
+    "$date": "2020-02-28T13:56:03.536Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e608e1f721c052c63c9c733"
+  },
+  "registrationStatus": "verified",
+  "userName": "ramu",
+  "fullName": "Ramu",
+  "email": "gopichand4naragam@gmail.com",
+  "password": "$2a$10$I5ddQ7pMqyCBn2dRwlQPaOclelRAGKW0IE.WdElIUI/0SW/1wXoCa",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1992-03-05T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 28,
+  "createdAt": {
+    "$date": "2020-03-05T05:29:03.009Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-05T05:29:03.009Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e6866d24e4d45075b677b08"
+  },
+  "registrationStatus": "verified",
+  "userName": "Ramu",
+  "fullName": "Ramu",
+  "email": "barquecongopichand@gmail.com",
+  "password": "$2a$10$x/N5pwpxFAMB4yoMfeyCVOSbWsJa.t8tVmeXJAN2Zn9QvX8e1HOj.",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1992-03-11T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 28,
+  "createdAt": {
+    "$date": "2020-03-11T04:19:30.606Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-11T05:08:18.088Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e6b5967317ea906140eeaf0"
+  },
+  "registrationStatus": "verified",
+  "userName": "anushri",
+  "fullName": "anushri",
+  "email": "anushri.khair@barquecontech.com",
+  "password": "$2a$10$6TwruzfWtaFFsCHZ70z/NuKAj7U.MGtt1tdC1nNBdJ04nAu9gx/cW",
+  "countryOfRecidence": "USA",
+  "dateOfBirth": {
+    "$date": "1993-08-15T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-03-13T09:59:03.201Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-13T09:59:03.201Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e7a6f44fc3a3a448da0c2b6"
+  },
+  "registrationStatus": "verified",
+  "userName": "hamzzaamalik",
+  "fullName": "Malik",
+  "email": "malikameerhamza2010@gmail.com",
+  "password": "$2a$10$yeChjnAFn/kSfG3/MmFhhuDjcyKFRIMjCJi0dlj/1b/lwpwt4/0EW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-03-25T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-03-24T20:36:20.727Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-08T13:29:52.423Z"
+  },
+  "__v": 0,
+  "deviceToken": "fuaJIoylDF0:APA91bERweSxBSnemAfWWGI3AquPsQpa7eVcgVn7g9-lJWf52hTba5249kJ8mNehLYC4YmnjMQfA_nNy_uSse05Wlg5Tw5nYa0xBsF5LhaDONuCxSGL6OCQl2s8CpkriS5cdUIjbCCaU",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e804bb147fbad7aeec91f51"
+  },
+  "registrationStatus": "verified",
+  "userName": "alika",
+  "fullName": "A",
+  "email": "ali.nwdo@gmail.com",
+  "password": "$2a$10$uJiw312rzxo37DOb9TPZTulgMdvVJup4vdUtXm3C7PwC7hNcMZZ8C",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1980-03-29T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 40,
+  "createdAt": {
+    "$date": "2020-03-29T07:18:09.397Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-26T06:34:16.513Z"
+  },
+  "__v": 0,
+  "deviceToken": "cZn1ppgUnYU:APA91bGPDIMlseXxqXejEXm17OtUS3nGXo_RKArS7GbBFBN8AB7siRJhT5y04xNEo2gA4tXOhPLqEjQDKzGU0-fKTO5mD95cwxtmoX_X3PT_7FMituCM_yrWibrI7uqoC71U_EELuVv2",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e80cc5847fbad7aeec91f71"
+  },
+  "registrationStatus": "verified",
+  "userName": "saadfiver4@g",
+  "fullName": "Saadfivergmailcom",
+  "email": "shah4you2012@gmail.com",
+  "password": "$2a$10$d1T28cbtaT/1.e.japzCi.67itwNyvU47Mj/z6qrtqCuhM29VoXjW",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1994-03-18T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-03-29T16:27:04.567Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-29T16:33:31.595Z"
+  },
+  "__v": 0,
+  "deviceToken": "flpa9p_11A4:APA91bEMeXbZOpmbiwIAgncNHhmrgetblY6Wje-mT2Mbk_PiMCUFyi6yDXJ6Aac9HGMAuGHrfh5DxqaKEhJ-IZQP1Qtmg948G6NUUstqQ6BRcJByke3RFTzzdIIMOJJBN1JJ47vWhXGe",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e80ebd947fbad7aeec91f82"
+  },
+  "registrationStatus": "verified",
+  "userName": "hamza",
+  "fullName": "Hamza",
+  "email": "hamzaayoubofficial@gmail.com",
+  "password": "$2a$10$5tSJpUSqrMQkbOrpZF1oqOYuFReglNvm8Bp9zotZvxPWyaC55X9GC",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-03-29T18:41:29.940Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-29T18:41:29.940Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e80ee6747fbad7aeec91f8e"
+  },
+  "fullName": "guest392186",
+  "userName": "guest392186",
+  "email": "guest392186",
+  "password": "$2a$10$575WVydgO24AokFYSx9Km.8I6sxfF/rIowCxoXVJDPleb15GAKlHO",
+  "deviceToken": "",
+  "mainDeviceToken": "e0bc977fdb964e3b53cf4041ed75007111261cf5",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-03-29T18:52:23.826Z"
+  },
+  "updatedAt": {
+    "$date": "2020-03-29T19:17:48.353Z"
+  },
+  "__v": 0,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e80ef2547fbad7aeec91f94"
+  },
+  "registrationStatus": "verified",
+  "userName": "Saddam",
+  "fullName": "Muhammad Tahir Saddam",
+  "email": "tahir@gmail.com",
+  "password": "$2a$10$7GWRV9rRwFL2wn7Ovf3C5OAtcoba/xRePxbjietCPr23kBdYZmp1G",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-03-29T18:55:33.684Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T11:15:38.032Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZTgwZWYyNTQ3ZmJhZDdhZWVjOTFmOTQiLCJpYXQiOjE2MDMzNjUzMzgsImV4cCI6MTYwMzQ1MTczOH0.G_43YCNXq_akn2vj33MZOasLFVpor52C8sKsReNqMqY",
+  "userCurrency": "KES",
+  "balance": 0,
+  "deviceToken": "erffdFp2IcA:APA91bHqBUg1LzSl_tcOzduFHQLGG8sWSta9IKefRrISY69wMKM5ko2vQRZi5pwmHWAobsq7ZqGSYZZJCs87hhJJv7W7iAdqUvhsEWnS4sOraMxaexEmzclUgQI3I8F5btOamS5FwaJj",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e823e6a47fbad7aeec91fa5"
+  },
+  "registrationStatus": "verified",
+  "userName": "hammad",
+  "fullName": "Hammad Kiani",
+  "email": "hammadkiani789@gmail.com",
+  "password": "$2a$10$5rT8egV4lgRngMmjlDEYou64z4Q3Dhplz853Vy5i679DI2rgLjTyK",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1997-07-24T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 22,
+  "createdAt": {
+    "$date": "2020-03-30T18:46:02.927Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-06T14:21:34.192Z"
+  },
+  "__v": 0,
+  "deviceToken": "dFRQOwFmZVA:APA91bH4t2EM1_y9gSM26DptUSPWIKT3lh6QQZrack9LHnHGWCDNeauqOq0j5zjLSI0xDQsTbz-b9MxjFysQY-TSWzRLvG3_HHBWssfluIePICBZC9ft-VQo6ua0VH9lLZlSiAanrfEY",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e8b7acc45cb5937c8fadd40"
+  },
+  "registrationStatus": "verified",
+  "userName": "sdanial",
+  "fullName": "Danial",
+  "email": "sdanialnasir.1998@gmail.com",
+  "password": "$2a$10$Gcz3TWY.7sIHVHgHQ.qIJu7UcAuF/Ltsxm6DUu7N46YFcGZ2v2jWi",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1998-03-27T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 22,
+  "createdAt": {
+    "$date": "2020-04-06T18:54:04.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-06T19:00:25.623Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-04-07T18:56:50.031Z"
+    },
+    "initiated": false,
+    "token": null
+  },
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5e8b7d0a45cb5937c8fadd4d"
+  },
+  "registrationStatus": "verified",
+  "userName": "cipher",
+  "fullName": "Danial",
+  "email": "cipherplay1@gmail.com",
+  "password": "$2a$10$LZbVV0ooSIXmlltauHDuWOnDQg2.nS1UhBps9fkcPywIQapxeyMV6",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1998-04-07T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 21,
+  "createdAt": {
+    "$date": "2020-04-06T19:03:38.482Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-06T19:20:38.111Z"
+  },
+  "__v": 0,
+  "deviceToken": "dl76K_kg3DY:APA91bEvjJ_i7MwyEVqeQA5FNb3p4hG9jSzj3Rs-CTV0got3qAhEoj8Ficb9_xBYr3WY5k0Wa7gGYvnX4jYTdvTQpthqK8EGK0Uh0MTw5NEaKbnNMgux4S7o20PvHyzhCmg4V8z5p7V6",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ea5f3fa6f4ac75a6b165965"
+  },
+  "registrationStatus": "verified",
+  "userName": "testmd",
+  "fullName": "Testme",
+  "email": "mostafayahia08@gmail.com",
+  "password": "$2a$10$IMgeAKW7Shmob2iaLGcIoe1PohZ0v5EpIerDzmJq2PBDD8QYc/pbG",
+  "countryOfRecidence": "Uganda",
+  "dateOfBirth": {
+    "$date": "1994-04-26T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-04-26T20:50:02.802Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-26T20:54:45.541Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-04-27T20:54:45.532Z"
+    },
+    "initiated": true,
+    "token": "og5lLBNwrMBS1bLePWhGdZZcWHosXHM09Aflj8KgYNWn5aGjja"
+  },
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ea5f59d6f4ac75a6b165971"
+  },
+  "registrationStatus": "verified",
+  "userName": "test",
+  "fullName": "Test",
+  "email": "mostafayahia11@gmail.com",
+  "password": "$2a$10$ZhIRN9Zbnt4hZurDfqyUxeikpDmBfBxQBntYK1dntx/xbys6gLEJi",
+  "countryOfRecidence": "Uganda",
+  "dateOfBirth": {
+    "$date": "1998-04-26T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 22,
+  "createdAt": {
+    "$date": "2020-04-26T20:57:01.307Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-26T20:58:46.870Z"
+  },
+  "__v": 0,
+  "deviceToken": "d6eLUQYxRlM:APA91bEtJL07U9QmEfxJw1qX_hbLYpz2gnKSvblbeTzuDJzxG4mncJqT_4WoE-p5_mHBU4YfBxRXKMvrgtX_vNQXrWjw6DFHNaw3j8UBTjDdRzc0ASuZ-waD0ia3LqUUGcZMK3EAJ-0i",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ea644156f4ac75a6b165982"
+  },
+  "registrationStatus": "verified",
+  "userName": "saddamjit",
+  "fullName": "Saddamjit Singh",
+  "email": "saddamsingh@gmail.com",
+  "password": "$2a$10$q5P3K8jyeFNaWnoD9Iz2ler/YXb4n705dE1nVNJ/83q3YqzJ30Nf2",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1991-02-01T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-04-27T02:31:49.498Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-27T02:34:17.886Z"
+  },
+  "__v": 0,
+  "deviceToken": "dYobxQF8b3A:APA91bGUE-kBg_Rv0J9wwGS7G0noN4ai9-LaGMPdISaVjZdkPEKHjgFh45Ed-QaGYdL5x8z8RPegIiMZiINkbvBqdzYgPLI0b2id_c77ivXuvVk0iEBedPmIPqW8Hg8LBmnRhu5NAdqV",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ea6a2876f4ac75a6b16599d"
+  },
+  "registrationStatus": "verified",
+  "userName": "aiikay89",
+  "fullName": "Imran",
+  "email": "scorpionfeast@gmail.com",
+  "password": "$2a$10$j.gh31zFquuSWWqDyNFsi.wgWGSom8qLhV.wkK4VtZSm6gVqPu.Ni",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1989-10-28T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "createdAt": {
+    "$date": "2020-04-27T09:14:47.982Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T12:51:17.034Z"
+  },
+  "__v": 0,
+  "deviceToken": "ejT8Y0qDiIc:APA91bG9q590TBw73p70EMAFut2j9noy4rrVlYEqolOEC79AELTx9VkEEh8v2iePcLTeasjU6JyCDYk54t0vGZry6w5b8LKAmHoV2bXAtX9zu5D3WjxEGNtw7vFTttPn7yqFTb4cNp0-",
+  "userCurrency": "KES",
+  "balance": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-10-08T12:51:17.031Z"
+    },
+    "initiated": true,
+    "token": "pwvwpQXjGk7k64vEymvbHF3Td2MuoLBB6Foqr2u3bENCIh18vZ"
+  },
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ea6ab7b6f4ac75a6b1659c7"
+  },
+  "registrationStatus": "verified",
+  "userName": "test.user",
+  "fullName": "Test User",
+  "email": "test.user@test.com",
+  "password": "$2a$10$KceljYFYmHi1sb4EPsZfkuwd4A.jOisIXbGsNKHah7kdwMFOfyWUW",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "2001-01-01T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 19,
+  "createdAt": {
+    "$date": "2020-04-27T09:52:59.383Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-27T09:52:59.383Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ea6d2096f4ac75a6b1659d4"
+  },
+  "registrationStatus": "verified",
+  "userName": "Testing Swyp",
+  "fullName": "Test",
+  "email": "abc@gmail.com",
+  "password": "$2a$10$P0uQBMhDKUCRLznWn9180OhYwt2.buoPMGfCk7Wj/HQkTSkYC5jX6",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1986-04-27T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 34,
+  "createdAt": {
+    "$date": "2020-04-27T12:37:29.188Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-27T12:37:29.188Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ea6d2456f4ac75a6b1659e0"
+  },
+  "registrationStatus": "verified",
+  "userName": "sgx",
+  "fullName": "Sgx",
+  "email": "roshaan.tariq@mindravel.com",
+  "password": "$2a$10$g/esKWNe53Ryd7sWpBaWJ.Z4FGKGcdIsHzKlYXsipMC9kjuOC6wLm",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1976-04-27T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 44,
+  "createdAt": {
+    "$date": "2020-04-27T12:38:29.406Z"
+  },
+  "updatedAt": {
+    "$date": "2020-04-27T18:59:25.887Z"
+  },
+  "__v": 0,
+  "deviceToken": "fm41frXRgd8:APA91bHSyTiHnRHsXsQwCelgOgYuFu5VSjwbxIs2wOacft124NE4CX8sGmW82B3u_cN9DaM4p9eX-yXjV2u2zr80EgYQanEGUXVzU9ObvDt-Do66IM2KIg6qIvHBRAumGpZR8c-iuRV_",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5eb1a2d99f9615662d2e187b"
+  },
+  "registrationStatus": "verified",
+  "userName": "12365",
+  "fullName": "Joe",
+  "email": "chrismaister1966@gmail.com",
+  "password": "$2a$10$XcKR9Py.d0tc4BjjXKdiPOioK2AS0nOIWyMyk0HkKK46Lrd2JA0su",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1997-05-05T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "createdAt": {
+    "$date": "2020-05-05T17:31:05.898Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-03T11:37:24.242Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "balance": 0,
+  "banReason": "",
+  "isUserBanned": false,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-11-04T11:37:24.233Z"
+    },
+    "initiated": true,
+    "token": "8yhMQWCzmEdpzTBMe99FPxpTnrUBfwNSoVZm5D4ZUKyN2mqpGq"
+  },
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5eb1a3b39f9615662d2e1888"
+  },
+  "registrationStatus": "verified",
+  "userName": "JOE",
+  "fullName": "Chris",
+  "email": "maisterchris3@gmail.com",
+  "password": "$2a$10$EpeDhjRKhaEb0NJvU68QCuM.itu2eZkvrIHspm7yW1dW5/P9gjs6u",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-1409356800000"
+    }
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 95,
+  "createdAt": {
+    "$date": "2020-05-05T17:34:43.437Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-07T15:14:16.697Z"
+  },
+  "__v": 0,
+  "deviceToken": "dl7H8nkdXLQ:APA91bFjTaqy-e2xv3TvswI23l77hLV7lcAd6lWjhw4sxIY-_FiKR4aBjBtMYdslcKaI2Kxj7X7Wy1dB0id1S7vI4Pedy_gaXtrotiqOXnZ8dymkvZVvI_kbWbm0lfsQdXG9YB8ZaU2b",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5eb2855653c0ac049411a4e8"
+  },
+  "registrationStatus": "verified",
+  "userName": "rus28",
+  "fullName": "RusselMendez",
+  "email": "mendez.russel28@gmail.com",
+  "password": "$2a$10$jcmHV1kNb9TyAD/AZDKK9.6ezueRg4KJCU3GZY6EwdflePu0/LKLq",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-02-07T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "createdAt": {
+    "$date": "2020-05-06T09:37:26.388Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-06T15:32:16.360Z"
+  },
+  "__v": 0,
+  "deviceToken": "cYuStReONnI:APA91bFlaT_AhRW8gs894O75rj4PWt-g6Pd5t4tKERxtCAB1rjACtCdG6I6qooa2OXY272u8Wbul6Ch6cxTrZ6NscLfk056Tov5qHhWt5EJLOyeGtyq2mAZ5QXCeO8GPi1R2kiGADPWW",
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWIyODU1NjUzYzBhYzA0OTQxMWE0ZTgiLCJpYXQiOjE1OTE0NTc1MzUsImV4cCI6MTU5MTU0MzkzNX0.0rld--vrmGmWcF9ELLfFJU1P6RH5FJBchGmBABbViWU",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5eb288c853c0ac049411a4f5"
+  },
+  "registrationStatus": "verified",
+  "userName": "rus07",
+  "fullName": "RusselMendez",
+  "email": "lentelinfo@gmail.com",
+  "password": "$2a$10$4lBwKgU7cFp8PREtYDG6eO8NceHeX8ZKBDy9b5DoquemJ9bN0unmK",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-02-07T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "createdAt": {
+    "$date": "2020-05-06T09:52:08.130Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-06T10:05:50.598Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ebba1c874d5717485872e36"
+  },
+  "registrationStatus": "verified",
+  "userName": "rus0728",
+  "fullName": "RusselMendez",
+  "email": "lentelinfo@test.com",
+  "password": "$2a$10$oOFtyCEmx9r8j7hhfPl.OOZCqEMZnJNx8gLncsBSTjmhLgz2pu6m2",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-02-07T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "createdAt": {
+    "$date": "2020-05-13T07:29:12.882Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-13T07:29:12.882Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ebe5cbbb68a7974ed1cb852"
+  },
+  "registrationStatus": "verified",
+  "userName": "test1900",
+  "fullName": "Test User",
+  "email": "test@test.com",
+  "password": "$2a$10$EFsRiwOlm8z6JQzeBc0TjOoYBTwQHGNF6BPcir.PUxqII/6W1wr0q",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1994-02-16T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-05-15T09:11:23.808Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-15T09:11:23.808Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ec23232b68a7974ed1cb8f4"
+  },
+  "registrationStatus": "verified",
+  "userName": "rupeshpawar",
+  "fullName": "Rupesh Pawar",
+  "email": "rupeshpawar19@gmail.com",
+  "password": "$2a$10$einqX7Hnq2Pd9LdLZsQ/NulaIVCCquz87HhSN4KYs2uB9nZrCbygW",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1988-08-11T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 31,
+  "createdAt": {
+    "$date": "2020-05-18T06:58:58.101Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-28T08:38:20.022Z"
+  },
+  "__v": 0,
+  "deviceToken": "euhT7nRhxfU:APA91bEXWMR-LWHApty-9AZR215N9Sux-7E079wRg0Z-QeoXj8TbJ_-0MlckGWO1KxS9G29hQupnmpkQy7BhgCPlvQh0tW6t92LwZ6mz_FfPQ-J3Ue7yW_I_Qv5RJ2P-5z-MnjMf4g7O",
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-07-16T14:49:19.144Z"
+    },
+    "initiated": false,
+    "token": null
+  },
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWMyMzIzMmI2OGE3OTc0ZWQxY2I4ZjQiLCJpYXQiOjE1OTU0MzcwNTEsImV4cCI6MTU5NTUyMzQ1MX0.q_zezzHYex8i0iXY_tSY213C7uJGnHsr_SUXEuuUnyw",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWMyMzIzMmI2OGE3OTc0ZWQxY2I4ZjQiLCJpYXQiOjE1OTU5MjU1MDAsImV4cCI6MTU5NjAxMTkwMH0.COb0s-FwYVPmPsav79QyAw3Ln_E-M8iIHVh3wpYYgZY",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ec79f0eb68a7974ed1cb942"
+  },
+  "registrationStatus": "verified",
+  "userName": "kavita.s21",
+  "fullName": "Kavita Suryavanshi",
+  "email": "kavita.suryavnshi86@gmail.com",
+  "password": "$2a$10$EycuXjsefTIKwbhPeXoEyeEQSgRMJAb1g2rXTdvI.WJp4FBZ2WZnG",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1986-11-11T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 33,
+  "createdAt": {
+    "$date": "2020-05-22T09:44:46.060Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-22T09:44:46.060Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ec79fcfb68a7974ed1cb94e"
+  },
+  "registrationStatus": "verified",
+  "userName": "kavita21",
+  "fullName": "Kavita Suryavanshi",
+  "email": "kavita.suryavanshi86@gmail.com",
+  "password": "$2a$10$qoCyQJHIEgyTv55T.Dnpv.mm1jsdjzOKQz/4Ete8047P1tf87j.qy",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1986-11-16T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 33,
+  "createdAt": {
+    "$date": "2020-05-22T09:47:59.305Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-22T15:17:06.312Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-05-23T15:17:06.310Z"
+    },
+    "initiated": true,
+    "token": "ACdICEt8RiRBY2ELZU2uO8Umc9f8hWG4ZIBgisUIaHcMqgSrwl"
+  },
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ecc847e710ab2523d87d73a"
+  },
+  "registrationStatus": "verified",
+  "userName": "test01",
+  "fullName": "RusselMendez",
+  "email": "lentelinfo@test1.com",
+  "password": "$2a$10$cU4c/J3Aa28LrkA9v2f68OreyyJks5fHwPpOD7SZDXL4Sn/nez2FO",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-02-07T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "createdAt": {
+    "$date": "2020-05-26T02:52:46.878Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T02:52:46.878Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ecc861b710ab2523d87d747"
+  },
+  "registrationStatus": "verified",
+  "userName": "test02",
+  "fullName": "RusselMendez",
+  "email": "lentelinfo@test2.com",
+  "password": "$2a$10$U9bQg10dOZj5rq2zQe3Gx.xpmdjhV.tkwe.dillAkgwKc9EU/hJI2",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-02-07T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "createdAt": {
+    "$date": "2020-05-26T02:59:39.104Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T02:59:39.104Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ecca908710ab2523d87d757"
+  },
+  "registrationStatus": "verified",
+  "userName": "test03",
+  "fullName": "ATestUser",
+  "email": "lentelinfo@test3.com",
+  "password": "$2a$10$zYz8a7ysDFT0mapOFkorE.DjrZfdMg3sn0tuOcdCyJ3aa/aAQR9ou",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-05-26T05:28:40.269Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T05:28:40.269Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ecccdf1710ab2523d87d763"
+  },
+  "registrationStatus": "verified",
+  "userName": "userb",
+  "fullName": "Testuserb",
+  "email": "userb@test.com",
+  "password": "$2a$10$UGgwjm5z6bk0rjEnlR41BuCIUcIQO1ROjroWJnxCzuqvUbLKzyaMm",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-05-26T08:06:09.968Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T08:06:09.968Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5eccedb77d151e742108dd33"
+  },
+  "registrationStatus": "verified",
+  "userName": "userc",
+  "fullName": "Userc",
+  "email": "userc@test.com",
+  "password": "$2a$10$ILszdw1Al7vWkUQWfJBYgeh53iStjXsw0HlKo0e2qOsOtGiY/sc3a",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-05-26T10:21:43.986Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-26T10:21:43.986Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ecceedf7d151e742108dd3f"
+  },
+  "registrationStatus": "verified",
+  "userName": "cletrich",
+  "fullName": "Russel Mendez",
+  "email": "russel@jiweman.com",
+  "password": "$2a$10$H/SHApX0dZzK.HEfMcvkfu.858lZG6MPwE1tSwNKhAa1mfDS9wEgu",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-05-26T10:26:39.656Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-06T15:36:41.110Z"
+  },
+  "__v": 0,
+  "deviceToken": "d3FgyB5nUNk:APA91bEdZVWNlmZMIznqxXY9l3myFhc_ZeIBODdOC9cvqM4qlsIbax0UjGvjWUH9eYoZdz18zWd9298XLEoIdWlpP_WHz6UfvniCOjkr4jyyDxFKWil2wUPiNx8LyzYKUWe7lhmroYBm",
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWNjZWVkZjdkMTUxZTc0MjEwOGRkM2YiLCJpYXQiOjE1OTE0NTc4MDEsImV4cCI6MTU5MTU0NDIwMX0.S6PMxmsa83qv-y-gQgG3j_aAq_rj1dN4ZVHuYd-O7YY",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed119d9bc74e419efd9a405"
+  },
+  "fullName": "guest857125",
+  "userName": "guest857125",
+  "email": "guest857125",
+  "password": "$2a$10$Jo5Lv0rM4/z4nu30cfReuu4HPMUMFrkyVdsXL8rqxsxyW/oJNws.C",
+  "deviceToken": "0988751121r43re",
+  "mainDeviceToken": "0123476712",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-05-29T14:19:05.693Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T14:19:05.693Z"
+  },
+  "__v": 0,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed11a02bc74e419efd9a406"
+  },
+  "fullName": "guest694773",
+  "userName": "guest694773",
+  "email": "guest694773",
+  "password": "$2a$10$NNU/ZO77/ftEfj56GjOamOGORuZEZ2Mvba9pAhn8iSI.ZURxrBHhq",
+  "deviceToken": "0988751121r43re",
+  "mainDeviceToken": "32423432423432432",
+  "accountType": "guest",
+  "createdAt": {
+    "$date": "2020-05-29T14:19:46.906Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-29T14:19:46.906Z"
+  },
+  "__v": 0,
+  "registrationStatus": "verified",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed3369dbc74e419efd9a426"
+  },
+  "registrationStatus": "verified",
+  "userName": "rajmal",
+  "fullName": "Raj Malhotra",
+  "email": "rajmal@mailinator.com",
+  "password": "$2a$10$RADtXmOtTgea4InAfn.lL.WuJu391Kd2zwmXlTnlO//CUUEbA8taG",
+  "countryOfRecidence": "Antarctica",
+  "dateOfBirth": {
+    "$date": "1993-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-05-31T04:46:21.440Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T04:46:21.440Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed33827bc74e419efd9a433"
+  },
+  "registrationStatus": "verified",
+  "userName": "Test",
+  "fullName": "Test",
+  "email": "test@example.com",
+  "password": "$2a$10$Qf1AySDyOQVP5owGvvL58.HQgbcaDeVSeGesrV/CfinNke3PGSgTG",
+  "countryOfRecidence": "Angola",
+  "dateOfBirth": {
+    "$date": "1993-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-05-31T04:52:55.374Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-07T07:45:31.227Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-06-08T07:45:31.221Z"
+    },
+    "initiated": true,
+    "token": "yr8GvgiKyNGci1lZnAkGrcUmcwKhu52ht5Q671kXqn8oGnTm0w"
+  },
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed3386dbc74e419efd9a441"
+  },
+  "registrationStatus": "verified",
+  "userName": "test100",
+  "fullName": "test",
+  "email": "test2@example.com",
+  "password": "$2a$10$ouP9u306NODru8ba3pmt1e59ftdfCHKQHpcsMw0jEjAeFonOO3QjW",
+  "countryOfRecidence": "Antarctica",
+  "dateOfBirth": {
+    "$date": "1993-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-05-31T04:54:05.318Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T04:54:05.318Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed37bae9e8bc46c1e47ed15"
+  },
+  "registrationStatus": "verified",
+  "userName": "raja",
+  "fullName": "Raj Sharma",
+  "email": "rajsharma@mailinator.com",
+  "password": "$2a$10$1mgJHqGWWOvyjR/w8BKwmehj/OY.F/cWKyDND5zt5u3AvhzhGojCi",
+  "countryOfRecidence": "United States of America",
+  "dateOfBirth": {
+    "$date": "1994-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 25,
+  "createdAt": {
+    "$date": "2020-05-31T09:41:02.226Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T09:41:02.226Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed3ae568ce1e771dfd425d8"
+  },
+  "registrationStatus": "verified",
+  "userName": "testuser2",
+  "fullName": "test user 2",
+  "email": "testuser2@mailinator.com",
+  "password": "$2a$10$LURryrUxxIt89vrc0f6g1OUS2KMjX6wn.jAQDaG/o5d5KU210Naj.",
+  "countryOfRecidence": "France",
+  "dateOfBirth": {
+    "$date": "1993-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-05-31T13:17:10.029Z"
+  },
+  "updatedAt": {
+    "$date": "2020-05-31T13:17:10.029Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed5f39978d655462d4b19b9"
+  },
+  "registrationStatus": "verified",
+  "userName": "Bolingo",
+  "fullName": "Bolingo",
+  "email": "njambiwinnie@yahoo.com",
+  "password": "$2a$10$q3oGabxLFkOqH57zEOPBtuHJR0CIyHYiOedJ2Ef8KJK/RbZR0aTdq",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-02-01T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "createdAt": {
+    "$date": "2020-06-02T06:37:13.607Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-02T06:37:13.607Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ed7665fc6a172520171b8bd"
+  },
+  "registrationStatus": "verified",
+  "userName": "ashish233",
+  "fullName": "ashish233",
+  "email": "pandeashish233@gmail.com",
+  "password": "$2a$10$TC2fHAxUmPdZVcyIbNrnEOWwfMMn12o8xj2qz1eD7h.Zl5GJ9eU/.",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "createdAt": {
+    "$date": "2020-06-03T08:59:11.629Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-19T14:59:43.981Z"
+  },
+  "__v": 1,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWQ3NjY1ZmM2YTE3MjUyMDE3MWI4YmQiLCJpYXQiOjE2MjIwOTY0NzUsImV4cCI6MTYyMjE4Mjg3NX0.vvMh1-F2UnypDBECUA9PbLHCX7frZkVH3h-DLYW_Gzg",
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-08-24T08:49:16.845Z"
+    },
+    "initiated": true,
+    "token": "zREl9vgQOBt2Vr0BcXMlKzyk13Fk7mw3gamRqPbJLPNt07ZoCu"
+  },
+  "deviceToken": "cBfR7FGFFQU:APA91bHXgZUA0NBigufjWvNwHRbwSRXbXh0XPo0LSv1t7UDd6kMYcYsSt9pNQeBdi7tfcBK62FIu4piFocO6SQOh0FMIXAfgdEb09AHN4CWNZPdcuZs-MZtYlmIeRHFpXX2l75It9RKp",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWQ3NjY1ZmM2YTE3MjUyMDE3MWI4YmQiLCJpYXQiOjE2MjY3MDY3ODMsImV4cCI6MTYyNjc5MzE4M30.wBvZkroUD7eVjLJBKZmKjKD8zxQbkgUB0Eu5CHjnePw",
+  "userCurrency": "KES",
+  "balance": 10.34,
+  "banReason": "",
+  "isUserBanned": false,
+  "warnCount": 0,
+  "warnReasons": [],
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "referCode": "2PjlYmFwg"
+},{
+  "_id": {
+    "$oid": "5ed8c6eee027373d2fe7738e"
+  },
+  "registrationStatus": "verified",
+  "userName": "Chris1234567",
+  "fullName": "Chris",
+  "email": "titifriti14@gmail.com",
+  "password": "$2a$10$3viesSKQU0EwAUyVhL2MyuX9wD8yiSyz7UeA1Y4VFny/49rciFzGW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-06-04T10:03:26.394Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-21T16:27:48.708Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWQ4YzZlZWUwMjczNzNkMmZlNzczOGUiLCJpYXQiOjE2MDMyOTc2NjgsImV4cCI6MTYwMzM4NDA2OH0.m6d5eY9Mfx9GkLKiZJPdOno1_pZ6gQz6Bu8OdMx2SSU",
+  "userCurrency": "KES",
+  "balance": 0,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5edbdc9dcf83a1307ad43015"
+  },
+  "registrationStatus": "verified",
+  "userName": "      ",
+  "fullName": "      ",
+  "email": "ruchika@jiweman.com",
+  "password": "$2a$10$3iRqBzz2eaT3WwG5RKUm3.W47HCAbaCMXrLtd6zsT83lsHyeih4ay",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "2000-03-22T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 20,
+  "createdAt": {
+    "$date": "2020-06-06T18:12:45.936Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-06T18:12:45.936Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5edc89f8cf83a1307ad43031"
+  },
+  "registrationStatus": "verified",
+  "userName": "testuser3",
+  "fullName": "Test 3",
+  "email": "testuser3@mailinator.com",
+  "password": "$2a$10$kBxwuqHDlkFsLEvf.iqSduf62Qf.wOaKOfPXTCE1p7GtipQ5yQzI6",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-06-07T06:32:24.660Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-11T16:59:26.656Z"
+  },
+  "__v": 1,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-06-08T10:22:58.524Z"
+    },
+    "initiated": false,
+    "token": null
+  },
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWRjODlmOGNmODNhMTMwN2FkNDMwMzEiLCJpYXQiOjE2MjQyOTgwMTEsImV4cCI6MTYyNDM4NDQxMX0.R569rcq6yz3maXby3HJ4ocKoaQwGsGnLClKPrtc8U1Y",
+  "deviceToken": "dN-8Df_6DNI:APA91bHTtfnf18v2iCfxxC8ERb7SOb5-koSf9yUK5GudE6n1W8jUpTr3qEgnqreyWwnphAuCnV6xkzhGMcp1z8AZzbCkcVjBpxBvcEM5pWfMYVVUqXHC8KwkbWvRJkE384NZGm3Fa52i",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWRjODlmOGNmODNhMTMwN2FkNDMwMzEiLCJpYXQiOjE2MjYwMjI3NjYsImV4cCI6MTYyNjEwOTE2Nn0.ld4qzGj9Pk4XuHWWwRohMF13oNFiB5QsrpFfNJy9hJY",
+  "userCurrency": "KES",
+  "balance": 32489,
+  "banReason": "",
+  "isUserBanned": false,
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "warnCount": 0,
+  "warnReasons": []
+},{
+  "_id": {
+    "$oid": "5edc9a0237cdf47552cda816"
+  },
+  "registrationStatus": "verified",
+  "userName": "test123",
+  "fullName": "test",
+  "email": "test123@mailinator.com",
+  "password": "$2a$10$Lo87ephbnbpjS6Z0qZltsuRyXUyYsVJooxQ0l4K990LGRVYwcHmbK",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1988-06-02T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 32,
+  "createdAt": {
+    "$date": "2020-06-07T07:40:50.220Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-07T07:41:45.243Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5ee1b14cdb825d0b8b3e0e37"
+  },
+  "registrationStatus": "verified",
+  "userName": "ruchikaJiweman",
+  "fullName": "Ruchika Pawar",
+  "email": "ruchika.pawar@jiweman1.com",
+  "password": "$2a$10$g5w9doLV6J75kxvO5FI6nOnjY.TyUUjXBOwIVx.ByExX82mwjRU2a",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "createdAt": {
+    "$date": "2020-06-11T04:21:32.736Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-22T13:56:06.569Z"
+  },
+  "__v": 1,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWUxYjE0Y2RiODI1ZDBiOGIzZTBlMzciLCJpYXQiOjE2MTQwMDIxNjYsImV4cCI6MTYxNDA4ODU2Nn0.kqPRIcmbE1DxXtxFdrUUYvyceiQBGo-BsPUZKAyTeZg",
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-06-26T19:26:29.991Z"
+    },
+    "initiated": true,
+    "token": "VadH6lQFrI0ZqZrbWtN41Uvw6gWvjDzs1z6Onv50RUpsN4PGwR"
+  },
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "balance": 0,
+  "banReason": "",
+  "isUserBanned": false,
+  "warnCount": 0,
+  "warnReasons": []
+},{
+  "_id": {
+    "$oid": "5ef3cbce10c6f7082919285f"
+  },
+  "registrationStatus": "verified",
+  "userName": "Zidane",
+  "fullName": "Real Madrid",
+  "email": "andrew.nganga@jiweman.com",
+  "password": "$2a$10$m1LFafAqdB94o/FjGANJiuLvkWriGjbssNjUu0R7M3BrmvEqz5WEC",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1986-02-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 34,
+  "createdAt": {
+    "$date": "2020-06-24T21:55:26.082Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-02T15:13:17.125Z"
+  },
+  "__v": 1,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWYzY2JjZTEwYzZmNzA4MjkxOTI4NWYiLCJpYXQiOjE2MjUyMzg3OTcsImV4cCI6MTYyNTMyNTE5N30.hlkcuMMQ-lSYtqzQR696JvIiqDX53K4EeeIktBHDRcY",
+  "deviceToken": "cBkhmJfdFaA:APA91bGERaNfuAHWULaMvLjh8Bo2jjliD3cva6bGyKnpjfv1XePSnnQBxa92FRb11Ht1KJOjg4NpuVqRxkQSL483ZHXVMlRuoofBVnC9F5HI5afabMyR_ZugB5ptbhAhr5XU-6p2r9lm",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWYzY2JjZTEwYzZmNzA4MjkxOTI4NWYiLCJpYXQiOjE2MTUyMTUyODcsImV4cCI6MTYxNTMwMTY4N30.JDHBge0-ZZsWk2V9iiB4ZLNtplz4W0wWErUT3IwM45Y",
+  "userCurrency": "KES",
+  "balance": 805.54,
+  "banReason": "",
+  "isUserBanned": false,
+  "warnCount": 0,
+  "warnReasons": [],
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  }
+},{
+  "_id": {
+    "$oid": "5ef506b510c6f70829192886"
+  },
+  "registrationStatus": "verified",
+  "userName": "Samawati",
+  "fullName": "Samawati",
+  "email": "jiwemanjobs@yahoo.com",
+  "password": "$2a$10$37S2ZjFqcegPXwYoONaF6OV3JjW1jutmbNvNUyqa7lGr8wR4PceiG",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1986-02-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 34,
+  "createdAt": {
+    "$date": "2020-06-25T20:19:01.940Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-19T14:28:02.773Z"
+  },
+  "__v": 1,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWY1MDZiNTEwYzZmNzA4MjkxOTI4ODYiLCJpYXQiOjE2MjQ5NTQwOTUsImV4cCI6MTYyNTA0MDQ5NX0.LBJxOp5wnUYqp8vz1lXJf0bEpaapQqRfbJj8jCNjm_Y",
+  "deviceToken": "e8R5Po_9FvQ:APA91bEMc8f2hHUM2ZWleNdcKWWIvBZ1XJlptVozZXWowMg0b89ClhtplqPDInRlhmYL0JFITgR1vKqDKySa5rV6F5Ro9q7jmuW3QF-B0M6Xe6mErt4pZnR_SpRorjCP5_DjD7I4CB0S",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZWY1MDZiNTEwYzZmNzA4MjkxOTI4ODYiLCJpYXQiOjE2MjY3MDQ4ODIsImV4cCI6MTYyNjc5MTI4Mn0.oof5RGXcISsQnL2SqhyQyHNBmaNuDwhxlx7Eq1TY96M",
+  "userCurrency": "KES",
+  "balance": 4028.66,
+  "banReason": "",
+  "isUserBanned": false,
+  "warnCount": 0,
+  "warnReasons": [],
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  }
+},{
+  "_id": {
+    "$oid": "5f01bf1cf997d055ce7eb54b"
+  },
+  "registrationStatus": "pending",
+  "userName": "soanli2000",
+  "fullName": "Sonali Pawar",
+  "email": "sonalipawar0402@gmail.com",
+  "password": "$2a$10$fZgWKlttvOk.nFfNfsU1UuRWE35QOlsSGbn8J6NoMqQoUEef.vFe6",
+  "countryOfRecidence": "Uganda",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-07-05T11:53:00.450Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-05T11:53:00.450Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f0adf1807fa0857c51399c2"
+  },
+  "registrationStatus": "pending",
+  "userName": "FSTR",
+  "fullName": "Keegs",
+  "email": "Keegan2012@me.com",
+  "password": "$2a$10$O/AgPaL/UrZ1DlbSEy7MJuFJnsri9Ky1H8hQ6f9Y2fqQ5KFdDnBNK",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-07-12T09:59:52.576Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-12T09:59:52.576Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f0ae83b24faa25d9b001689"
+  },
+  "registrationStatus": "verified",
+  "userName": "FSTtest",
+  "fullName": "Keegan",
+  "email": "keegan2012@me.com",
+  "password": "$2a$10$zLsDB0hFfb6U4Gb6hlgsW.AoFtPorXR/IwqCtQcFi3BE2.1Qo40vq",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-07-12T10:38:51.431Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-21T07:26:16.223Z"
+  },
+  "__v": 1,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjBhZTgzYjI0ZmFhMjVkOWIwMDE2ODkiLCJpYXQiOjE2MTYzMTE1NzUsImV4cCI6MTYxNjM5Nzk3NX0.DbPG9gG6tlD5nlNG0DVpvuwx8rs_LTNZxEyN6nOUqCc",
+  "deviceToken": "eHaUr-NGzqs:APA91bF6mLi5D_5eEsOF_-Ce83Vlecgtz04z2BeC_sKWWndi_u7lETB_2xB5Go1zxClq0cFzKRSFtrn-P26VFet7g_t8EO5-c0cDpCVg11mhjoMTHLjEw2uDy28MAfbOi_TkVeeZY92G",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjBhZTgzYjI0ZmFhMjVkOWIwMDE2ODkiLCJpYXQiOjE1OTg0MDM2NzcsImV4cCI6MTU5ODQ5MDA3N30.5xZkLiic4W494iNnS-ES11q0_NS6uo2Kb-ayBz6O2wE",
+  "userCurrency": "KES",
+  "balance": 0,
+  "banReason": "",
+  "isUserBanned": false,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "warnCount": 0,
+  "warnReasons": []
+},{
+  "_id": {
+    "$oid": "5f12adc78795074c40869f65"
+  },
+  "registrationStatus": "pending",
+  "userName": "sa",
+  "fullName": "Sa",
+  "email": "sa@mm.com",
+  "password": "$2a$10$864cLomR./suESf6xOToeuOzA3qvkyr3IWccZ7eVCYPKJ0Yy0jE6W",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-07-18T08:07:35.808Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-18T08:07:35.808Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f261dbc18b5294f37e3632d"
+  },
+  "registrationStatus": "pending",
+  "userName": "tmiddleuser3",
+  "email": "tmiddleuser3@mailinator.com",
+  "password": "$2a$10$V8Hd8HACEsVC7u8LNy1pDOwaxU8FMnJ.ASK0RSUyvW.H3.6hKEiQ6",
+  "countryOfRecidence": "Paraguay",
+  "dateOfBirth": {
+    "$date": "1989-02-02T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 31,
+  "createdAt": {
+    "$date": "2020-08-02T01:58:20.523Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-02T01:58:20.523Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f2939929a14f23a4ef489aa"
+  },
+  "registrationStatus": "verified",
+  "userName": "Saddam60",
+  "fullName": "Tahir Saddam",
+  "email": "mtahirsaddam@gmail.com",
+  "password": "$2a$10$ciHyhEa7LJVxCPm1d/nF1unjHBNlrkC0ILhPyc3Tis/MTR0wCF0FW",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1993-08-04T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "createdAt": {
+    "$date": "2020-08-04T10:33:54.025Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-12T14:36:28.968Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjI5Mzk5MjlhMTRmMjNhNGVmNDg5YWEiLCJpYXQiOjE1OTcyNDI5ODgsImV4cCI6MTU5NzMyOTM4OH0.Yonjhaht_rbGA5YJ7yknALZ3Iw68gHAtbvQLLoq2bBs",
+  "deviceToken": "em4j-4Xs1Bs:APA91bHadgjgyiqAtCf3BjgZnjktGa7iH7kmZ_B60kUepOEJUbWvMJPEjbrSsT9euxS_eFKAGI0-IQvGAVi2bxG-TP7dWDRSB0MJ6By6HltLWjvkyTa399DNhhLHno8AZ9sr1NwtnCMe",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f2c09d99a14f23a4ef489d7"
+  },
+  "registrationStatus": "pending",
+  "userName": "asda",
+  "email": "asda@mailinator.com",
+  "password": "$2a$10$27p6jAPYbIirrrkfOHK5fO5UfSME7UFkjw1N21Y5oTlVBClvcgSji",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1988-01-01T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 32,
+  "createdAt": {
+    "$date": "2020-08-06T13:47:05.551Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-06T13:47:05.551Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f2c218a9a14f23a4ef489da"
+  },
+  "registrationStatus": "verified",
+  "userName": "test1321",
+  "fullName": "test1 test1 test1",
+  "email": "test1@mailinator.com",
+  "password": "$2a$10$I6pezWP.SCmRL8akPFjyou1g9BH/8cAWxJRWNXUFJ4vScy05iMyG2",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1991-02-07T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-08-06T15:28:10.021Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-06T15:29:04.296Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f2c44ad9e874a255c2ff8a3"
+  },
+  "registrationStatus": "verified",
+  "userName": "test9812",
+  "fullName": "test1212 test234 test4567",
+  "email": "test9812@mailinator.com",
+  "password": "$2a$10$NCzsKMgPm54SOykw2Rp7COfpdnTri1HgPdy5U7Tusw/JxgNkJyz0q",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1994-01-03T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-08-06T17:58:05.733Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-06T17:58:28.851Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f2c46c17f540a2669c73d9d"
+  },
+  "registrationStatus": "verified",
+  "userName": "newq",
+  "fullName": "newq neqw newq",
+  "email": "newq@mailinator.com",
+  "password": "$2a$10$aC5DeyDiXrztBK5GRpsKAOTJiPIYONJWjFeqybXg0CX0gCKzJhbZu",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1985-06-05T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 35,
+  "createdAt": {
+    "$date": "2020-08-06T18:06:57.305Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-06T18:07:13.749Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f2fe6253eab8f299a7149d6"
+  },
+  "registrationStatus": "verified",
+  "userName": "testuser6",
+  "fullName": "test6 middlename user6",
+  "email": "testuser6@mailinator.com",
+  "password": "$2a$10$EmfA0LmevnJLs0g7S2aANO.EwtQpo4Azs7rx5yPXvqOgG5aBF4gFC",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-12-01T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-08-09T12:03:49.982Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-08T17:25:30.978Z"
+  },
+  "__v": 1,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjJmZTYyNTNlYWI4ZjI5OWE3MTQ5ZDYiLCJpYXQiOjE2MTUzOTI1MjEsImV4cCI6MTYxNTQ3ODkyMX0.BnHFf8tWi1uO0Yo3FYKOmAU7HGevUfwIOlVIl2AIPNo",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjJmZTYyNTNlYWI4ZjI5OWE3MTQ5ZDYiLCJpYXQiOjE2MjU3NjUxMzAsImV4cCI6MTYyNTg1MTUzMH0.SHf8ySxQV5f5w5M5FCphvKlbtd0tX1HKKJu5aPK3EMQ",
+  "deviceToken": "ejUYWn72UtI:APA91bHYfd2yaY1-_gcktcDbVa5gs2kEKYQOpHnvem4TNSBCBg0NBHzL6XLEMoSTkOtWWMA4p8IxfIKZbAeYrsBNdWQGoXxt32B9TN8Vvs9KIkZxb8rK8WrtQwcSd3R5bvOHRuBozO0Q",
+  "userCurrency": "KES",
+  "balance": 24720,
+  "banReason": "",
+  "isUserBanned": false,
+  "warnCount": 0,
+  "warnReasons": [],
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f33f7d24e300b61729e74de"
+  },
+  "registrationStatus": "verified",
+  "userName": "tahir60",
+  "fullName": "Muhammad Tahir Saddam",
+  "email": "hameedullahjan@uetpeshawar.edu.pk",
+  "password": "$2a$10$EAKQfsTZcdU0yhsO5RaLhuiaKrZfastbuokmtpCwZNNPqVFGJHKGa",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1991-01-28T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-08-12T14:08:18.298Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-19T13:05:31.822Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjMzZjdkMjRlMzAwYjYxNzI5ZTc0ZGUiLCJpYXQiOjE1OTc4NDIzMzAsImV4cCI6MTU5NzkyODczMH0.s6Gk6NsUPcbJzXJ7kVWgd9p1oBkC4v2qoO-mTcSJ-IA",
+  "deviceToken": "d5eQqt6NZ3c:APA91bEo0h0Z5Wov-xENdTLmlitaSLUjLHl9WazHQeBCY5e1S8KddFVNxz6zGXe544f5sJJnKstZlVV5ycP21i9jZny2tpPSp7-8oZJT0m9IG-dyMFQu0NaiVNdWC_YBo-PbAGpjNPIb",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjMzZjdkMjRlMzAwYjYxNzI5ZTc0ZGUiLCJpYXQiOjE1OTcyNTcwMTcsImV4cCI6MTU5NzM0MzQxN30.zOoDPycEGFeR7Y_Ysi5hU5lPOq1Hn50dOHSz0oDFF9E",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f35ed094e300b61729e7539"
+  },
+  "registrationStatus": "verified",
+  "userName": "newtest3",
+  "fullName": "newt test test",
+  "email": "newtest@mailinator.com",
+  "password": "$2a$10$PUtVBL.HkagQGKL6sA3iH.T4lnzM/VvOuU8HydDLbiDHtvx1HlEYm",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-01-01T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "createdAt": {
+    "$date": "2020-08-14T01:46:49.759Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-16T16:30:27.006Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjM1ZWQwOTRlMzAwYjYxNzI5ZTc1MzkiLCJpYXQiOjE1OTc1OTU0MjcsImV4cCI6MTU5NzY4MTgyN30.S_wjbOLLudrvGcT18pjpEBbIDpA-XWbgf2AU_vVnrtc",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f3960137754fb1b303e3477"
+  },
+  "registrationStatus": "verified",
+  "userName": "newtest4",
+  "fullName": "twedqd sfadqewd sadfeqdca",
+  "email": "newtest4@mailinator.com",
+  "password": "$2a$10$WhSlVupGz2n85LZFQ5.KpeVt4HnsTCeBtAMmr0WR25lcxOUEEwhiq",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1989-05-08T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 31,
+  "createdAt": {
+    "$date": "2020-08-16T16:34:27.197Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-16T16:37:13.555Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjM5NjAxMzc3NTRmYjFiMzAzZTM0NzciLCJpYXQiOjE1OTc1OTU4MzMsImV4cCI6MTU5NzY4MjIzM30.SeqNLlD6uPCdeLQ6onZ3ugSIqFS5aAt4_poM5zgTlo4",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f3d44154e35e06d0220df1a"
+  },
+  "registrationStatus": "pending",
+  "userName": "asdqwe1",
+  "fullName": "testqwe asdwqfcwc dwefwe",
+  "email": "asdqwe@mailinator.com",
+  "password": "$2a$10$sL/0aFjtWWwJjdIiWpcIH.Ig8tFMaFWTvIxr/kLIDIMmROgmh5nUO",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1988-07-08T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 32,
+  "createdAt": {
+    "$date": "2020-08-19T15:24:05.958Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-19T15:24:05.958Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f3e47b91be8e53fa249ca34"
+  },
+  "registrationStatus": "pending",
+  "userName": "ruchikaaa",
+  "fullName": "@#$%^&*!)( 123365498755222 ?><}{|&$#",
+  "email": "123456@gmail.com",
+  "password": "$2a$10$35QKjHCVmf8Vr0WyngMPMe8bA3AeFFc//UZ7grUqq9A0hEJaive9u",
+  "countryOfRecidence": "Australia",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "createdAt": {
+    "$date": "2020-08-20T09:51:53.338Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-20T09:51:53.338Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f411e81d26a2b25f63c9a04"
+  },
+  "registrationStatus": "pending",
+  "userName": "testuser8",
+  "fullName": "test user test8",
+  "email": "testuser8@mailinator.com",
+  "password": "$2a$10$lXKmccTEpVmAJeXz7dRh2eQyt51BaqP30EXfvkwJy/Bg1DiH2KSlW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1991-02-02T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-08-22T13:32:49.288Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-22T13:32:49.288Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f427b05f93f1863cd863039"
+  },
+  "registrationStatus": "pending",
+  "userName": "rp",
+  "fullName": "abcd pqrs lmnv",
+  "email": "abcd@gmail.com",
+  "password": "$2a$10$YaPvftCBjpc4X3TPOtyjM.tCvDATgbZw6I0Jdy3cZ.7S4uJbvUMSO",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-20T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "createdAt": {
+    "$date": "2020-08-23T14:19:49.792Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-23T14:19:49.792Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f434308f93f1863cd863056"
+  },
+  "registrationStatus": "verified",
+  "userName": "ashish",
+  "fullName": "Ashish Madhukar Pande",
+  "email": "ashish@mailinator.com",
+  "password": "$2a$10$Pl0AvHs6IC6/0Rv8C6FGMuqUqyEyVwXEH6AOJTHwopIkRIxOlAnsu",
+  "countryOfRecidence": "India",
+  "dateOfBirth": {
+    "$date": "1992-11-23T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "createdAt": {
+    "$date": "2020-08-24T04:33:12.017Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-24T04:41:43.129Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f4b4d4e2aff076ec3f62b82"
+  },
+  "registrationStatus": "verified",
+  "userName": "osmondolive",
+  "fullName": "Leonardo Olivieri Carvalho",
+  "email": "stonelion777@gmail.com",
+  "password": "$2a$10$f1QW99/YVVZ28TJmY4I3Sea3lvtdwNdh3dFqU64EAdHswO4VX1O6m",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1986-04-06T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 34,
+  "createdAt": {
+    "$date": "2020-08-30T06:55:10.658Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-31T22:36:56.770Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjRiNGQ0ZTJhZmYwNzZlYzNmNjJiODIiLCJpYXQiOjE1OTg5MTM0MTYsImV4cCI6MTU5ODk5OTgxNn0.hYaGtPtMUFxFhJYq7GpfyalfDy5OL_FWnQwQgWeaxgo",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f4f9acc323619313c4a6462"
+  },
+  "registrationStatus": "verified",
+  "userName": "TestUser1",
+  "fullName": "TestUser TestUser TestUser",
+  "email": "accounts1@jiweman.com",
+  "password": "$2a$10$cKqBFTCpVSYyBO1f12YiPOJtNjdMeWkr5Rj7tfQkTglj.8QWTGAXS",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "createdAt": {
+    "$date": "2020-09-02T13:14:52.291Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T14:38:07.906Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjRmOWFjYzMyMzYxOTMxM2M0YTY0NjIiLCJpYXQiOjE2MDIwODE0NDMsImV4cCI6MTYwMjE2Nzg0M30.EfKQPdeqddKtUW_PQrt5CHTKvRz-1ym-pLl_HF4U5xE",
+  "userCurrency": "KES",
+  "balance": 161,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f4f9bc8323619313c4a6463"
+  },
+  "registrationStatus": "verified",
+  "userName": "TestUser2",
+  "fullName": "TestUser2 TestUser2 TestUser2",
+  "email": "ruchika.pawar1@jiweman.com",
+  "password": "$2a$10$ReMTREyupveuIbyiSz6aVe4N5oXBvtbD0.Ymwk5AusEBSSiLm.qUu",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1986-02-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 34,
+  "createdAt": {
+    "$date": "2020-09-02T13:19:04.981Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-22T15:19:57.077Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjRmOWJjODMyMzYxOTMxM2M0YTY0NjMiLCJpYXQiOjE2MDA3ODY1ODQsImV4cCI6MTYwMDg3Mjk4NH0.8nNDubMFho-Tv1LWKPvJ4GHkynU1WHsot5YEb75LESg",
+  "userCurrency": "KES",
+  "balance": 200,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f5cf2f806912e07e76ace1b"
+  },
+  "registrationStatus": "verified",
+  "userName": "vrj",
+  "fullName": "Vishal R Jadhav",
+  "email": "vishzz007@gmail.com",
+  "password": "$2a$10$t5B0wy80voubQRJhk2kL2.cMBHzMIyQQYdYfA3oiVQEDOLuB3eeYW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-10-26T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-09-12T16:10:32.430Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-12T17:14:16.030Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjVjZjJmODA2OTEyZTA3ZTc2YWNlMWIiLCJpYXQiOjE1OTk5MzA4NTUsImV4cCI6MTYwMDAxNzI1NX0.2IAZk4FaQoNGnAlwpcCBt-KN1OQJgYtexRA4_YIkBrU",
+  "deviceToken": "cyeaA67tRUA:APA91bFHk8tOSPAHKSaCH-G0rfVmTmJSuMqL2V95u0bhvN-3MQexnCrCFL8hE_FJa2lkwsNL765vNom3qGwVhO-df0M7S-4DIC_J4P2-jvfRpdriM0U8PUi9kyNW8djpgVBaSEROlspU",
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f5cfbe706912e07e76ace1e"
+  },
+  "registrationStatus": "pending",
+  "userName": "te",
+  "fullName": "T E E",
+  "email": "tdf@gmail.com",
+  "password": "$2a$10$SRy8GxRmWgACAATEmzTX.eDDM0AG/OrAOB8eWd4AUPTkUglH4kGjm",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-09-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "createdAt": {
+    "$date": "2020-09-12T16:48:39.359Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-12T16:48:39.359Z"
+  },
+  "__v": 0,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f6aff1bdff0fd3a7707cff9"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "userName": "Tahir",
+  "fullName": "Tahir Muhammad Saddam",
+  "email": "tahir@infosoftni.com",
+  "password": "$2a$10$TNk0zkl4k3wmbJZFvuxilOFHaMTxcR9JfNWW5wof7tzRTqY3ejDxq",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1991-01-28T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-09-23T07:54:03.397Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T10:33:47.465Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZjZhZmYxYmRmZjBmZDNhNzcwN2NmZjkiLCJpYXQiOjE2MDMzNjI4MjYsImV4cCI6MTYwMzQ0OTIyNn0.uDBpo0BCfUkR07BHl9QlbMKvPsIgExNMNJ9VnX0NWDY",
+  "deviceToken": "coouO7A1_Xw:APA91bGTQQWShWZzRwO7hDb_z3rF-_ztU0ekeq9wOuGJZh4FKfdAs6y1-iecCaSawCI4Om6-7f3dx7dFezQ6frvEnVY7oh8ybQAxYaZ77RM5gQ0YgaVtEdrqwk542Cf9hxvxKd3EdUuq",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f718e6cf9ffc97ff8a0fef8"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "userName": "ruchika1996",
+  "fullName": "ruchika pawar",
+  "email": "ruchikapawar@gmail.com",
+  "password": "$2a$10$elFjnzOBm4KY2nJP/R4hgOgYxfNLufwc.zH7zX3L4NPuB6VLn7EWC",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "createdAt": {
+    "$date": "2020-09-28T07:19:08.590Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T10:51:06.986Z"
+  },
+  "__v": 0,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f7db8e5f07df66552067d55"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "userName": "aiikay899",
+  "fullName": "Aii Kay",
+  "email": "scorpionfeastt@gmail.com",
+  "password": "$2a$10$SvStIrZSDvl/Ayw/6runcOzqQg8wtplIV3obKOpoaktxKyITt6U6y",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-10-07T12:47:33.255Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T12:47:33.255Z"
+  },
+  "__v": 0,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f7dba64f07df66552067d57"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "userName": "aiikay",
+  "fullName": "Aii Kay",
+  "email": "imran.khalil@onepixellab.com",
+  "password": "$2a$10$kITmTCsDggcTa6/UOP.LUORwZQwOfxO8HCK1cMT4gT4b3j8/o9LhG",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-10-07T12:53:56.312Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T12:53:56.312Z"
+  },
+  "__v": 0,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ec655f07df66552067d97"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "userName": "test098",
+  "fullName": "Sddes Sa",
+  "email": "test1234987@gmail.com",
+  "password": "$2a$10$lM5AwBx71/Q1iGIOnZsvoOVfTkM7SA.rjsWPWpKgmjfqbsARRdwJW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1997-10-08T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "createdAt": {
+    "$date": "2020-10-08T07:57:09.649Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T07:57:09.649Z"
+  },
+  "__v": 0,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ec6c2f07df66552067d98"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "userName": "priyanka",
+  "fullName": "Priyanka Priyanka",
+  "email": "priyanka.thummar9999@gmail.com",
+  "password": "$2a$10$Dbn4bgliPO.uShsCNneWGOCqwqIk7oifiuCjjChyynuzUMjIWdWCi",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-10-09T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 26,
+  "createdAt": {
+    "$date": "2020-10-08T07:58:58.845Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T09:54:59.853Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2020-10-13T09:54:59.851Z"
+    },
+    "initiated": true,
+    "token": "vi3AKaaWDxPDoK8bIXGQG0HshxSz64Y64vGhQ4U5ybN8o7vocB"
+  },
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f8438c7f07df66552067e8b"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "userName": "Priya",
+  "fullName": "Priya Priyanka Priya",
+  "email": "priyanka.thummar@cipherhex.com",
+  "password": "$2a$10$LVU4r127yiO8Eg137Vl.qe9V.zuRho37jAIZ7lkGj7NhJIXymcVsy",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 29,
+  "createdAt": {
+    "$date": "2020-10-12T11:06:47.088Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-10T13:13:51.873Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1Zjg0MzhjN2YwN2RmNjY1NTIwNjdlOGIiLCJpYXQiOjE2MDUwMTQwMzEsImV4cCI6MTYwNTEwMDQzMX0.hfJlPARTOGfz9eUXM1EmExXDa7B1M0W7fpY9rfbSBqI",
+  "deviceToken": "d0kjrEkDStM:APA91bGF6xvaYoY2VeFa4Sv0wVvstAcAlFm4Q_uXn6yY4spbsBNFkMYDSqbRfljxv1JCWU_sbQEy-MV94F52uYAusZnt0zyULC2uiWUjVl8v3b0hk3nx0fEcCLFfvCrwqX9AZTUvKd8U",
+  "banReason": "",
+  "isUserBanned": false,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f843b4af07df66552067e8c"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "userName": "Jeni",
+  "fullName": "Jeni Jeni Jeni",
+  "email": "jenisha.thummar@cipherhex.com",
+  "password": "$2a$10$sDMWqZZT0tF1TYrAlJ7Eo.6Kr8Sc95xFLPSFOliAHiBy7zeKbG9mi",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1997-10-12T00:00:00Z"
+  },
+  "gender": "Other",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "createdAt": {
+    "$date": "2020-10-12T11:17:30.863Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T13:47:20.184Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1Zjg0M2I0YWYwN2RmNjY1NTIwNjdlOGMiLCJpYXQiOjE2MDUyNzUyMzgsImV4cCI6MTYwNTM2MTYzOH0.7ii57H4q3fTcYW0DGQcllhKwWQJi6XjeQcwM34CFaPg",
+  "deviceToken": "eh3w61zIbh4:APA91bGBV7eVdgNh0pVWQ2ti-G1htpgK9yXMqqsW-Y5aQpM6_HHV6cwBzInTH2OoOzREIdXLwzGPvRN1gtm0nNoS6KfZHLdDUoo1v2TQNRrCH-VusHAkBtqhX9FmKQ7Te1mqzDrTTqn4",
+  "banReason": "",
+  "isUserBanned": false,
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5f95a691caaada1ca5aab913"
+  },
+  "registrationStatus": "verified",
+  "balance": 2990,
+  "userName": "testuser4",
+  "fullName": "Test User 4",
+  "email": "testuser4@mailinator.com",
+  "password": "$2a$10$Y8M8pm9LVgVzm4sdc7rXeuF0.7bNK2tSU3PPf3t3zNSNhCDJepyWu",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-06-09T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "userCurrency": "KES",
+  "createdAt": {
+    "$date": "2020-10-25T16:23:45.055Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-25T16:38:02.729Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1Zjk1YTY5MWNhYWFkYTFjYTVhYWI5MTMiLCJpYXQiOjE2MDM2NDMwOTQsImV4cCI6MTYwMzcyOTQ5NH0.UNznAAq4UnWkW3R2tvxepvAhfvZt6CFAR4iAEOYPcho",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5fa14225f2000f6ded37a3cb"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "userName": "MAMMB",
+  "fullName": "Akai Overdrive",
+  "email": "hayesbay@gmail.com",
+  "password": "$2a$10$ezUh4IyfkKG1Kuu84f3dWeBCcDFVdGnlqrNTL0c12rzT.LzxBltM.",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1997-11-03T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 23,
+  "userCurrency": "KES",
+  "createdAt": {
+    "$date": "2020-11-03T11:42:29.406Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-03T11:47:01.988Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZmExNDIyNWYyMDAwZjZkZWQzN2EzY2IiLCJpYXQiOjE2MDQ0MDQwMjEsImV4cCI6MTYwNDQ5MDQyMX0.wcwDFHa8UMToJb8sJMw4SZOa5dsUnue01YLIxn3flZo",
+  "deviceToken": "c5PkB4EruAs:APA91bHOZIQ4AMsLJvSBF1CWc_cfYVVk3FsrJgyEOal01YL0sroSRF54T0eYTV3_5WfTDo4YhBpmvkKg6BLzHX-pQpxu7qYUtlY0otbkO-8zCWkL4mWorucIRWKsRpk6Wzbg05xxoZrC",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  }
+},{
+  "_id": {
+    "$oid": "5fe031316c1732725fb6cc0e"
+  },
+  "registrationStatus": "verified",
+  "balance": 3996,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika96",
+  "fullName": "Ruchika Suresh Pawar",
+  "email": "ruchikapawar70@gmail.com",
+  "password": "$2a$10$5vBUTWYyI5qobZFTPnfz5uQ/1LbwzLhgOByolYyWQQwohpIoBUECW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "createdAt": {
+    "$date": "2020-12-21T05:22:57.583Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-09T14:02:30.876Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZmUwMzEzMTZjMTczMjcyNWZiNmNjMGUiLCJpYXQiOjE2MTg2NDI1NDUsImV4cCI6MTYxODcyODk0NX0.n11U5LZDX7aUMlX0CM5eBbtJGEGmwQuL6_myWNJh32M",
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2021-05-11T10:25:40.671Z"
+    },
+    "initiated": true,
+    "token": "VfnFq3xYDj6T9R5JVQy4qMY5PBXGpXfLA9eNfZsGwyiIMRc1fG"
+  },
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1ZmUwMzEzMTZjMTczMjcyNWZiNmNjMGUiLCJpYXQiOjE2MjU4Mzg3NTksImV4cCI6MTYyNTkyNTE1OX0.UYmjuwL4fKyZu8AH9TBeCOPI4pZydTgcU-zYmnI0I4w",
+  "deviceToken": "cBRiusCHiCs:APA91bGs41yRQwngZXrwm1ZAUUL3rkxPbYNg08vtcTIWiMDxW9YHHhsmZa9zMR2AdaMvEUIOVK6zLzAf6snTgS4B8PSaV3ZyBkj5UZBVCoLheCb_LqieO00ACvGkZrbvKf_9-GIF9cb4"
+},{
+  "_id": {
+    "$oid": "600a1ff4cf72a2661e4d069a"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "tesmid",
+  "fullName": "Tes Mid Last",
+  "email": "sam@mail.com",
+  "password": "$2a$10$PTKLtdleDcGTug3YS.sPQ.JkfwWFIwL2gbPE/k6/vV1I8Bgczi6S2",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-01-22T00:44:36.456Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-26T11:20:39.099Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2021-01-27T11:20:39.098Z"
+    },
+    "initiated": true,
+    "token": "7OMmMEhvmMn3kvYv6Y5urzOERbb1yDKvTYk7IAwBtDZ3UfLIzp"
+  }
+},{
+  "_id": {
+    "$oid": "600a225ccf72a2661e4d069c"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "sam1",
+  "fullName": "Sam Mid Last",
+  "email": "samm1@mail.com",
+  "password": "$2a$10$cCWklhScSIjhhJvM55fsWOwfqD9fxbszkTROJrKKI3XJucl9Azo1m",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1990-12-12T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 30,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-01-22T00:54:52.641Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T00:54:52.641Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a24fbcf72a2661e4d069e"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "sammy",
+  "fullName": "Sam Mid Last",
+  "email": "sam2@mail.com",
+  "password": "$2a$10$eb352LOkPUdYx2Uiinp4Qe6m3KeEzOVBimoevFwKZg5AFg19Ebdd6",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-2211753600000"
+    }
+  },
+  "gender": "m",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 121,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-01-22T01:06:03.112Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T01:06:03.112Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a28a3cf72a2661e4d06a1"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "sammy2",
+  "fullName": "sam imd last",
+  "email": "sammy5@mail.com",
+  "password": "$2a$10$oYekbOF1TaLL1cuxvfFtLumfSMohAZPXMY9bvA7AXAg9YOIkwGIDK",
+  "countryOfRecidence": "Tanzania",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-2077488000000"
+    }
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 116,
+  "userCurrency": "TZS",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-01-22T01:21:39.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T01:21:39.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017bdfabadd8406cccf37c9"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "tgtgtg",
+  "fullName": "sdfsdf fdgdgft",
+  "email": "wsdasd@mail.com",
+  "password": "$2a$10$hyCrrDse3vXoX68d/gbMu.LhK/MFJrW8iZsfb74JENlNLMgx0u6iy",
+  "countryOfRecidence": "Tanzania",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "TZS",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T08:38:18.527Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T08:38:18.527Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017c0ddbadd8406cccf37cb"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "dfdefdef",
+  "fullName": "sam sdff",
+  "email": "wqwsadw@mail.com",
+  "password": "$2a$10$ER8.zk4BRLra3VtAjFLdjOFSqpCEWvCgbkwhOilO3S5xoiQY762OW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T08:50:37.683Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T08:50:37.683Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017c215badd8406cccf37cc"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "fsdfsdf",
+  "fullName": "sammy dsdsd",
+  "email": "mail@mail.com",
+  "password": "$2a$10$wcvUtZJNM5XzivJuMl3D0unfoUZ6RY/hIGGgyIXwJ4t5Y408RlYk2",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T08:55:49.987Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T08:55:49.987Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017c2edbadd8406cccf37cd"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "awergergf",
+  "fullName": "wefefd efefef efefef",
+  "email": "dasdfsaw@mail.com",
+  "password": "$2a$10$uMmbkpU7O4Z87ruoJIq.h.TsR8FDuT9UTT18GyvLArcKhpJGOubIi",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T08:59:25.851Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T08:59:25.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017c543badd8406cccf37cf"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "sdfsdf",
+  "fullName": "aefasf sdgfsdfg sdfsdf",
+  "email": "ikan@mail.com",
+  "password": "$2a$10$nws0H6uZW8i4XDZZ3GrCoOFUQsTtr/4bP5WRZYfekrSbDA6/zDlmu",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T09:09:23.279Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T09:09:23.279Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017c614badd8406cccf37d0"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "fgdfgdfg",
+  "fullName": "fdgfdg fdgfd dfgfdg",
+  "email": "asdasd@mail.com",
+  "password": "$2a$10$/msT6vJZqsyuPUiArab.pudHZ.WK7uAKXCMR8Mu60bhEqVLqe/vQu",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T09:12:52.675Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T09:12:52.675Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017c65fbadd8406cccf37d2"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "dfgdfgfd",
+  "fullName": "gfgffdfgfdg dfgfdgfdg",
+  "email": "wqedawe@mail.com",
+  "password": "$2a$10$7T3ZEuX6vfc0DJ3bae92ROVBdsctS0FH8Z9zIhYZrAs321sw9wTxW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T09:14:07.850Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T09:14:07.850Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017cb69badd8406cccf37d9"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika151",
+  "fullName": "ruchika suresh pawar",
+  "email": "ruchikapawar15@gmail.com",
+  "password": "$2a$10$nEnA8MGvXp/PEaxSEGK0duOuYRAMCBjZSWQliUKgKjb0SzoQdHu/y",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T09:35:37.162Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T09:35:37.162Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017e511badd8406cccf37e7"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "werfeswfsdf",
+  "fullName": "ewsfsdf sdfsdf sdfsdfdsf",
+  "email": "ruchikapawa34r7@gmail.com",
+  "password": "$2a$10$dZzc4.ejIFhF3QrrF.h44.jFj0tItxt0hKorcgbbNTrxKRLiPjzHe",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-01T11:25:05.594Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T11:25:05.594Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601932ed6da1c27ee54d86a5"
+  },
+  "registrationStatus": "verified",
+  "balance": 997,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika15",
+  "fullName": "Ruchika Suresh Pawar",
+  "email": "ruchikapawar771@gmail.com",
+  "password": "$2a$10$.EbBF3qQJZba17o5ER1olel/6h1uWiCnuJq/begYq8WFqs2iIM3c.",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-02T11:09:33.910Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-03T12:53:26.462Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDE5MzJlZDZkYTFjMjdlZTU0ZDg2YTUiLCJpYXQiOjE2MTM3MDk5NjgsImV4cCI6MTYxMzc5NjM2OH0.wxiMDUxHuNHX7Cp1uBLUUknKu5qzT-m6Icuu8GmCEhY",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDE5MzJlZDZkYTFjMjdlZTU0ZDg2YTUiLCJpYXQiOjE2MjI3MjQ4MDYsImV4cCI6MTYyMjgxMTIwNn0.SeVA_rfPJUVc9chzemYuPsP4ZMe7MrVhWYCOhAHpYDI"
+},{
+  "_id": {
+    "$oid": "60193a076da1c27ee54d86a6"
+  },
+  "registrationStatus": "verified",
+  "balance": 1358.25,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika86",
+  "fullName": "Ruchika Suresh Pawar",
+  "email": "ruchika.pawar@jiweman.com",
+  "password": "$2a$10$gTJ1RdTam2Bg6TY4m9ti/eILoQPqiOpgbArjT0olPZlSCAN0P6jAa",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-02T11:39:51.767Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-06T10:58:39.594Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDE5M2EwNzZkYTFjMjdlZTU0ZDg2YTYiLCJpYXQiOjE2MTIzMzIwNjMsImV4cCI6MTYxMjQxODQ2M30.VEK9TI6YTLsj8JhOSoy_-kAo5nmeadHXdAnBZzb00os",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDE5M2EwNzZkYTFjMjdlZTU0ZDg2YTYiLCJpYXQiOjE2MjI5NzcxMTksImV4cCI6MTYyMzA2MzUxOX0.SwbKk17iwt4pXP6xZaYTEpGDPooVRcbCoO6MUffKhoc"
+},{
+  "_id": {
+    "$oid": "602a42b0e7b63d635c2d1643"
+  },
+  "registrationStatus": "verified",
+  "balance": 826.03,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "jogaBonito",
+  "fullName": "Ruchika Suresh Pawar",
+  "email": "dummy@gmail.com",
+  "password": "$2a$10$wT/lsPkuaV/9LmpzkpHR9.YhoT2fAMqVbo7jU3kGrZk0f1Q6fiZMy",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "2000-02-04T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 21,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "createdAt": {
+    "$date": "2021-02-15T09:45:20.666Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-21T05:19:39.517Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDJhNDJiMGU3YjYzZDYzNWMyZDE2NDMiLCJpYXQiOjE2MjY4NDQ3NzksImV4cCI6MTYyNjkzMTE3OX0.6wQ417kx8Pry5w3CJqwSBGj8CLb5x4ddxccwOIjofRE",
+  "deviceToken": "cBkhmJfdFaA:APA91bGERaNfuAHWULaMvLjh8Bo2jjliD3cva6bGyKnpjfv1XePSnnQBxa92FRb11Ht1KJOjg4NpuVqRxkQSL483ZHXVMlRuoofBVnC9F5HI5afabMyR_ZugB5ptbhAhr5XU-6p2r9lm",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDJhNDJiMGU3YjYzZDYzNWMyZDE2NDMiLCJpYXQiOjE2MTY0NTU0NjEsImV4cCI6MTYxNjU0MTg2MX0.1eb7webx4uY_P6Cww6xz4BmgGGcwW5mMIQVX2xJHfV0",
+  "referCode": "owxVYcGli"
+},{
+  "_id": {
+    "$oid": "602b46520a7f043a6a715e70"
+  },
+  "registrationStatus": "verified",
+  "balance": 5676575746.84,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "Samuel",
+  "fullName": "Ruchika Pawar",
+  "email": "dummy@yahoo.com",
+  "password": "$2a$10$hsbY9fBnl1eeucNcpTaj2uftrXJD0R7Ot5qtUrIcb6/I0mqAcTGL6",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "2000-03-03T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 20,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "createdAt": {
+    "$date": "2021-02-16T04:13:06.869Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-23T11:01:14.327Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDJiNDY1MjBhN2YwNDNhNmE3MTVlNzAiLCJpYXQiOjE2MjcwMzgwNzQsImV4cCI6MTYyNzEyNDQ3NH0.Q6mITWdJ3flPwpDYXzylnqDNtGmJpXw8XYK_cftVtws",
+  "deviceToken": "ehUvp1B13Ho:APA91bEwuFMnbCHQ1PC3cJm8wc9deZpW_8XsqQXyhb8YSJEUjYcmmSFlEuLTjnANcUbWnZZu9yWrqz1ESnJql6yvgrUhxdK3VsvA6xk7lQUH2cvfRV2fy9SWu33p5SKfPXLB8wNaKSxK",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDJiNDY1MjBhN2YwNDNhNmE3MTVlNzAiLCJpYXQiOjE2MTUyOTYwOTAsImV4cCI6MTYxNTM4MjQ5MH0.OmhZ0CpPeF8hgvcP_b4NwP9zwcV9l7zn7CM9k6-rpBM",
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2021-05-27T04:39:12.180Z"
+    },
+    "initiated": true,
+    "token": "hINM4X5Hh93B69L7psaov5NcW7KL9YK5w8ys6YdrEmWBbpeoMX"
+  }
+},{
+  "_id": {
+    "$oid": "602e18ae0a7f043a6a715ef9"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "sulaiman",
+  "fullName": "Sulaiman",
+  "email": "devsulaiman@jiweman.com",
+  "password": "$2a$10$vYhirKvl0OYLAaOsrSjLcO3s.BC4Xk1xlpcazQxAK9B8ue0lokVai",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 21,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-18T07:35:10.977Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-18T07:35:10.977Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602f986a0a7f043a6a715f34"
+  },
+  "registrationStatus": "verified",
+  "balance": 941.25,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "user1",
+  "fullName": "user1",
+  "email": "user1@jiweman.com",
+  "password": "$2a$10$mM7vnWEiQGwnzjaCovDZOur5/UZu8AA/ES6YhORQQGYsxQxPThGgK",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1992-11-23T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 28,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-02-19T10:52:26.199Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-25T06:54:02.487Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDJmOTg2YTBhN2YwNDNhNmE3MTVmMzQiLCJpYXQiOjE2MTM3MzI3NTUsImV4cCI6MTYxMzgxOTE1NX0.0kTOZgJozN3Y4y8rpD3XVJENsSpie3EUSnZF6eCjJYw",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDJmOTg2YTBhN2YwNDNhNmE3MTVmMzQiLCJpYXQiOjE2MjE5MjU2NDIsImV4cCI6MTYyMjAxMjA0Mn0.QZ_5BUIHozZFFMDhcKQLtBYUjX6uBZmB-5jTnlnAeEY"
+},{
+  "_id": {
+    "$oid": "6034ea1143421417964892c3"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "onki",
+  "fullName": "onkar suresh pawar",
+  "email": "yuvarajpawar559@gmail.com",
+  "password": "$2a$10$uflnmSmfx3.IEeEtQGFd1uDpnTMEBFnOeHWM6bfV7KG2ZrTsoh.EW",
+  "countryOfRecidence": "Uganda",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3813091200000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 171,
+  "userCurrency": "UGX",
+  "bettingCompanyId": {
+    "$oid": "601e431d2868a7579dbbc24e"
+  },
+  "createdAt": {
+    "$date": "2021-02-23T11:42:09.579Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-23T11:44:11.434Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDM0ZWExMTQzNDIxNDE3OTY0ODkyYzMiLCJpYXQiOjE2MTQwODA2NTEsImV4cCI6MTYxNDE2NzA1MX0.EQCJFj1cPkj1vO8z0-CBjplEF23tKka2rMc-QLj_Ke8"
+},{
+  "_id": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "registrationStatus": "verified",
+  "balance": 1447.09,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika1",
+  "fullName": "ruchika1",
+  "email": "ruchika1@jiweman.com",
+  "password": "$2a$10$aWdCzActkPmfBzaKO1Kiu.sTyX6ONvePo7GDxhzgKPGdYaCcXqsTC",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-12-03T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "createdAt": {
+    "$date": "2021-03-04T09:29:02.725Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-09T14:54:17.021Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDQwYTg1ZWU4MTU3NDIxNjliZDEwZGMiLCJpYXQiOjE2MjU4NDIyODIsImV4cCI6MTYyNTkyODY4Mn0.K67MkBXeiajgaKEaHWtdQzAhf-7DdKkaJDJrT7HRUW4",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDQwYTg1ZWU4MTU3NDIxNjliZDEwZGMiLCJpYXQiOjE2MjQzNTkwNzYsImV4cCI6MTYyNDQ0NTQ3Nn0.Cyn_x1jMOfL7lWH229GPIh2IzERpsSJy0o4ZSj_3Rvk",
+  "referCode": "BfP6kMmWr"
+},{
+  "_id": {
+    "$oid": "6040a871e815742169bd10dd"
+  },
+  "registrationStatus": "verified",
+  "balance": 821.9,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika2",
+  "fullName": "ruchika2",
+  "email": "ruchika2@jiweman.com",
+  "password": "$2a$10$0sxn6CuXlkqeIcBKAmuU9Ox6j22IxM9A5ctv9VONow43Icvp58uHC",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-12-03T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "createdAt": {
+    "$date": "2021-03-04T09:29:21.849Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-09T14:53:56.903Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDQwYTg3MWU4MTU3NDIxNjliZDEwZGQiLCJpYXQiOjE2MjU4NDIzMDMsImV4cCI6MTYyNTkyODcwM30.YxL453dcM3jv_bJRo8kcJh6VJ-9734YphgNllv_DGUo",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDQwYTg3MWU4MTU3NDIxNjliZDEwZGQiLCJpYXQiOjE2MjA4MjY2MDcsImV4cCI6MTYyMDkxMzAwN30.MV16oxdbHZyHOT1_Lh6zZQU6Pr0yjfBuCvAf7e9ySFI"
+},{
+  "_id": {
+    "$oid": "608188253dd1af3fb69cb238"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika3",
+  "fullName": "ruchika3",
+  "email": "ruchika3@jiweman.com",
+  "password": "$2a$10$ZY26XhUVev/AVoaqnMb6U.JI5fbQwyEqnl/iXlF6kwZOTWvfBiAGO",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1993-12-03T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-04-22T14:28:53.840Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-22T14:40:35.104Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDgxODgyNTNkZDFhZjNmYjY5Y2IyMzgiLCJpYXQiOjE2MTkxMDI0MzUsImV4cCI6MTYxOTE4ODgzNX0.-U_9mMhKAjC19rp6aOK3JUIGzP5Dygma4K8-spgDhgQ"
+},{
+  "_id": {
+    "$oid": "60869631cf76fa55a900b43a"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "obs1",
+  "fullName": "obs1",
+  "email": "accounts@jiweman.com",
+  "password": "$2a$10$H1I6lC9NziOmAAilys.zOevajw26TgsN.LsSSwBLNfTNytHWV.sw.",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "observer",
+  "age": 24,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-04-26T10:30:09.062Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-17T06:36:03.996Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MDg2OTYzMWNmNzZmYTU1YTkwMGI0M2EiLCJpYXQiOjE2MjM5MTE3NjMsImV4cCI6MTYyNjUwMzc2M30.MB-HTFkbPJOt5NdcnKYqfC6eS09YOZ94FQSrRVNYWl8"
+},{
+  "_id": {
+    "$oid": "608b5259c882447b7b5f9378"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "dev_gus_01",
+  "fullName": "dev gus 01",
+  "email": "gustavo@kkkkk.kkk.kk",
+  "password": "$2a$10$7/doheS0E3Lba/WYo.JhCOOxE8z2EhH0wVdn4dEX.XvnCbAMNQZ.i",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-189388800000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 57,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T00:42:01.457Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T00:42:01.457Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608b5302c882447b7b5f937a"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "dev_gus_02",
+  "fullName": "dev gus 02",
+  "email": "gustavo.boni@gmail.com",
+  "password": "$2a$10$TZH7n.DqotC6nER04Ir3vuWJBs.su1f1QXENLUTSLwEyah4Z1P2NC",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-189388800000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 57,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-04-30T00:44:50.815Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-30T00:45:24.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6092952355ad976d3ed6783c"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika1508",
+  "fullName": "Ruchika S Pawar",
+  "email": "xyz@gmail.com",
+  "password": "$2a$10$qbgmHsSaP3AyG17d8qiGDuL/BNWvD2TKf500/UqrJ5fUI8HjU4cyy",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1997-03-08T00:00:00Z"
+  },
+  "gender": "Female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-05-05T12:52:51.410Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-05T12:52:51.410Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6092aafc55ad976d3ed6785b"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "k",
+  "fullName": "j u",
+  "email": "pawar7@gmail.com",
+  "password": "$2a$10$WIJYEGwbsosBCZSsW0sJqe7qGDDa9sTF9PqsxaAInVGurvKj8paca",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-05-05T14:26:04.061Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-05T14:26:04.061Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6f27d67d57d67e4e2cbc4"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "dgdfg",
+  "fullName": "drgdfg dfgdfg",
+  "email": "dfgdfgdfg@mail.com",
+  "password": "$2a$10$eYS8H4blupTjkd8Kf9nI6e.Fxt9D2.JljMkVWTeoUTsdMVoM3l5dm",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-05-20T23:36:29.503Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-20T23:36:29.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6f33767d57d67e4e2cbc5"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "quincy",
+  "fullName": "Quinn Sie",
+  "email": "quinn@gmail.com",
+  "password": "$2a$10$s.x84rHYex46YVLXBu1Qle2Jp7HORCWsTyz7uvVG9hJHn5Fd2Ew6K",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-05-20T23:39:35.078Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-20T23:39:35.078Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a735cd67d57d67e4e2cbda"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "boenix",
+  "fullName": "Boenix Imut",
+  "email": "say.me.marvelous@gmail.com",
+  "password": "$2a$10$OvbZpDze6B5aPxaOyYXTeOdeJ3yopzt0eFDAj2y0qK4JaUWC2U8bW",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-05-21T04:23:41.961Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-21T04:24:41.704Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a74e0167d57d67e4e2cbe8"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ajinkya123",
+  "fullName": "Aaron_test Reed",
+  "email": "ajinkyaadivekar@gmail.com",
+  "password": "$2a$10$5lls7xrRE6vBc0A2B8fLbOtdCqGbeZadCOOLF1je1btNH28n1BIA.",
+  "countryOfRecidence": "Ghana",
+  "dateOfBirth": {
+    "$date": "1994-02-24T00:00:00Z"
+  },
+  "gender": "male",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 27,
+  "userCurrency": "GHS",
+  "bettingCompanyId": {
+    "$oid": "607d052c3323e87ad86278ef"
+  },
+  "createdAt": {
+    "$date": "2021-05-21T06:06:57.065Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-21T06:14:17.072Z"
+  },
+  "__v": 0,
+  "roleName": "player",
+  "webToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2MGE3NGUwMTY3ZDU3ZDY3ZTRlMmNiZTgiLCJpYXQiOjE2MjE1Nzc2NTcsImV4cCI6MTYyMTY2NDA1N30.vVKzRmKCMOFIXYjxDvKIuCoNYJWtyG2bj3X0X-sR7sY"
+},{
+  "_id": {
+    "$oid": "60a77046ea866e2108f055d1"
+  },
+  "registrationStatus": "verified",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "ruchika.pawar",
+  "fullName": "ruchika",
+  "email": "ruchikapawar7@gmail.com",
+  "password": "$2a$10$lu.tznu6N1Fog9iocAZKBu.ZskSmiadCiUERfkUMgwbrIDEYPis1q",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": "1996-08-15T00:00:00Z"
+  },
+  "gender": "female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 24,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-05-21T08:33:10.243Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-28T11:38:40.985Z"
+  },
+  "__v": 0,
+  "resetPassword": {
+    "expiresOn": {
+      "$date": "2021-06-29T11:38:00.348Z"
+    },
+    "initiated": false,
+    "token": null
+  }
+},{
+  "_id": {
+    "$oid": "60acfded2ab453312556c101"
+  },
+  "registrationStatus": "pending",
+  "balance": 0,
+  "isUserBanned": false,
+  "banReason": "",
+  "warnCount": 0,
+  "warnReasons": [],
+  "userName": "acp",
+  "fullName": "r p",
+  "email": "sonalipawar0402w@gmail.com",
+  "password": "$2a$10$l2oto4EZ1amW7es2I.f9Ee4Aq7ck9KaQY63othpyc6SaMD63hQNO2",
+  "countryOfRecidence": "Kenya",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-3944592000000"
+    }
+  },
+  "gender": "Female",
+  "roleId": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "accountType": "normal",
+  "age": 176,
+  "userCurrency": "KES",
+  "bettingCompanyId": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "createdAt": {
+    "$date": "2021-05-25T13:38:53.882Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-25T13:38:53.882Z"
+  },
+  "__v": 0
+}]

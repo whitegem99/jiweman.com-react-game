@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "60fac7f7c59cf35f90fd789b"
+  },
+  "totalMatches": 5163,
+  "totalGoals": 3452,
+  "macthesCount": {
+    "3": 3,
+    "leagueGamePlay": 926,
+    "oneonone": 3208,
+    "playWithFriends": 119,
+    "onenone": 12,
+    "oneononeBet": 817,
+    "pwf": 78
+  },
+  "totalTimeSpent": 16752,
+  "femaleTimeSpent": 18990,
+  "maleTimeSpent": 8086,
+  "18-21": 11822,
+  "22-25": 4562,
+  "26+": 12440,
+  "onGoingLeagues": 0,
+  "totalPlayersOnboarded": 178,
+  "statsByGender": {
+    "undefined": 29,
+    "male": 101,
+    "female": 28,
+    "Other": 1,
+    "m": 1,
+    "Male": 14,
+    "Female": 4
+  },
+  "statsByCountry": {
+    "undefined": 30,
+    "Kenya": 100,
+    "India": 30,
+    "UK": 1,
+    "kenya": 1,
+    "USA": 2,
+    "Uganda": 4,
+    "Antarctica": 2,
+    "Angola": 1,
+    "United States of America": 1,
+    "France": 1,
+    "Paraguay": 1,
+    "Australia": 1,
+    "Tanzania": 2,
+    "Ghana": 1
+  },
+  "agewise": {
+    "18-21": 35,
+    "22-25": 29,
+    "26+": 109
+  },
+  "downloads": 79,
+  "createdAt": {
+    "$date": "2021-07-23T13:45:27.457Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-23T13:45:27.457Z"
+  },
+  "__v": 0
+}]

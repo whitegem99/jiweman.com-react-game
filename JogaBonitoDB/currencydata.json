@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "6055773f365765e16b55deab"
+  },
+  "id": 10,
+  "name": "Burundi Franc",
+  "code": "BIF",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 1961
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55deac"
+  },
+  "id": 9,
+  "name": "Malawian Kwacha",
+  "code": "MWK",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 787.49
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55dead"
+  },
+  "id": 8,
+  "name": "Zambian Kwacha",
+  "code": "ZMW",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 22.03
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55deae"
+  },
+  "id": 7,
+  "name": "Rwandan Francs",
+  "code": "RWF",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 975
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55deaf"
+  },
+  "id": 6,
+  "name": "Tanzania Shillings",
+  "code": "TZS",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 2319
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55deb0"
+  },
+  "id": 5,
+  "name": "Ghanaian Cedi",
+  "code": "GHS",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 5.75
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55deb1"
+  },
+  "id": 4,
+  "name": "Beyonic Test Currency",
+  "code": "BXC",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 0.5
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55deb2"
+  },
+  "id": 3,
+  "name": "Kenya Shillings",
+  "code": "KES",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 109.85
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55deb3"
+  },
+  "id": 2,
+  "name": "Uganda Shillings",
+  "code": "UGX",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 3666
+},{
+  "_id": {
+    "$oid": "6055773f365765e16b55deb4"
+  },
+  "id": 1,
+  "name": "US Dollars",
+  "code": "USD",
+  "country": [
+    {
+      "$code": "function Object() {\n    [native code]\n}"
+    }
+  ],
+  "usd_rate": 1
+}]

@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5de491657f36f0b5ccdc3854"
+  },
+  "roleName": "bettingCompanyAdmin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.533Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.763Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de491657f36f0b5ccdc3855"
+  },
+  "roleName": "Admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.533Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.763Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de491657f36f0b5ccdc3856"
+  },
+  "roleName": "superAdmin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.531Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.762Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de491657f36f0b5ccdc3858"
+  },
+  "roleName": "player",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2019-12-02T04:21:57.533Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-18T17:05:18.763Z"
+  }
+}]

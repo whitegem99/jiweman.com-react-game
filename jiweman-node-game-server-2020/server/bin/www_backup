@@ -1,0 +1,168 @@
+#!/usr/bin/env node
+
+
+/*
+* --------------------------------------------------------------------------
+* Created by Barquecon Technologies on 12/03/2019 by Dipak Adsul
+* ---------------------------------------------------------------------------
+*/
+/**
+ * Module dependencies.
+ */
+
+var app = require('../app');
+var debug = require('debug')('server:server');
+var https = require('http');
+let config = require('../config');
+var sockets = require('../apis/common/sockets');
+var passport = require('passport');
+var Strategy = require('passport-facebook').Strategy;
+
+const fs = require('fs');
+
+const httpsOptions = {
+    key: fs.readFileSync('server.key'),
+    cert: fs.readFileSync('server.crt')
+//   key: fs.readFileSync('/etc/letsencrypt/live/jiweman.com/privkey.pem'),
+ //  cert: fs.readFileSync('/etc/letsencrypt/live/jiweman.com/fullchain.pem')
+ }
+
+// Configure the Facebook strategy for use by Passport.
+//
+// OAuth 2.0-based strategies require a `verify` function which receives the
+// credential (`accessToken`) for accessing the Facebook API on the user's
+// behalf, along with the user's profile.  The function must invoke `cb`
+// with a user object, which will be set at `req.user` in route handlers after
+// authentication.
+passport.use(new Strategy({
+  // clientID: process.env['FACEBOOK_CLIENT_ID'],
+  // clientSecret: process.env['FACEBOOK_CLIENT_SECRET'],
+// clientID: '330458494316586',
+clientID: '892621001073012',
+//clientSecret: 'f938b5ac1d94aded9066735d9f2710e3',
+clientSecret: '99b262d91b4b3f7ead79baa5a8f39d39',
+  callbackURL: 'https://localhost:3000/profile'
+},
+function(accessToken, refreshToken, profile, cb) {
+  // In this example, the user's Facebook profile is supplied as the user
+  // record.  In a production-quality application, the Facebook profile should
+  // be associated with a user record in the application's database, which
+  // allows for account linking and authentication with other identity
+  // providers.
+  console.log('here')
+  return cb(null, profile);
+}));
+
+
+// Configure Passport authenticated session persistence.
+//
+// In order to restore authentication state across HTTP requests, Passport needs
+// to serialize users into and deserialize users out of the session.  In a
+// production-quality application, this would typically be as simple as
+// supplying the user ID when serializing, and querying the user record by ID
+// from the database when deserializing.  However, due to the fact that this
+// example does not have a database, the complete Facebook profile is serialized
+// and deserialized.
+passport.serializeUser(function(user, cb) {
+cb(null, user);
+});
+
+passport.deserializeUser(function(obj, cb) {
+cb(null, obj);
+});
+
+/**
+ * Get port from environment and store in Express.
+ */
+
+//var port = normalizePort(process.env.PORT || '3000');
+app.set('env', config.NODE_ENV);
+app.set('port', process.env.PORT || 3000);
+
+/**
+ * Create HTTP server.
+ */
+
+var server = https.createServer(httpsOptions,app);
+var http = require('https').Server(app);
+
+
+/**
+ * Listen on provided port, on all network interfaces.
+ */
+
+server.listen( app.get('port'), '0.0.0.0', () => {
+  console.log('Server is up and running on port number '+ app.get('port'));
+});
+
+
+sockets.init(server);
+
+
+// server.on('error', onError);
+// server.on('listening', onListening);
+
+
+// io.on('connection', () =>{
+//   console.log('a user is connected');
+//  })
+
+/**
+ * Normalize a port into a number, string, or false.
+ */
+
+function normalizePort(val) {
+  var port = parseInt(val, 10);
+
+  if (isNaN(port)) {
+    // named pipe
+    return val;
+  }
+
+  if (port >= 0) {
+    // port number
+    return port;
+  }
+
+  return false;
+}
+
+/**
+ * Event listener for HTTP server "error" event.
+ */
+
+function onError(error) {
+  if (error.syscall !== 'listen') {
+    throw error;
+  }
+
+  var bind = typeof port === 'string'
+    ? 'Pipe ' + port
+    : 'Port ' + config.PORT;
+
+  // handle specific listen errors with friendly messages
+  switch (error.code) {
+    case 'EACCES':
+      console.error(bind + ' requires elevated privileges');
+      process.exit(1);
+      break;
+    case 'EADDRINUSE':
+      console.error(bind + ' is already in use');
+      process.exit(1);
+      break;
+    default:
+      throw error;
+  }
+}
+
+/**
+ * Event listener for HTTP server "listening" event.
+ */
+
+function onListening() {
+  var addr = server.address();
+  var bind = typeof addr === 'string'
+    ? 'pipe ' + addr
+    : 'port ' + config.PORT;
+  debug('Listening on ' + bind);
+}

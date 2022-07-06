@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5f1a1d864196ad5533e8fc09"
+  },
+  "appLink": "https://dev.jiweman.com/uploads/apk/jogabonitobuild.apk",
+  "appVersion": 1.5,
+  "supportedVersion": 1.4,
+  "createdAt": {
+    "$date": "2020-07-23T23:30:14.698Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-23T23:30:24.241Z"
+  },
+  "__v": 0
+}]

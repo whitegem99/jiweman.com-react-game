@@ -1,0 +1,4945 @@
+[{
+  "_id": {
+    "$oid": "5f6a0e33dff0fd3a7707cfce"
+  },
+  "apiResponse": {
+    "id": 14493821,
+    "organization": 14220,
+    "amount": "220.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "Ruchika",
+      "last_name": "Pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-09-09T16:30:41Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "200"
+    },
+    "created": "2020-09-22T14:46:10.801600Z",
+    "author": 18502,
+    "modified": "2020-09-22T14:46:10.801885Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-22 14:46:10.770937+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-23 14:46:10.770854+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8143895,
+      "created": "2020-09-22T14:46:11.029217Z",
+      "modified": "2020-09-22T14:46:11.029276Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14493821,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "instructions_sent",
+  "collectionId": 14493821,
+  "userId": {
+    "$oid": "5f4f9acc323619313c4a6462"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6a0e33dff0fd3a7707cfcd"
+  },
+  "createdAt": {
+    "$date": "2020-09-22T14:46:11.102Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-22T14:47:23.422Z"
+  },
+  "__v": 0,
+  "amount": "220.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f6a15cadff0fd3a7707cfd1"
+  },
+  "apiResponse": {
+    "id": 14495604,
+    "organization": 14220,
+    "amount": "220.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "Ruchika",
+      "last_name": "Pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-09-09T16:30:41Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "200"
+    },
+    "created": "2020-09-22T15:18:34.461746Z",
+    "author": 18502,
+    "modified": "2020-09-22T15:18:34.461809Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-22 15:18:34.430330+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-23 15:18:34.430284+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8145679,
+      "created": "2020-09-22T15:18:34.671493Z",
+      "modified": "2020-09-22T15:18:34.671560Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14495604,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 14495604,
+  "userId": {
+    "$oid": "5f4f9bc8323619313c4a6463"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6a15cadff0fd3a7707cfd0"
+  },
+  "createdAt": {
+    "$date": "2020-09-22T15:18:34.737Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-22T15:19:57.033Z"
+  },
+  "__v": 0,
+  "amount": "220.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f6a1760dff0fd3a7707cfd3"
+  },
+  "apiResponse": {
+    "id": 14495963,
+    "organization": 14220,
+    "amount": "220.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "Ruchika",
+      "last_name": "Pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-09-09T16:30:41Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "200"
+    },
+    "created": "2020-09-22T15:25:20.234969Z",
+    "author": 18502,
+    "modified": "2020-09-22T15:25:20.235029Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-22 15:25:20.206888+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-23 15:25:20.206832+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8146038,
+      "created": "2020-09-22T15:25:20.415335Z",
+      "modified": "2020-09-22T15:25:20.415393Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14495963,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 14495963,
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6a1760dff0fd3a7707cfd2"
+  },
+  "createdAt": {
+    "$date": "2020-09-22T15:25:20.498Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-22T15:26:10.991Z"
+  },
+  "__v": 0,
+  "amount": "220.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f6a1a57dff0fd3a7707cfd5"
+  },
+  "apiResponse": {
+    "id": 14496686,
+    "organization": 14220,
+    "amount": "220.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "Ruchika",
+      "last_name": "Pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-09-09T16:30:41Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "200"
+    },
+    "created": "2020-09-22T15:37:57.161783Z",
+    "author": 18502,
+    "modified": "2020-09-22T15:37:57.161852Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-22 15:37:57.134172+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-23 15:37:57.134126+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8146761,
+      "created": "2020-09-22T15:37:57.361322Z",
+      "modified": "2020-09-22T15:37:57.361384Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14496686,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 14496686,
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6a1a57dff0fd3a7707cfd4"
+  },
+  "createdAt": {
+    "$date": "2020-09-22T15:37:59.403Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-22T15:38:37.086Z"
+  },
+  "__v": 0,
+  "amount": "220.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f6a1c5bdff0fd3a7707cfd8"
+  },
+  "apiResponse": {
+    "id": 14497178,
+    "organization": 14220,
+    "amount": "220.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "Ruchika",
+      "last_name": "Pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-09-09T16:30:41Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "200"
+    },
+    "created": "2020-09-22T15:46:35.186747Z",
+    "author": 18502,
+    "modified": "2020-09-22T15:46:35.186816Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-22 15:46:35.152559+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-23 15:46:35.152514+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8147253,
+      "created": "2020-09-22T15:46:35.414790Z",
+      "modified": "2020-09-22T15:46:35.414850Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14497178,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 14497178,
+  "userId": {
+    "$oid": "5ed7665fc6a172520171b8bd"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6a1c5bdff0fd3a7707cfd7"
+  },
+  "createdAt": {
+    "$date": "2020-09-22T15:46:35.475Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-22T15:46:50.676Z"
+  },
+  "__v": 0,
+  "amount": "220.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f6b1decdff0fd3a7707d000"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-09-23T10:05:32.946Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-23T10:05:32.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b2634dff0fd3a7707d002"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-09-23T10:40:52.919Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-23T10:40:52.919Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b29b9dff0fd3a7707d00a"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-09-23T10:55:53.375Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-23T10:55:53.375Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b2a88dff0fd3a7707d00c"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-09-23T10:59:20.418Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-23T10:59:20.418Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b41dedff0fd3a7707d01a"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-09-23T12:38:55.006Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-23T12:38:55.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b42a3dff0fd3a7707d01c"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f448f4685a7a649230ed738"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-09-23T12:42:11.975Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-23T12:42:11.975Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b5473dff0fd3a7707d027"
+  },
+  "apiResponse": {
+    "id": 14534990,
+    "organization": 14220,
+    "amount": "240.5000",
+    "currency": "KES",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-09-14T18:53:34Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "220"
+    },
+    "created": "2020-09-23T13:58:11.492179Z",
+    "author": 18502,
+    "modified": "2020-09-23T13:58:11.492237Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-23 13:58:11.457255+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-24 13:58:11.457212+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8185109,
+      "created": "2020-09-23T13:58:11.695252Z",
+      "modified": "2020-09-23T13:58:11.695314Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14534990,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "expired",
+  "collectionId": 14534990,
+  "userId": {
+    "$oid": "5edc89f8cf83a1307ad43031"
+  },
+  "phoneNumber": "80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6b5473dff0fd3a7707d026"
+  },
+  "createdAt": {
+    "$date": "2020-09-23T13:58:11.755Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-24T13:58:30.365Z"
+  },
+  "__v": 0,
+  "amount": "240.5000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f6b5aac5712e268685dc7b6"
+  },
+  "apiResponse": {
+    "id": 14536380,
+    "organization": 14220,
+    "amount": "207.0000",
+    "currency": "KES",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-09-14T18:53:34Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "200"
+    },
+    "created": "2020-09-23T14:24:44.533497Z",
+    "author": 18502,
+    "modified": "2020-09-23T14:24:44.533554Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-23 14:24:44.503449+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-24 14:24:44.503391+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8186504,
+      "created": "2020-09-23T14:24:44.740254Z",
+      "modified": "2020-09-23T14:24:44.740310Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14536380,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "expired",
+  "collectionId": 14536380,
+  "userId": {
+    "$oid": "5edc89f8cf83a1307ad43031"
+  },
+  "phoneNumber": "80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6b5aac5712e268685dc7b5"
+  },
+  "createdAt": {
+    "$date": "2020-09-23T14:24:44.821Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-24T14:26:59.980Z"
+  },
+  "__v": 0,
+  "amount": "207.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f6f1790d9429535734f8985"
+  },
+  "apiResponse": {
+    "id": 14678376,
+    "organization": 14220,
+    "amount": "1341.0000",
+    "currency": "BXC",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-09-14T18:53:34Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "1300"
+    },
+    "created": "2020-09-26T10:27:28.426879Z",
+    "author": 18502,
+    "modified": "2020-09-26T10:27:28.426937Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-26 10:27:28.376613+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-27 10:27:28.376565+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8328659,
+      "created": "2020-09-26T10:27:28.631354Z",
+      "modified": "2020-09-26T10:27:28.631419Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14678376,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 14678376,
+  "userId": {
+    "$oid": "5e54be487280153b30a7ffc2"
+  },
+  "phoneNumber": "+80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6f1790d9429535734f8984"
+  },
+  "createdAt": {
+    "$date": "2020-09-26T10:27:28.705Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-26T10:27:48.553Z"
+  },
+  "__v": 0,
+  "amount": "1341.0000",
+  "currency": "BXC"
+},{
+  "_id": {
+    "$oid": "5f6f1820d9429535734f8987"
+  },
+  "apiResponse": {
+    "id": 14678630,
+    "organization": 14220,
+    "amount": "1341.0000",
+    "currency": "BXC",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-09-26T10:27:38Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "1300"
+    },
+    "created": "2020-09-26T10:29:51.896540Z",
+    "author": 18502,
+    "modified": "2020-09-26T10:29:51.896594Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-26 10:29:51.852490+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-27 10:29:51.852446+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8328913,
+      "created": "2020-09-26T10:29:52.101507Z",
+      "modified": "2020-09-26T10:29:52.101648Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14678630,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 14678630,
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "phoneNumber": "+80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6f1820d9429535734f8986"
+  },
+  "createdAt": {
+    "$date": "2020-09-26T10:29:52.157Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-26T10:32:19.178Z"
+  },
+  "__v": 0,
+  "amount": "1341.0000",
+  "currency": "BXC"
+},{
+  "_id": {
+    "$oid": "5f6f40e87967c93b178f67e7"
+  },
+  "apiResponse": {
+    "phonenumber": [
+      "['Phonenumber +979879879879 can not be processed by any handler']"
+    ]
+  },
+  "userId": {
+    "$oid": "5edc89f8cf83a1307ad43031"
+  },
+  "phoneNumber": "979879879879",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6f40e77967c93b178f67e6"
+  },
+  "createdAt": {
+    "$date": "2020-09-26T13:23:52.003Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-26T13:23:52.003Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f412c7967c93b178f67e9"
+  },
+  "apiResponse": {
+    "id": 14692210,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+80000000001",
+    "contact": {
+      "id": 5578527,
+      "organization": 14220,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": null,
+      "phone_number": "+80000000001",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "John Doe",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 100,
+      "network_name": "",
+      "created": "2020-06-06T08:24:17Z",
+      "author": 18502,
+      "modified": "2020-06-06T08:24:20Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-09-26T13:25:00.027212Z",
+    "author": 18502,
+    "modified": "2020-09-26T13:25:00.027262Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-26 13:25:00.000555+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-27 13:25:00.000501+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8342518,
+      "created": "2020-09-26T13:25:00.233277Z",
+      "modified": "2020-09-26T13:25:00.233322Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14692210,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "expired",
+  "collectionId": 14692210,
+  "userId": {
+    "$oid": "5edc89f8cf83a1307ad43031"
+  },
+  "phoneNumber": "80000000001",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f6f412c7967c93b178f67e8"
+  },
+  "createdAt": {
+    "$date": "2020-09-26T13:25:00.293Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-27T13:25:59.974Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f71ee3ff9ffc97ff8a0ff13"
+  },
+  "apiResponse": {
+    "id": 14806934,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "Ruchika",
+      "last_name": "Pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-09-09T16:30:41Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-09-28T14:07:59.311104Z",
+    "author": 18502,
+    "modified": "2020-09-28T14:07:59.311166Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-28 14:07:59.285108+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-09-29 14:07:59.285062+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8457390,
+      "created": "2020-09-28T14:07:59.489982Z",
+      "modified": "2020-09-28T14:07:59.490056Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14806934,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "instructions_sent",
+  "collectionId": 14806934,
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f71ee3ff9ffc97ff8a0ff12"
+  },
+  "createdAt": {
+    "$date": "2020-09-28T14:07:59.559Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T14:10:02.379Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f743ba135e9a616dc78ea15"
+  },
+  "apiResponse": {
+    "id": 14882984,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-09-26T14:57:01Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-09-30T08:02:41.498007Z",
+    "author": 18502,
+    "modified": "2020-09-30T08:02:41.498073Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-30 08:02:41.456714+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-10-01 08:02:41.456538+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8540561,
+      "created": "2020-09-30T08:02:41.724694Z",
+      "modified": "2020-09-30T08:02:41.724768Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14882984,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "expired",
+  "collectionId": 14882984,
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f743ba135e9a616dc78ea14"
+  },
+  "createdAt": {
+    "$date": "2020-09-30T08:02:41.847Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T08:03:03.764Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f74598435e9a616dc78ea1c"
+  },
+  "apiResponse": {
+    "id": 14888599,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-09-26T14:57:01Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-09-30T10:10:12.026254Z",
+    "author": 18502,
+    "modified": "2020-09-30T10:10:12.026320Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-30 10:10:12.002173+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-10-01 10:10:12.002109+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8546185,
+      "created": "2020-09-30T10:10:12.222234Z",
+      "modified": "2020-09-30T10:10:12.222296Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14888599,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "expired",
+  "collectionId": 14888599,
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f74598435e9a616dc78ea1b"
+  },
+  "createdAt": {
+    "$date": "2020-09-30T10:10:12.281Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:12:58.045Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f74723e35e9a616dc78ea21"
+  },
+  "apiResponse": {
+    "id": 14893320,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-09-26T14:57:01Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-09-30T11:55:41.854916Z",
+    "author": 18502,
+    "modified": "2020-09-30T11:55:41.854962Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-09-30 11:55:41.833292+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-10-01 11:55:41.833249+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8550911,
+      "created": "2020-09-30T11:55:42.019769Z",
+      "modified": "2020-09-30T11:55:42.019816Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 14893320,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "expired",
+  "collectionId": 14893320,
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f74723e35e9a616dc78ea20"
+  },
+  "createdAt": {
+    "$date": "2020-09-30T11:55:42.079Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:59:11.088Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f7651b235e9a616dc78ea76"
+  },
+  "userId": {
+    "$oid": "5ef3cbce10c6f7082919285f"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f75784035e9a616dc78ea55"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-01T22:01:22.011Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:01:22.011Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f78639aa5c16f4039640147"
+  },
+  "apiResponse": {
+    "id": 15054701,
+    "organization": 14220,
+    "amount": "1341.0000",
+    "currency": "BXC",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-09-26T14:57:01Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "1300"
+    },
+    "created": "2020-10-03T11:42:18.288898Z",
+    "author": 18502,
+    "modified": "2020-10-03T11:42:18.288953Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-10-03 11:42:18.231560+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-10-04 11:42:18.231514+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 8712506,
+      "created": "2020-10-03T11:42:18.489987Z",
+      "modified": "2020-10-03T11:42:18.490048Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 15054701,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 15054701,
+  "userId": {
+    "$oid": "5e54be487280153b30a7ffc2"
+  },
+  "phoneNumber": "+80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f78639aa5c16f4039640146"
+  },
+  "createdAt": {
+    "$date": "2020-10-03T11:42:18.556Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-03T11:46:28.822Z"
+  },
+  "__v": 0,
+  "amount": "1341.0000",
+  "currency": "BXC"
+},{
+  "_id": {
+    "$oid": "5f7b1ccaf07df66552067c13"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f7738ec35e9a616dc78eabd"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-05T13:16:58.069Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-05T13:16:58.069Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7b1da4f07df66552067c15"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f7738ec35e9a616dc78eabd"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-05T13:20:36.639Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-05T13:20:36.639Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7b1dfcf07df66552067c1a"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f7738ec35e9a616dc78eabd"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-05T13:22:04.137Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-05T13:22:04.137Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7b1e04f07df66552067c1c"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f7738ec35e9a616dc78eabd"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-05T13:22:12.264Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-05T13:22:12.264Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f859431caa464299b8e32c9"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f857c3bcaa464299b8e32c5"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-13T11:49:05.085Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T11:49:05.085Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f859485caa464299b8e32cb"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f857c3bcaa464299b8e32c5"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-13T11:50:29.969Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T11:50:29.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8594ffcaa464299b8e32d0"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f857c3bcaa464299b8e32c5"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-13T11:52:31.680Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T11:52:31.680Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f859538caa464299b8e32d2"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f857c3bcaa464299b8e32c5"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-13T11:53:28.789Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T11:53:28.789Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85c01f35ae8f7580545423"
+  },
+  "apiResponse": {
+    "phonenumber": [
+      "['Phonenumber +25479507606 can not be processed by any handler']"
+    ]
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "25479507606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f85c01f35ae8f7580545422"
+  },
+  "createdAt": {
+    "$date": "2020-10-13T14:56:31.314Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T14:56:31.314Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85c20e35ae8f7580545426"
+  },
+  "apiResponse": {
+    "id": 15515925,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "ruchika",
+      "last_name": "pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-10-07T16:25:24Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-10-13T15:04:46.558344Z",
+    "author": 18502,
+    "modified": "2020-10-13T15:04:46.558403Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-10-13 15:04:46.534873+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-10-14 15:04:46.534826+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 9174459,
+      "created": "2020-10-13T15:04:46.761243Z",
+      "modified": "2020-10-13T15:04:46.761308Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 15515925,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 15515925,
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f85c20e35ae8f7580545425"
+  },
+  "createdAt": {
+    "$date": "2020-10-13T15:04:46.828Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T15:05:37.788Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f85c5e035ae8f7580545428"
+  },
+  "apiResponse": {
+    "id": 15516951,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "ruchika",
+      "last_name": "pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-10-07T16:25:24Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-10-13T15:21:04.452838Z",
+    "author": 18502,
+    "modified": "2020-10-13T15:21:04.452895Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-10-13 15:21:04.430551+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-10-14 15:21:04.430498+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 9175486,
+      "created": "2020-10-13T15:21:04.643247Z",
+      "modified": "2020-10-13T15:21:04.643295Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 15516951,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "instructions_sent",
+  "collectionId": 15516951,
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f85c5e035ae8f7580545427"
+  },
+  "createdAt": {
+    "$date": "2020-10-13T15:21:04.697Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T15:29:16.680Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f85c7af35ae8f758054542a"
+  },
+  "apiResponse": {
+    "id": 15517494,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "ruchika",
+      "last_name": "pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-10-07T16:25:24Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-10-13T15:28:47.000672Z",
+    "author": 18502,
+    "modified": "2020-10-13T15:28:47.000731Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-10-13 15:28:46.976525+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-10-14 15:28:46.976467+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 9176029,
+      "created": "2020-10-13T15:28:47.208831Z",
+      "modified": "2020-10-13T15:28:47.208890Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 15517494,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 15517494,
+  "userId": {
+    "$oid": "5f2fe6253eab8f299a7149d6"
+  },
+  "phoneNumber": "254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f85c7af35ae8f7580545429"
+  },
+  "createdAt": {
+    "$date": "2020-10-13T15:28:47.265Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T15:30:16.462Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f85cc2235ae8f758054542d"
+  },
+  "apiResponse": {
+    "id": 15518747,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+254795078606",
+    "contact": {
+      "id": 5642536,
+      "organization": 14220,
+      "first_name": "ruchika",
+      "last_name": "pawar",
+      "email": null,
+      "phone_number": "+254795078606",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "not_supported",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "not_supported",
+      "name_matches_network_score": 39,
+      "network_name": "Safaricom",
+      "created": "2020-06-21T16:57:58Z",
+      "author": 18502,
+      "modified": "2020-10-07T16:25:24Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-10-13T15:47:46.032918Z",
+    "author": 18502,
+    "modified": "2020-10-13T15:47:46.032980Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-10-13 15:47:46.009176+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-10-14 15:47:46.009130+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 9177308,
+      "created": "2020-10-13T15:47:46.236252Z",
+      "modified": "2020-10-13T15:47:46.236312Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 15518747,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "successful",
+  "collectionId": 15518747,
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "+254795078606",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5f85cc2235ae8f758054542c"
+  },
+  "createdAt": {
+    "$date": "2020-10-13T15:47:46.310Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T15:50:47.801Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5f8993c135ae8f75805454cb"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8990b735ae8f75805454c7"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-16T12:36:17.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T12:36:17.216Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ae9af35ae8f75805454fe"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8990b735ae8f75805454c7"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-17T12:55:11.658Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T12:55:11.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8aec0135ae8f7580545505"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8990b735ae8f75805454c7"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-17T13:05:05.891Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T13:05:05.891Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8aec2f35ae8f7580545507"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8990b735ae8f75805454c7"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-17T13:05:51.893Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T13:05:51.893Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8aecb035ae8f758054550c"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8aebd535ae8f7580545504"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-17T13:08:00.819Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T13:08:00.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8aecdf35ae8f758054550e"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8aebd535ae8f7580545504"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-17T13:08:47.282Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T13:08:47.282Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8aed3235ae8f7580545513"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8aebd535ae8f7580545504"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-17T13:10:10.354Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T13:10:10.354Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8aed5c35ae8f7580545515"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8aebd535ae8f7580545504"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-17T13:10:52.536Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T13:10:52.536Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d74e635ae8f7580545577"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8d746e35ae8f7580545576"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-19T11:13:42.197Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T11:13:42.197Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d74f035ae8f7580545579"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8d746e35ae8f7580545576"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-19T11:13:52.519Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T11:13:52.519Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d77eb35ae8f758054557e"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8d746e35ae8f7580545576"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-19T11:26:35.507Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T11:26:35.507Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d77ff35ae8f7580545580"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f8d746e35ae8f7580545576"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-19T11:26:55.402Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T11:26:55.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a914ef2000f6ded37a202"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f9972dcf2000f6ded37a1d6"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T09:54:22.272Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T09:54:22.272Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a917af2000f6ded37a204"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f9972dcf2000f6ded37a1d6"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T09:55:06.022Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T09:55:06.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a91f4f2000f6ded37a209"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f9972dcf2000f6ded37a1d6"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T09:57:08.605Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T09:57:08.605Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a920cf2000f6ded37a20b"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f9972dcf2000f6ded37a1d6"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T09:57:32.629Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T09:57:32.629Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a924bf2000f6ded37a210"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f9972dcf2000f6ded37a1d6"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T09:58:36.001Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T09:58:36.001Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9265f2000f6ded37a212"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f9972dcf2000f6ded37a1d6"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T09:59:01.406Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T09:59:01.406Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a92baf2000f6ded37a218"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f9972dcf2000f6ded37a1d6"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:00:26.482Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:00:26.482Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a92cef2000f6ded37a21a"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f9972dcf2000f6ded37a1d6"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:00:46.734Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:00:46.734Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9a1bf2000f6ded37a21f"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:31:55.332Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:31:55.332Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9a8ef2000f6ded37a221"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:33:50.992Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:33:50.992Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9b97f2000f6ded37a227"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:38:15.027Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:38:15.027Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9bcdf2000f6ded37a229"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:39:09.329Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:39:09.329Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9c66f2000f6ded37a22e"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:41:42.259Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:41:42.259Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9c6cf2000f6ded37a230"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:41:48.771Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:41:48.771Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9d45f2000f6ded37a236"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:45:25.512Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:45:25.512Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9d53f2000f6ded37a238"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:45:39.564Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:45:39.564Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9d99f2000f6ded37a23d"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:46:49.008Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:46:49.008Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9da4f2000f6ded37a23f"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:47:00.326Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:47:00.326Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9ec2f2000f6ded37a244"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:51:46.744Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:51:46.744Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9eecf2000f6ded37a246"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:52:28.310Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:52:28.310Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9f16f2000f6ded37a24b"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:53:10.040Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:53:10.040Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9f7ff2000f6ded37a24d"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:54:55.634Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:54:55.634Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9fa2f2000f6ded37a252"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:55:30.976Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:55:30.976Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9fc4f2000f6ded37a254"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:56:04.555Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:56:04.555Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a9ff7f2000f6ded37a259"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:56:55.089Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:56:55.089Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aa00ef2000f6ded37a25b"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:57:18.566Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:57:18.566Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aa04ef2000f6ded37a260"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:58:22.287Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:58:22.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aa062f2000f6ded37a262"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f997fc0f2000f6ded37a1d9"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T10:58:42.203Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T10:58:42.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aaa1ef2000f6ded37a268"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:40:14.227Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:40:14.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aaa25f2000f6ded37a26a"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:40:21.887Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:40:21.887Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aaab3f2000f6ded37a26f"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:42:43.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:42:43.985Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aaaddf2000f6ded37a271"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:43:25.058Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:43:25.058Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aab01f2000f6ded37a276"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:44:01.856Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:44:01.856Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aab1ff2000f6ded37a278"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:44:31.962Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:44:31.962Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aab61f2000f6ded37a27e"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:45:37.757Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:45:37.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aab71f2000f6ded37a280"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:45:53.631Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:45:53.631Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aabb3f2000f6ded37a285"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:46:59.221Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:46:59.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aabdff2000f6ded37a287"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:47:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:47:43.636Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aac30f2000f6ded37a28c"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:49:04.328Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:49:04.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aad36f2000f6ded37a28e"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:53:26.314Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:53:26.314Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aad70f2000f6ded37a293"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:54:24.223Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:54:24.223Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aad7ef2000f6ded37a295"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:54:38.895Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:54:38.895Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aadb1f2000f6ded37a29a"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:55:29.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:55:29.653Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aaddaf2000f6ded37a29c"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:56:10.224Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:56:10.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aae0af2000f6ded37a2a1"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:56:58.593Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:56:58.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aae66f2000f6ded37a2a3"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T11:58:30.314Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T11:58:30.314Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aaee6f2000f6ded37a2a9"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:00:38.562Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:00:38.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aaf07f2000f6ded37a2ac"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:01:11.909Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:01:11.909Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9aaf44f2000f6ded37a2b0"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:02:12.620Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:02:12.620Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab00df2000f6ded37a2b3"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:05:33.933Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:05:33.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab027f2000f6ded37a2b7"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:05:59.652Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:05:59.652Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab066f2000f6ded37a2ba"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:07:02.173Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:07:02.173Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab084f2000f6ded37a2be"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:07:32.031Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:07:32.031Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab16df2000f6ded37a2c1"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:11:25.423Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:11:25.423Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab1fef2000f6ded37a2c5"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:13:50.263Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:13:50.263Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab21ef2000f6ded37a2c8"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:14:22.057Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:14:22.057Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab259f2000f6ded37a2cd"
+  },
+  "userId": {
+    "$oid": "5f352be94e300b61729e7511"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:15:21.832Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:15:21.832Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9ab290f2000f6ded37a2cf"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5f999881f2000f6ded37a1de"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-10-29T12:16:16.175Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-29T12:16:16.175Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa4fd10f2000f6ded37a518"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:36:48.710Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:36:48.710Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa4fd6bf2000f6ded37a51a"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:38:19.474Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:38:19.474Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa4ff6af2000f6ded37a520"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:46:50.579Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:46:50.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50013f2000f6ded37a522"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:49:39.466Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:49:39.466Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50102f2000f6ded37a527"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:53:38.311Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:53:38.311Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50156f2000f6ded37a529"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:55:02.026Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:55:02.026Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa501b9f2000f6ded37a52e"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:56:41.590Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:56:41.590Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa501edf2000f6ded37a530"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:57:33.812Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:57:33.812Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50264f2000f6ded37a535"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T07:59:32.864Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T07:59:32.864Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa502b5f2000f6ded37a538"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:00:53.580Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:00:53.580Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50358f2000f6ded37a53d"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:03:36.543Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:03:36.543Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa5041df2000f6ded37a53f"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:06:53.088Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:06:53.088Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa504c1f2000f6ded37a544"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:09:37.328Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:09:37.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50543f2000f6ded37a546"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:11:47.907Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:11:47.907Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa506ebf2000f6ded37a54b"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:18:51.469Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:18:51.469Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa507b3f2000f6ded37a54d"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:22:11.072Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:22:11.072Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa507f7f2000f6ded37a552"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:23:19.289Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:23:19.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50a75f2000f6ded37a554"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:33:57.727Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:33:57.727Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50abbf2000f6ded37a559"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:35:07.627Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:35:07.627Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa50acff2000f6ded37a55b"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fa4ed76f2000f6ded37a515"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-06T08:35:27.140Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-06T08:35:27.140Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa95342f2000f6ded37a61e"
+  },
+  "apiResponse": {
+    "id": 17263532,
+    "organization": 14220,
+    "amount": "104.0000",
+    "currency": "KES",
+    "phonenumber": "+80000000123",
+    "contact": {
+      "id": 5582597,
+      "organization": 14220,
+      "first_name": "asdf",
+      "last_name": "asdf",
+      "email": null,
+      "phone_number": "+80000000123",
+      "type": "employee",
+      "status": "active",
+      "phone_is_supported": "yes",
+      "phone_is_mm_registered": "yes",
+      "name_on_network": "Insufficient Data Or Too Low Score",
+      "name_matches_network_status": "checked",
+      "name_matches_network_score": 24,
+      "network_name": "",
+      "created": "2020-06-07T14:12:55Z",
+      "author": 18502,
+      "modified": "2020-10-03T11:46:28Z",
+      "updated_by": 18502,
+      "national_id": null,
+      "national_id_type": "national"
+    },
+    "reason": "JIWEMAN INC",
+    "metadata": {
+      "type": "ADD_TO_WALLET",
+      "originalAmount": "100"
+    },
+    "created": "2020-11-09T14:33:38.513419Z",
+    "author": 18502,
+    "modified": "2020-11-09T14:33:38.513515Z",
+    "updated_by": 18502,
+    "collection": null,
+    "account": null,
+    "success_message": "",
+    "instructions": null,
+    "send_instructions": true,
+    "instructions_sent": false,
+    "subscription_settings": null,
+    "status": "pending",
+    "start_date": "2020-11-09 14:33:38.478797+00:00",
+    "error_message": "",
+    "error_details": "",
+    "expiry_date": "2020-11-10 14:33:38.478753+00:00",
+    "max_attempts": 3,
+    "retry_interval_minutes": 10,
+    "attempts": 0,
+    "timings": {
+      "id": 11021520,
+      "created": "2020-11-09T14:33:38.721353Z",
+      "modified": "2020-11-09T14:33:38.721421Z",
+      "instructions_sent": null,
+      "collection_received": null,
+      "collection_matched": null,
+      "ipn_sent": null,
+      "request": 17263532,
+      "author": 18502,
+      "updated_by": 18502
+    }
+  },
+  "status": "pending",
+  "collectionId": 17263532,
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "phoneNumber": "80000000123",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "5fa95342f2000f6ded37a61d"
+  },
+  "createdAt": {
+    "$date": "2020-11-09T14:33:38.784Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-09T15:19:32.361Z"
+  },
+  "__v": 0,
+  "amount": "104.0000",
+  "currency": "KES"
+},{
+  "_id": {
+    "$oid": "5fae69bbf2000f6ded37a6de"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:10:51.509Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:10:51.509Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae69edf2000f6ded37a6e0"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:11:41.579Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:11:41.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6c33f2000f6ded37a6e6"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:21:23.382Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:21:23.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6cf7f2000f6ded37a6e9"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:24:39.551Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:24:39.551Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6db6f2000f6ded37a6ed"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:27:50.689Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:27:50.689Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6dc5f2000f6ded37a6ef"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:28:05.285Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:28:05.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6e34f2000f6ded37a6f4"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:29:56.779Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:29:56.779Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6e41f2000f6ded37a6f6"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:30:09.807Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:30:09.807Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6e76f2000f6ded37a6fb"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:31:02.287Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:31:02.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6ebff2000f6ded37a6fd"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:32:15.545Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:32:15.545Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae6f11f2000f6ded37a702"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:33:37.831Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:33:37.831Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae70ccf2000f6ded37a704"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:41:00.084Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:41:00.084Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae70f9f2000f6ded37a709"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:41:45.499Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:41:45.499Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae710cf2000f6ded37a70b"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:42:04.858Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:42:04.858Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae7180f2000f6ded37a710"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:44:00.085Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:44:00.085Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae7186f2000f6ded37a712"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:44:06.580Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:44:06.580Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae724df2000f6ded37a718"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:47:25.473Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:47:25.473Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae7255f2000f6ded37a71a"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:47:33.600Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:47:33.600Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae7293f2000f6ded37a71f"
+  },
+  "userId": {
+    "$oid": "5e54bfbf7280153b30a7ffda"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:48:35.584Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:48:35.584Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae72a4f2000f6ded37a721"
+  },
+  "userId": {
+    "$oid": "5ed51e7978d655462d4b1984"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fae627cf2000f6ded37a6db"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2020-11-13T11:48:52.539Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-13T11:48:52.539Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600021001d7f0722efc5ac85"
+  },
+  "userId": {
+    "$oid": "5fe031316c1732725fb6cc0e"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fd75f64d2f01256aef37fda"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "+91 83798-57127",
+  "createdAt": {
+    "$date": "2021-01-14T10:46:24.432Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-14T10:46:24.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600021811d7f0722efc5ac87"
+  },
+  "userId": {
+    "$oid": "5ed7665fc6a172520171b8bd"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5fd75f64d2f01256aef37fda"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-01-14T10:48:33.792Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-14T10:48:33.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60145ac3badd8406cccf3747"
+  },
+  "userId": {
+    "$oid": "5ef506b510c6f70829192886"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "5ffdad121d7f0722efc5ac28"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-01-29T18:58:11.357Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-29T18:58:11.357Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60145b16badd8406cccf3749"
+  },
+  "userId": {
+    "$oid": "5ef506b510c6f70829192886"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "60055094015ac7201a9628ca"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-01-29T18:59:34.695Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-29T18:59:34.695Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6018d4b76da1c27ee54d8691"
+  },
+  "userId": {
+    "$oid": "5dfb0ac1e3a3722f704a8014"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "6018ce55badd8406cccf380b"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-02-02T04:27:35.791Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-02T04:27:35.791Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6018d5066da1c27ee54d8693"
+  },
+  "userId": {
+    "$oid": "5ef506b510c6f70829192886"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "6018ce55badd8406cccf380b"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-02-02T04:28:54.818Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-02T04:28:54.818Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601c42a4c3c4265a6b005905"
+  },
+  "apiResponse": {
+    "phonenumber": [
+      "['Phonenumber +212000000000 can not be processed by any handler']"
+    ]
+  },
+  "userId": {
+    "$oid": "5ef506b510c6f70829192886"
+  },
+  "phoneNumber": "212000000000",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "601c42a4c3c4265a6b005904"
+  },
+  "createdAt": {
+    "$date": "2021-02-04T18:53:24.097Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-04T18:53:24.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60252252e7b63d635c2d157e"
+  },
+  "userId": {
+    "$oid": "5ed7665fc6a172520171b8bd"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "6022da809bf89e04d1209eff"
+  },
+  "currency": "KES",
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-02-11T12:25:54.727Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-11T12:25:54.727Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605dd2f2d880921528ff2f2a"
+  },
+  "userId": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "605b44a939ef786cd7ca6ffe"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-03-26T12:26:26.157Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-26T12:26:26.157Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605dde92d880921528ff2f2e"
+  },
+  "userId": {
+    "$oid": "602a42b0e7b63d635c2d1643"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "603ceea1e815742169bd0ff5"
+  },
+  "amount": "0",
+  "phoneNumber": "+2548379857127",
+  "createdAt": {
+    "$date": "2021-03-26T13:16:02.432Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-26T13:16:02.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60612019d880921528ff3054"
+  },
+  "userId": {
+    "$oid": "5dfb0ac1e3a3722f704a8014"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "603ceea1e815742169bd0ff5"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-03-29T00:32:25.328Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-29T00:32:25.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6065c9cfc30b2018669fb891"
+  },
+  "userId": {
+    "$oid": "602b46520a7f043a6a715e70"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "605b44a939ef786cd7ca6ffe"
+  },
+  "amount": "0",
+  "phoneNumber": "+2548379857127",
+  "createdAt": {
+    "$date": "2021-04-01T13:25:35.680Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-01T13:25:35.680Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6065ca59c30b2018669fb895"
+  },
+  "userId": {
+    "$oid": "5dfb0ac1e3a3722f704a8014"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "605b44a939ef786cd7ca6ffe"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-04-01T13:27:53.878Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-01T13:27:53.878Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8c27510f7305e48d311b"
+  },
+  "userId": {
+    "$oid": "6040a871e815742169bd10dd"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-11T13:52:39.865Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:52:39.865Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8c69510f7305e48d311d"
+  },
+  "userId": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-11T13:53:45.458Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:53:45.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8d52510f7305e48d3128"
+  },
+  "userId": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-11T13:57:38.938Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:57:38.938Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8d7c510f7305e48d312a"
+  },
+  "userId": {
+    "$oid": "6040a871e815742169bd10dd"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-11T13:58:20.258Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T13:58:20.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8e38510f7305e48d3137"
+  },
+  "userId": {
+    "$oid": "6040a871e815742169bd10dd"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-11T14:01:28.741Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T14:01:28.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609a8e61510f7305e48d3139"
+  },
+  "userId": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "60991c70cac0ae21fa3056f4"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-11T14:02:09.545Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-11T14:02:09.545Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a874d1baf0024370b6e91e"
+  },
+  "userId": {
+    "$oid": "5ef3cbce10c6f7082919285f"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "609bb6f5510f7305e48d3249"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-22T03:04:49.408Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T03:04:49.408Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a874d2baf0024370b6e920"
+  },
+  "userId": {
+    "$oid": "5ef506b510c6f70829192886"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "609bb6f5510f7305e48d3249"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-22T03:04:50.202Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T03:04:50.202Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a876cbbaf0024370b6e924"
+  },
+  "userId": {
+    "$oid": "5dfb0ac1e3a3722f704a8014"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "609bb6f5510f7305e48d3249"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-22T03:13:15.780Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T03:13:15.780Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a95d6bbaf0024370b6e959"
+  },
+  "userId": {
+    "$oid": "602b46520a7f043a6a715e70"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "609bb6f5510f7305e48d3249"
+  },
+  "amount": "0",
+  "phoneNumber": "+2548379857127",
+  "createdAt": {
+    "$date": "2021-05-22T19:37:15.755Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T19:37:15.755Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a95d71baf0024370b6e95b"
+  },
+  "userId": {
+    "$oid": "6040a85ee815742169bd10dc"
+  },
+  "status": "successful",
+  "leagueId": {
+    "$oid": "609bb6f5510f7305e48d3249"
+  },
+  "amount": "0",
+  "phoneNumber": "",
+  "createdAt": {
+    "$date": "2021-05-22T19:37:21.078Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T19:37:21.078Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dd31ca3533b76ef9c119da"
+  },
+  "apiResponse": {},
+  "userId": {
+    "$oid": "5dfb0ac1e3a3722f704a8014"
+  },
+  "phoneNumber": "254703247150",
+  "collectionType": "ADD_TO_WALLET",
+  "walletId": {
+    "$oid": "60dd31ca3533b76ef9c119d9"
+  },
+  "createdAt": {
+    "$date": "2021-07-01T03:08:58.141Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T03:08:58.141Z"
+  },
+  "__v": 0
+}]

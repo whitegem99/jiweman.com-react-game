@@ -1,0 +1,41 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+server/node_modules/*
+node_modules/*
+server/log/*
+client/node_modules/*
+server/package-lock.json
+client/package-lock.json
+report.*
+package-lock.json
+/~/
+dist/
+server/settings.json
+
+# e2e
+client/e2e/*.js
+client/e2e/*.map
+
+# misc
+client/.sass-cache
+client/connect.lock
+client/coverage
+client/libpeerconnection.log
+client/npm-debug.log
+client/testem.log
+client/typings
+
+
+# IDE - VSCode
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# compiled output
+client/tmp
+client/out-tsc
+
+server/public/uploads*
+server/.env*
+server/player*
+server/master*

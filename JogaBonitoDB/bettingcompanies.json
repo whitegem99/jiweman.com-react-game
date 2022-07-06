@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "5fe075f76c1732725fb6cc1a"
+  },
+  "name": "jiweman INC",
+  "country": "Kenya",
+  "apiToken": "e4c5ea0d17ad26ebb4ce2ef67c613791cfc0e527",
+  "status": "Active",
+  "__v": 0,
+  "referralSetting": [
+    {
+      "event": "bet_purchase",
+      "amount": 10,
+      "title": "First Bet purchase"
+    }
+  ],
+  "multi": true
+},{
+  "_id": {
+    "$oid": "6018eb886da1c27ee54d8699"
+  },
+  "referralSetting": [],
+  "name": "Joga Bonito",
+  "country": "Kenya",
+  "apiToken": "e4c5ea0d17ad26ebb4ce2ef67c613791cfc0e527",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601cf720c3c4265a6b005920"
+  },
+  "referralSetting": [],
+  "name": "Testing Betting Company",
+  "country": "Rwanda",
+  "apiToken": "e4c5ea0d17ad26ebb4ce2ef67c613791cfc0e527",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601cf75ec3c4265a6b005922"
+  },
+  "referralSetting": [],
+  "name": "Testing Betting Company",
+  "country": "Rwanda",
+  "apiToken": "e4c5ea0d17ad26ebb4ce2ef67c613791cfc0e527",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601e431d2868a7579dbbc24e"
+  },
+  "referralSetting": [
+    {
+      "event": "signin",
+      "amount": "20"
+    }
+  ],
+  "name": "jiweman",
+  "country": "Kenya",
+  "apiToken": "e4c5ea0d17ad26ebb4ce2ef67c613791cfc0e527",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6023a26bedb02d368c00fc32"
+  },
+  "referralSetting": [],
+  "name": "dummyCompany",
+  "country": "Rwanda",
+  "apiToken": "e4c5ea0d17ad26ebb4ce2ef67c613791cfc0e527",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602a3f91e7b63d635c2d1640"
+  },
+  "referralSetting": [],
+  "name": "Joga Bonito ",
+  "country": "Kenya",
+  "apiToken": "42488b10b79eb74cfbe62479fb4f3c19c93a8a8f",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602e15d70a7f043a6a715ef7"
+  },
+  "referralSetting": [],
+  "name": "Kenyans",
+  "country": "Kenya",
+  "apiToken": "42488b10b79eb74cfbe62479fb4f3c19c93a8a8f",
+  "status": "Initiated",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60688a6f7ceafa406dcaedfb"
+  },
+  "referralSetting": [],
+  "name": "rupesh test",
+  "country": "Kenya",
+  "apiToken": "e4c5ea0d17ad26ebb4ce2ef67c613791cfc0e527",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607d052c3323e87ad86278ef"
+  },
+  "referralSetting": [],
+  "name": "Demo",
+  "country": "Ghana",
+  "apiToken": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.",
+  "status": "Active",
+  "__v": 0
+}]
